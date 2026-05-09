@@ -26,7 +26,9 @@ import requests
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SCRAPER_DIR = REPO_ROOT / "scraper"
-WEB_DIR = REPO_ROOT / "web"
+# GitHub Pages classic only serves from / (root) or /docs, so we publish
+# the static site (index.html, prices.json, icons, sw.js, manifest) under docs/.
+WEB_DIR = REPO_ROOT / "docs"
 
 ITEMS_PATH = SCRAPER_DIR / "items.json"
 HISTORY_PATH = SCRAPER_DIR / "price_history.json"
