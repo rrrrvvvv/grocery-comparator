@@ -41,6 +41,7 @@ USER_AGENT = "GroceryComparator/1.0 (personal-use; contact via repo issues)"
 
 # Per-item history points to keep
 HISTORY_KEEP_DAYS = 90
+# Bumped: merchant allowlist support added.
 
 
 # ---------------------------------------------------------------------------
@@ -116,6 +117,24 @@ def _matches_filters(name: str, filters: dict | None) -> bool:
     if any(t and t in n for t in excl):
         return False
     return True
+
+
+def _merchant_allowed(merchant: str,
+                      allowlist: list[str] | None,
+                      blocklist: list[str] | None) -> bool:
+    """Apply the global merchant allowlist + blocklist from items.json.
+    Substring match, case-insensitive."""
+    if not merchant:
+        return False
+    m = _normalize(merchant)
+    if blocklist:
+        for b in blocklist:
+            bn = _normalize(b)
+            if bn and bn in m:
+                return False
+    if allowlist:
+        return any(_normalize(a) in m for a in allowlist if a)
+    return True  # no allowlist = allow anything (just blocklist)
 
 
 def _parse_price(raw: Any) -> float | None:
@@ -265,7 +284,9 @@ def compute_thresholds(history_points: list[dict]) -> dict:
 
 def process_item(item: dict, postal_code: str,
                  history: dict[str, list[dict]],
-                 session: requests.Session) -> ItemResult:
+                 session: requests.Session,
+                 merchant_allowlist: list[str] | None = None,
+                 merchant_blocklist: list[str] | None = None) -> ItemResult:
     item_id = item["id"]
     res = ItemResult(
         id=item_id,
@@ -297,6 +318,8 @@ def process_item(item: dict, postal_code: str,
         if not o.price or not o.merchant or not o.name:
             continue
         if not offer_is_active(o):
+            continue
+        if not _merchant_allowed(o.merchant, merchant_allowlist, merchant_blocklist):
             continue
         if not _matches_filters(o.name, filters):
             continue
@@ -365,14 +388,21 @@ def main() -> int:
         print("[scrape] no items configured in items.json")
         return 1
 
+    merchant_allowlist = items_doc.get("merchants") or []
+    merchant_blocklist = items_doc.get("merchants_exclude") or []
+
     history = load_history()
     session = requests.Session()
     results: list[ItemResult] = []
 
-    print(f"[scrape] postal={postal}  items={len(items)}")
+    print(f"[scrape] postal={postal}  items={len(items)}  "
+          f"allowlist={len(merchant_allowlist)} merchants  "
+          f"blocklist={len(merchant_blocklist)}")
     for i, item in enumerate(items, 1):
         print(f"[scrape]  ({i}/{len(items)}) {item.get('name', item.get('id'))}", flush=True)
-        res = process_item(item, postal, history, session)
+        res = process_item(item, postal, history, session,
+                           merchant_allowlist=merchant_allowlist,
+                           merchant_blocklist=merchant_blocklist)
         if res.notes:
             for n in res.notes:
                 print(f"           note: {n}")
