@@ -45,7 +45,7 @@ jobs:
         run: |
           git config user.name "grocery-bot"
           git config user.email "grocery-bot@users.noreply.github.com"
-          git add web/prices.json scraper/price_history.json
+          git add docs/prices.json scraper/price_history.json
           if git diff --cached --quiet; then
             echo "No price changes to commit."
           else
