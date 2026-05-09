@@ -1,0 +1,54 @@
+name: scrape-prices
+
+on:
+  schedule:
+    # 11:30 UTC = 04:30 PT / 07:30 ET — runs once a day after most flyers refresh.
+    - cron: "30 11 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scraper/items.json"
+      - "scraper/scrape.py"
+      - ".github/workflows/scrape.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-prices
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Run scraper
+        env:
+          POSTAL_CODE: ${{ vars.POSTAL_CODE || secrets.POSTAL_CODE }}
+        run: python scraper/scrape.py
+
+      - name: Commit results
+        run: |
+          git config user.name "grocery-bot"
+          git config user.email "grocery-bot@users.noreply.github.com"
+          git add web/prices.json scraper/price_history.json
+          if git diff --cached --quiet; then
+            echo "No price changes to commit."
+          else
+            git commit -m "scrape: refresh prices ($(date -u +%Y-%m-%d))"
+            git push
+          fi
