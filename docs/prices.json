@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T14:20:56+00:00",
+  "generated_at": "2026-05-22T13:43:07+00:00",
   "postal_code": "V5K0A1",
   "items": [
     {
@@ -12,18 +12,30 @@
         "value": 1,
         "unit": "lb"
       },
-      "best_price": null,
-      "best_unit_price": null,
-      "median_price": null,
+      "best_price": 5.77,
+      "best_unit_price": 5.77,
+      "median_price": 5.77,
       "thresholds": {
         "good": 3.57,
         "fair": 3.57,
         "min_seen": 3.57,
-        "max_seen": 3.57,
-        "samples": 5
+        "max_seen": 5.77,
+        "samples": 6
       },
       "user_good_price": null,
-      "offers": [],
+      "offers": [
+        {
+          "merchant": "T&T Supermarket",
+          "name": "PEARL DELIGHT STEAMED BANANA, 454G",
+          "price": 5.77,
+          "pre_price_text": "2/",
+          "post_price_text": "or 3.45/ea",
+          "sale_story": null,
+          "valid_from": "2026-05-22T04:00:00+00:00",
+          "valid_to": "2026-05-29T03:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/421182508/1779318548/extra_large.jpg"
+        }
+      ],
       "history": [
         {
           "date": "2026-05-09",
@@ -44,6 +56,10 @@
         {
           "date": "2026-05-14",
           "best_price": 3.57
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 5.77
         }
       ],
       "notes": []
@@ -58,18 +74,29 @@
         "value": 1,
         "unit": "lb"
       },
-      "best_price": 2.5,
-      "best_unit_price": 2.5,
+      "best_price": 1.88,
+      "best_unit_price": 1.88,
       "median_price": 4.0,
       "thresholds": {
         "good": 1.99,
         "fair": 2.29,
-        "min_seen": 1.99,
+        "min_seen": 1.88,
         "max_seen": 2.5,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
+        {
+          "merchant": "T&T Supermarket",
+          "name": "COSMIC CRISP APPLE",
+          "price": 1.88,
+          "pre_price_text": null,
+          "post_price_text": "/lb",
+          "sale_story": null,
+          "valid_from": "2026-05-22T04:00:00+00:00",
+          "valid_to": "2026-05-29T03:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/421182541/1779318551/extra_large.jpg"
+        },
         {
           "merchant": "Loblaws",
           "name": "FUJI APPLES",
@@ -124,17 +151,6 @@
           "valid_from": "2026-05-21T07:00:00+00:00",
           "valid_to": "2026-05-28T03:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/420974916/1779220917/extra_large.jpg"
-        },
-        {
-          "merchant": "T&T Supermarket",
-          "name": "APPLE SIDRA APPLE SODA, 330MLX6",
-          "price": 5.48,
-          "pre_price_text": null,
-          "post_price_text": "/ea",
-          "sale_story": null,
-          "valid_from": "2026-05-15T04:00:00+00:00",
-          "valid_to": "2026-05-22T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/420369386/1778704647/extra_large.jpg"
         },
         {
           "merchant": "No Frills",
@@ -207,6 +223,10 @@
         {
           "date": "2026-05-21",
           "best_price": 2.5
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 1.88
         }
       ],
       "notes": []
@@ -229,7 +249,7 @@
         "fair": 4.99,
         "min_seen": 1.99,
         "max_seen": 5.99,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -293,6 +313,10 @@
         {
           "date": "2026-05-21",
           "best_price": 5.99
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 5.99
         }
       ],
       "notes": []
@@ -312,10 +336,10 @@
       "median_price": 3.98,
       "thresholds": {
         "good": 1.99,
-        "fair": 4.0,
+        "fair": 2.99,
         "min_seen": 1.99,
         "max_seen": 5.0,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -390,6 +414,10 @@
         {
           "date": "2026-05-21",
           "best_price": 2.99
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 2.99
         }
       ],
       "notes": []
@@ -404,28 +432,28 @@
         "value": 1,
         "unit": "lb"
       },
-      "best_price": 2.47,
-      "best_unit_price": 2.47,
-      "median_price": 2.47,
+      "best_price": 5.28,
+      "best_unit_price": 5.28,
+      "median_price": 5.28,
       "thresholds": {
         "good": 2.47,
         "fair": 2.47,
         "min_seen": 2.47,
-        "max_seen": 2.47,
-        "samples": 12
+        "max_seen": 5.28,
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
         {
-          "merchant": "Walmart",
-          "name": "Curry Leaf Onion Ready To Cook Paratha 400 G",
-          "price": 2.47,
-          "pre_price_text": null,
-          "post_price_text": null,
+          "merchant": "T&T Supermarket",
+          "name": "GARDEN POP PAN SPRING ONION CRACKERS, 200G",
+          "price": 5.28,
+          "pre_price_text": "2/",
+          "post_price_text": "or $2.87/ea",
           "sale_story": null,
-          "valid_from": null,
-          "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9lOTY4NmM4OTdlNzY0YWM0MmI0YzYzYzkzMjE5NjE3OS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlsT1RZNE5tTTRPVGRsTnpZMFlXTTBNbUkwWXpZell6a3pNakU1TmpFM09TOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTk3ODAwN319fV19&Signature=Q0wkzWLJ5tIzJ1~gCvFvBrv7csnxMExejApxBwF-lnrI9uWAVAVw61w6k7ezxL9bDKukNsnc5VTEVahd-rURZR52nIkIeUHDbZ-O2KrNDug5WkGk61ZMH6TaebaaRUdSM2Mnl68kJvGgKAYOzJZVkjlyWRRFivwnuNLQdCEeksBh~aLoGmmUIKNTqjgUEL2K6LSTpxOYYSBGK05rjZRbV74KT40kylKiEeLI4zap8sWMitcp9w-1TSW2BRvEOwk0VmuH1hu2Ao2~lNXPtueT6Gf1ZKV3en4UcYRpP6shcPTGSDt~2D-TcrZN5tpxYdh-jCpqUGU90Wzcw-hhMzF4EA__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "valid_from": "2026-05-22T04:00:00+00:00",
+          "valid_to": "2026-05-29T03:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/421182456/1779318537/extra_large.jpg"
         }
       ],
       "history": [
@@ -476,6 +504,10 @@
         {
           "date": "2026-05-21",
           "best_price": 2.47
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 5.28
         }
       ],
       "notes": []
@@ -498,7 +530,7 @@
         "fair": 5.0,
         "min_seen": 1.35,
         "max_seen": 5.0,
-        "samples": 10
+        "samples": 11
       },
       "user_good_price": null,
       "offers": [
@@ -565,6 +597,10 @@
         {
           "date": "2026-05-21",
           "best_price": 5.0
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 5.0
         }
       ],
       "notes": []
@@ -587,7 +623,7 @@
         "fair": 1.28,
         "min_seen": 1.28,
         "max_seen": 2.98,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -673,6 +709,10 @@
         {
           "date": "2026-05-21",
           "best_price": 2.98
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 2.98
         }
       ],
       "notes": []
@@ -687,18 +727,30 @@
         "value": 1,
         "unit": "lb"
       },
-      "best_price": null,
-      "best_unit_price": null,
-      "median_price": null,
+      "best_price": 2.48,
+      "best_unit_price": 2.48,
+      "median_price": 2.48,
       "thresholds": {
-        "good": 2.43,
+        "good": 2.33,
         "fair": 2.99,
         "min_seen": 1.87,
         "max_seen": 2.99,
-        "samples": 11
+        "samples": 12
       },
       "user_good_price": null,
-      "offers": [],
+      "offers": [
+        {
+          "merchant": "T&T Supermarket",
+          "name": "CROWN BROCCOLI",
+          "price": 2.48,
+          "pre_price_text": null,
+          "post_price_text": "/lb",
+          "sale_story": null,
+          "valid_from": "2026-05-22T04:00:00+00:00",
+          "valid_to": "2026-05-29T03:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/421182530/1779318543/extra_large.jpg"
+        }
+      ],
       "history": [
         {
           "date": "2026-05-09",
@@ -743,6 +795,10 @@
         {
           "date": "2026-05-20",
           "best_price": 2.99
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 2.48
         }
       ],
       "notes": []
@@ -762,7 +818,7 @@
         "fair": 2.98,
         "min_seen": 2.98,
         "max_seen": 4.97,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -837,6 +893,10 @@
         {
           "date": "2026-05-21",
           "best_price": 4.97
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 4.97
         }
       ],
       "notes": []
@@ -855,11 +915,11 @@
       "best_unit_price": 2.94,
       "median_price": 4.99,
       "thresholds": {
-        "good": 2.59,
+        "good": 2.94,
         "fair": 5.49,
         "min_seen": 1.54,
         "max_seen": 5.49,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -934,6 +994,10 @@
         {
           "date": "2026-05-21",
           "best_price": 2.94
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 2.94
         }
       ],
       "notes": []
@@ -947,13 +1011,13 @@
       "unit_size": null,
       "best_price": 1.79,
       "best_unit_price": null,
-      "median_price": 4.99,
+      "median_price": 5.0,
       "thresholds": {
         "good": 1.99,
-        "fair": 2.5,
+        "fair": 1.99,
         "min_seen": 1.79,
         "max_seen": 3.0,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -967,17 +1031,6 @@
           "valid_from": "2026-05-21T07:00:00+00:00",
           "valid_to": "2026-05-28T03:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/420182096/1778659178/extra_large.jpg"
-        },
-        {
-          "merchant": "Nesters Market",
-          "name": "Long English Cucumber",
-          "price": 3.99,
-          "pre_price_text": null,
-          "post_price_text": "ea",
-          "sale_story": null,
-          "valid_from": "2026-05-21T07:00:00+00:00",
-          "valid_to": "2026-05-28T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/421214227/1779330587/extra_large.jpg"
         },
         {
           "merchant": "No Frills",
@@ -1002,17 +1055,6 @@
           "image_url": "https://f.wishabi.net/page_items/420312219/1779071988/extra_large.jpg"
         },
         {
-          "merchant": "Your Independent Grocer",
-          "name": "FARMER'S MARKET\u2122 ENGLISH CUCUMBERS, 3'S",
-          "price": 5.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-05-21T07:00:00+00:00",
-          "valid_to": "2026-05-28T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/420703578/1778910855/extra_large.jpg"
-        },
-        {
           "merchant": "Loblaws",
           "name": "FARMER'S MARKET\u2122 ENGLISH CUCUMBERS, 3'S",
           "price": 5.0,
@@ -1022,6 +1064,17 @@
           "valid_from": "2026-05-21T07:00:00+00:00",
           "valid_to": "2026-05-28T03:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/420703969/1778903419/extra_large.jpg"
+        },
+        {
+          "merchant": "Your Independent Grocer",
+          "name": "FARMER'S MARKET\u2122 ENGLISH CUCUMBERS, 3'S",
+          "price": 5.0,
+          "pre_price_text": null,
+          "post_price_text": null,
+          "sale_story": null,
+          "valid_from": "2026-05-21T07:00:00+00:00",
+          "valid_to": "2026-05-28T03:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/420703578/1778910855/extra_large.jpg"
         },
         {
           "merchant": "Choices Markets",
@@ -1082,6 +1135,10 @@
         },
         {
           "date": "2026-05-21",
+          "best_price": 1.79
+        },
+        {
+          "date": "2026-05-22",
           "best_price": 1.79
         }
       ],
@@ -1173,10 +1230,10 @@
       "median_price": 4.99,
       "thresholds": {
         "good": 1.87,
-        "fair": 2.92,
+        "fair": 1.87,
         "min_seen": 1.0,
         "max_seen": 4.99,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -1190,6 +1247,17 @@
           "valid_from": "2026-05-21T07:00:00+00:00",
           "valid_to": "2026-05-28T03:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/420974920/1779220918/extra_large.jpg"
+        },
+        {
+          "merchant": "T&T Supermarket",
+          "name": "AVOCADO, 5pcs",
+          "price": 3.98,
+          "pre_price_text": "Member Price",
+          "post_price_text": "/ea",
+          "sale_story": null,
+          "valid_from": "2026-05-22T04:00:00+00:00",
+          "valid_to": "2026-05-29T03:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/421182398/1779318534/extra_large.jpg"
         },
         {
           "merchant": "Real Canadian Superstore",
@@ -1306,6 +1374,10 @@
         {
           "date": "2026-05-21",
           "best_price": 1.0
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 1.0
         }
       ],
       "notes": []
@@ -1325,7 +1397,7 @@
         "fair": 0.88,
         "min_seen": 0.88,
         "max_seen": 0.88,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -1433,6 +1505,10 @@
         {
           "date": "2026-05-21",
           "best_price": 0.88
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 0.88
         }
       ],
       "notes": []
@@ -1452,7 +1528,7 @@
         "fair": 5.0,
         "min_seen": 1.99,
         "max_seen": 5.79,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -1582,6 +1658,10 @@
         {
           "date": "2026-05-21",
           "best_price": 1.99
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 1.99
         }
       ],
       "notes": []
@@ -1604,7 +1684,7 @@
         "fair": 8.99,
         "min_seen": 8.99,
         "max_seen": 9.99,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -1690,6 +1770,10 @@
         {
           "date": "2026-05-21",
           "best_price": 9.99
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 9.99
         }
       ],
       "notes": []
@@ -1709,10 +1793,10 @@
       "median_price": 5.99,
       "thresholds": {
         "good": 4.0,
-        "fair": 5.94,
+        "fair": 5.0,
         "min_seen": 4.0,
         "max_seen": 6.88,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -1798,6 +1882,10 @@
         {
           "date": "2026-05-21",
           "best_price": 5.0
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 5.0
         }
       ],
       "notes": []
@@ -1820,7 +1908,7 @@
         "fair": 3.99,
         "min_seen": 3.5,
         "max_seen": 15.0,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -1906,6 +1994,10 @@
         {
           "date": "2026-05-21",
           "best_price": 3.5
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 3.5
         }
       ],
       "notes": []
@@ -1928,7 +2020,7 @@
         "fair": 6.99,
         "min_seen": 5.87,
         "max_seen": 7.49,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -2080,6 +2172,10 @@
         {
           "date": "2026-05-21",
           "best_price": 5.87
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 5.87
         }
       ],
       "notes": []
@@ -2094,28 +2190,28 @@
         "value": 1,
         "unit": "lb"
       },
-      "best_price": 8.98,
-      "best_unit_price": 8.98,
-      "median_price": 8.98,
+      "best_price": 31.32,
+      "best_unit_price": 31.32,
+      "median_price": 31.32,
       "thresholds": {
         "good": 8.0,
         "fair": 8.0,
         "min_seen": 8.0,
-        "max_seen": 8.98,
-        "samples": 12
+        "max_seen": 31.32,
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
         {
           "merchant": "Walmart",
           "name": "Extra Lean Ground Beef, Your Fresh Market",
-          "price": 8.98,
+          "price": 31.32,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC80ODAzZGU3NjRiOWUyY2U5MmE1ODJmZTE4ZTIzYjBjYy9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgwT0RBelpHVTNOalJpT1dVeVkyVTVNbUUxT0RKbVpURTRaVEl6WWpCall5OXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTk3NDE1OH19fV19&Signature=VvqNjrfBO1sa4acBSW9JhOAeL7pTukI8u29S4yvZj3EWSIN15cb0ghkhFo4muB50E9c6vBOi1~TcNY~Jzf5Eb~aSSvG0s8yqTQfZwDXzdeem3IksPd7KwLD1Fnic6m~WFv6~4Gs5cPfPO9o5UD~S1tfgzrr15qFnfe4Nh5HYx-8fB84BzSyFcClgOo7mOypIiuxa1IgEHcRudiQ5uArLqVDCvu0Gon7CW4MpjHFkoPVaUiwJnoyW9MKXvfztAIoNHfICE20k2g2vCzuSIweeOZ0choPBIMrEwddaVFbxKk-B80DgolVT5tiPPQCMpk6pVGjkGsV8JZEYOEqlRQnEuQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC8yZTgxZmMzOTQxYTVlY2JiYzM1MzA4Y2I3NWFkODQ2Ni9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzh5WlRneFptTXpPVFF4WVRWbFkySmlZek0xTXpBNFkySTNOV0ZrT0RRMk5pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTk2OTYxNH19fV19&Signature=beytE7nqnzDvWLXvTpdHSxkgfAXElhjrtPEeRMWfrGIsdGlLczmFhJMbfTn7y~ah2Ws-zcqIKzRE~bWvE~cCDjLVvHeLnEgdXe-UVuGRhre1i4DATcjPKE6B2iUAewYUn3eJTfBqIi~MD2hWenMiAaLGGFxVjT~qMN9Q8LxXLxBJu245ycUApVSSfJwxXnpATVnhSFFmvYNlEDZ7kFAREsFhT~gsQkYvvFAqd4iEifvzEi-ru4CWagIcg4ywBmJ9iTO3AHsJHFVe87-OT25cqLt-dOM6CnVi1FdNvEEn-m4aUhwZG8eltawcfeHeCuhageD7sWw83Wnd9fdLzhO96A__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
@@ -2166,6 +2262,10 @@
         {
           "date": "2026-05-21",
           "best_price": 8.98
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 31.32
         }
       ],
       "notes": []
@@ -2188,31 +2288,20 @@
         "fair": 6.0,
         "min_seen": 6.0,
         "max_seen": 8.99,
-        "samples": 10
+        "samples": 11
       },
       "user_good_price": null,
       "offers": [
         {
           "merchant": "Walmart",
-          "name": "Maple Leaf Prime extra lean ground chicken or turkey",
+          "name": "Maple Leaf Prime extra lean ground turkey",
           "price": 7.98,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
           "valid_from": "2026-05-21T07:00:00+00:00",
           "valid_to": "2026-05-28T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/420202797/1778639679/extra_large.jpg"
-        },
-        {
-          "merchant": "Your Independent Grocer",
-          "name": "PC\u00ae BLUE MENU\u00ae GROUND CHICKEN OR MINCED TURKEY, 454 G",
-          "price": 9.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-05-21T07:00:00+00:00",
-          "valid_to": "2026-05-28T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/420703575/1778910853/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/420202796/1778639678/extra_large.jpg"
         },
         {
           "merchant": "Loblaws",
@@ -2224,6 +2313,17 @@
           "valid_from": "2026-05-21T07:00:00+00:00",
           "valid_to": "2026-05-28T03:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/420703966/1778903416/extra_large.jpg"
+        },
+        {
+          "merchant": "Your Independent Grocer",
+          "name": "PC\u00ae BLUE MENU\u00ae GROUND CHICKEN OR MINCED TURKEY, 454 G",
+          "price": 9.0,
+          "pre_price_text": null,
+          "post_price_text": null,
+          "sale_story": null,
+          "valid_from": "2026-05-21T07:00:00+00:00",
+          "valid_to": "2026-05-28T03:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/420703575/1778910853/extra_large.jpg"
         }
       ],
       "history": [
@@ -2266,6 +2366,10 @@
         {
           "date": "2026-05-21",
           "best_price": 7.98
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 7.98
         }
       ],
       "notes": []
@@ -2285,10 +2389,10 @@
       "median_price": 3.99,
       "thresholds": {
         "good": 3.0,
-        "fair": 3.25,
+        "fair": 3.0,
         "min_seen": 2.99,
         "max_seen": 3.49,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -2396,6 +2500,10 @@
         {
           "date": "2026-05-21",
           "best_price": 2.99
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 2.99
         }
       ],
       "notes": []
@@ -2414,11 +2522,11 @@
       "best_unit_price": 0.0159,
       "median_price": 5.97,
       "thresholds": {
-        "good": 4.98,
+        "good": 5.47,
         "fair": 5.97,
         "min_seen": 3.99,
         "max_seen": 5.97,
-        "samples": 3
+        "samples": 4
       },
       "user_good_price": null,
       "offers": [
@@ -2446,6 +2554,10 @@
         {
           "date": "2026-05-21",
           "best_price": 5.97
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 5.97
         }
       ],
       "notes": []
@@ -2462,13 +2574,13 @@
       },
       "best_price": 3.99,
       "best_unit_price": 3.99,
-      "median_price": 4.99,
+      "median_price": 10.97,
       "thresholds": {
         "good": 3.99,
-        "fair": 4.24,
+        "fair": 3.99,
         "min_seen": 3.99,
         "max_seen": 4.49,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -2493,6 +2605,17 @@
           "valid_from": "2026-05-21T07:00:00+00:00",
           "valid_to": "2026-05-28T03:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/420539593/1778825442/extra_large.jpg"
+        },
+        {
+          "merchant": "T&T Supermarket",
+          "name": "ATLANTIC SALMON FILLET",
+          "price": 10.97,
+          "pre_price_text": null,
+          "post_price_text": "/lb",
+          "sale_story": null,
+          "valid_from": "2026-05-22T04:00:00+00:00",
+          "valid_to": "2026-05-29T03:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/421182529/1779318543/extra_large.jpg"
         },
         {
           "merchant": "Real Canadian Superstore",
@@ -2553,6 +2676,10 @@
         },
         {
           "date": "2026-05-21",
+          "best_price": 3.99
+        },
+        {
+          "date": "2026-05-22",
           "best_price": 3.99
         }
       ],
@@ -2652,28 +2779,28 @@
         "value": 1,
         "unit": "L"
       },
-      "best_price": 2.0,
-      "best_unit_price": 2.0,
-      "median_price": 2.0,
+      "best_price": 6.34,
+      "best_unit_price": 6.34,
+      "median_price": 6.34,
       "thresholds": {
         "good": 2.0,
         "fair": 2.0,
         "min_seen": 2.0,
-        "max_seen": 2.0,
-        "samples": 12
+        "max_seen": 6.34,
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
         {
           "merchant": "Walmart",
-          "name": "Chapman's Ice Cream Chapman's No Sugar Added/Lactose Free Vanilla Ice Cream In A Tub 1l",
-          "price": 2.0,
+          "name": "Natrel Organic 10% Half & Half Cream 1l 1 L",
+          "price": 6.34,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC80MTRmYzc4N2U1ZjhmYWMwZWE1MTNmMjU0ZWQ0MmFkNS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgwTVRSbVl6YzROMlUxWmpobVlXTXdaV0UxTVRObU1qVTBaV1EwTW1Ga05TOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTk3MTE3Nn19fV19&Signature=eC3GOTCaPytuiqK3yJBxl3VoV50SlJ0dnUyLGs8Nc3qmD3eyIiOTvCHQZ-SR4i0na9MbONdvL66XthGy1xlWq9E6UC3CD6FkHXgQ-5qHf~CcbH5NjEuI0H~WuWqFD6CblSdHElx3ZlvTGkoLx964fcArR6IslP7IntjJWR8t2wg7X27VOZvclUC8io50nDl84wYWv2Un-VqseRD91NvHUH2hF9XpNnEwL4ZeYe1EZA1ktjGZWT791iF2qnQnoYMGTdASUlrk-X7mbI5lSQ5KfW4yys0zR5lR2ZfpSIU8yeLxrci73qcNWMfNkgnjKKx096JRm-ht6zuMJnQIJ8I7gw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9hN2Q2ZDIzYmMyNWNjOTcxZGM1MzMwYzA2MGMwYzRjYi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzloTjJRMlpESXpZbU15TldOak9UY3haR00xTXpNd1l6QTJNR013WXpSallpOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MDA1NTkwOH19fV19&Signature=W~QdkvK~t~qOOuxoFIVilejvoj5jTOkRAAXBIiitE4PW4peRkWoEiQVyATZxwCoGJGtsxytTmjP6VZCKmqlw-kfP61iOlTzu5oa5-U2xevdAhvAm29EW3pRTMOi2AodKK9Zf9~UuPsBZxZexosohSCJCpTV4Vdb3Z0o3iho0hRRZBAaOMgyARFNf5nRz4Mtj35hKfHb1ldhOv715wS-IO9lptvDwVdkkYCvl-F~~sbrr4T8sEmxvz0DD6LJVfBVqWYR-Y0XhzpdkOTJrB8HHNzVzPjNZWwuWgIVd8Iu9iOVy~a12Adrb5pKbmVTqb851mHZjJ4KZBBfFIi-LDAxHAw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
@@ -2724,6 +2851,10 @@
         {
           "date": "2026-05-21",
           "best_price": 2.0
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 6.34
         }
       ],
       "notes": []
@@ -2742,11 +2873,11 @@
       "best_unit_price": 0.0154,
       "median_price": 7.0,
       "thresholds": {
-        "good": 5.62,
+        "good": 6.0,
         "fair": 6.0,
         "min_seen": 4.48,
         "max_seen": 7.0,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -2809,6 +2940,10 @@
         },
         {
           "date": "2026-05-21",
+          "best_price": 7.0
+        },
+        {
+          "date": "2026-05-22",
           "best_price": 7.0
         }
       ],
@@ -2955,10 +3090,10 @@
       "median_price": 4.98,
       "thresholds": {
         "good": 4.98,
-        "fair": 4.99,
+        "fair": 4.98,
         "min_seen": 4.44,
         "max_seen": 4.99,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -3004,7 +3139,7 @@
           "sale_story": null,
           "valid_from": "2026-05-21T07:00:00+00:00",
           "valid_to": "2026-05-28T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/421163776/1779305462/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/421163772/1779305461/extra_large.jpg"
         },
         {
           "merchant": "No Frills",
@@ -3015,7 +3150,7 @@
           "sale_story": null,
           "valid_from": "2026-05-21T07:00:00+00:00",
           "valid_to": "2026-05-28T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/420513135/1779125222/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/420513135/1779395329/extra_large.jpg"
         },
         {
           "merchant": "Choices Markets",
@@ -3087,6 +3222,10 @@
         },
         {
           "date": "2026-05-21",
+          "best_price": 4.44
+        },
+        {
+          "date": "2026-05-22",
           "best_price": 4.44
         }
       ],
@@ -3214,18 +3353,30 @@
         "value": 500,
         "unit": "mL"
       },
-      "best_price": null,
-      "best_unit_price": null,
-      "median_price": null,
+      "best_price": 2.68,
+      "best_unit_price": 0.0054,
+      "median_price": 2.68,
       "thresholds": {
         "good": 2.56,
-        "fair": 2.62,
+        "fair": 2.68,
         "min_seen": 2.56,
         "max_seen": 2.68,
-        "samples": 4
+        "samples": 5
       },
       "user_good_price": null,
-      "offers": [],
+      "offers": [
+        {
+          "merchant": "Walmart",
+          "name": "Great Value Sour Cream 500 Ml",
+          "price": 2.68,
+          "pre_price_text": null,
+          "post_price_text": null,
+          "sale_story": null,
+          "valid_from": null,
+          "valid_to": null,
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC8xNjk4YWJjMmRjZjRlOTAyNTBjNTU5MWQ4YTRkMjkyNy9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzh4TmprNFlXSmpNbVJqWmpSbE9UQXlOVEJqTlRVNU1XUTRZVFJrTWpreU55OXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTk5MTg1NH19fV19&Signature=lNEuu3DXrSL4OfESjDSKeZkWnhNuD-cb2KGdN7RL0HG7oxr8OC55Vo1xEkPtQjr31QpjcPQqIQbN-ny5Km~nbkSUEGjSS2kd-UmO1uZ4rptKYgeEEB2iKpBT7aPyee1phKGAmwic-9mneEgG2eIN-vZEHOmoOm6LUmvDAoxvlzsmSdqOw6S5TGYmDn2kzKQAvgakXuZzcdYNQ9gFkyFBzaZyrtZHEUvTmGf6WsOtEs4nZAKjqP5ZViloYXCommXs5LurgPRXi9kJce7peOQQ117iyZEZtejEU3Vtt7xED0IktkoLRqqKHMQhOINeKS09DDFns85108mX~B4Ru3zN0A__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+        }
+      ],
       "history": [
         {
           "date": "2026-05-09",
@@ -3241,6 +3392,10 @@
         },
         {
           "date": "2026-05-13",
+          "best_price": 2.68
+        },
+        {
+          "date": "2026-05-22",
           "best_price": 2.68
         }
       ],
@@ -3322,7 +3477,7 @@
         "fair": 2.47,
         "min_seen": 2.47,
         "max_seen": 2.49,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -3386,6 +3541,10 @@
         {
           "date": "2026-05-21",
           "best_price": 2.49
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 2.49
         }
       ],
       "notes": []
@@ -3408,7 +3567,7 @@
         "fair": 2.47,
         "min_seen": 2.47,
         "max_seen": 2.49,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -3483,6 +3642,10 @@
         {
           "date": "2026-05-21",
           "best_price": 2.49
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 2.49
         }
       ],
       "notes": []
@@ -3510,28 +3673,28 @@
       "type": "generic",
       "query": "flour tortillas",
       "unit_size": null,
-      "best_price": 2.68,
+      "best_price": 3.97,
       "best_unit_price": null,
-      "median_price": 2.68,
+      "median_price": 3.97,
       "thresholds": {
-        "good": 3.65,
+        "good": 3.97,
         "fair": 3.97,
         "min_seen": 2.68,
         "max_seen": 8.49,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
         {
           "merchant": "Walmart",
-          "name": "Tia Rosa White Flour Tortillas",
-          "price": 2.68,
+          "name": "Old El Paso Soft Flour Tortillas, Large, 334g 334 G",
+          "price": 3.97,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC8yNDRlOWQ1ZDdjYTNhMDIzOGQ0NjA1MDE2ZThjYTY2Zi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzh5TkRSbE9XUTFaRGRqWVROaE1ESXpPR1EwTmpBMU1ERTJaVGhqWVRZMlppOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTk3NDM0N319fV19&Signature=Yg0pURR7Qj~tLUnJfunYHa9t6mV0vO7x0l5WJooWdK-NNb6ARkklj3zIpcUNrUfkzoWaxGy72JN9k6l~u8vOZMs-axi704AvV6ME-wQWepRiKhUvj1gK7XzuM2KEqx0FA7BxPur2rLw2cEO007aSMLcBnUFW8Cl5RBxpvSqOy~MtDvT71a~UcPG-~aewkWgppUJdiAtNKKcu33-qoY~H4K5ZwGKO136LuYU5IxghgGVcP0lQOWVOa5QR6cSvstFb7KRy0zTwkyth7u96LjHxmFryJxZ4bNgblbmEza9T9qmk1sPQpobQvCTkXFhuj~oYvmOoXsPOfqzah94KgmrrCQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC84ZWIzMGQwNjYxMGUwNzcyZTFjZjYxNWFhYWU2YWMwZC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzg0WldJek1HUXdOall4TUdVd056Y3laVEZqWmpZeE5XRmhZV1UyWVdNd1pDOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTk5MTgwNH19fV19&Signature=EDnZrLhrkayD-kuWdPJuTn1WINH5P1v2zKBFPmTKcnVfWQe9p2HNHXFn6V1MvVSfxNSFJARG8ywRsdlCllGD8gc2M7-SLG4HuNXD1lX6RAXcvDIWdzhW0yV5Ps4KzgCyTlBd4vbwgydJOthVZLMyUiZWrschwndFwx~ZgV05IauRXWnsn-Weq0rS3aousI2i3q9LfnDuxMz2NB72-IVcXYpDwK8N5YXik4kPC692G1Y5r4MBdKvEeILBWf9NI-HgJVKm3cm3nW9Wr5ofUW44JA6ZAnxi~~Lsogv~vMoJcVvuxa1haJ0nlkogsXEyBJKN4ZuQYA9ozfPfvZVSmytXZg__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
@@ -3582,6 +3745,10 @@
         {
           "date": "2026-05-21",
           "best_price": 2.68
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 3.97
         }
       ],
       "notes": []
@@ -3601,7 +3768,7 @@
         "fair": 2.25,
         "min_seen": 2.25,
         "max_seen": 2.49,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -3709,6 +3876,10 @@
         {
           "date": "2026-05-21",
           "best_price": 2.49
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 2.49
         }
       ],
       "notes": []
@@ -3731,7 +3902,7 @@
         "fair": 6.97,
         "min_seen": 6.97,
         "max_seen": 6.97,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -3744,7 +3915,7 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC84Y2ExODlkNmJlYTBiZTI5YWM2NjI0NDk1MTM4NzliZC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzg0WTJFeE9EbGtObUpsWVRCaVpUSTVZV00yTmpJME5EazFNVE00TnpsaVpDOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTk3Mzc2OH19fV19&Signature=sb4JTq64SmljMaDRnLcegoiLJAQqoBDT~LSU-5Goga6MxQV8IrKfsPfWQ1ezedeHb1vLF2--XHl7M7CSH8-U-L2o5H2~imXMe7no6F1Lu8pWTNcd6l860EJy9GNIthAxMEQ9-SwsjMBThDG2MZsDXVCvjH8Eufh7LqPimsEM~ANcKNoGn2RgZc5-rRqWh3aqQU6X6mnd-zI0vTdSU9tBSCMEqRIJLMjWpw1G2qnvmLoZVgnkyVS3msFH~35bSw~qSDVhylr2x6Dw-z-vY13BH5XHYKLtotkHylqq42KKXrOsc7ZIKQ7xECaU0CcxbwlPhMMSNMfeWWwRtF3AMzp~xQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC84Y2ExODlkNmJlYTBiZTI5YWM2NjI0NDk1MTM4NzliZC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzg0WTJFeE9EbGtObUpsWVRCaVpUSTVZV00yTmpJME5EazFNVE00TnpsaVpDOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MDA1Nzg5NH19fV19&Signature=MrVu4Hjrbrttl2voHl9cQeOAY~i~HiGNDE8GSDAYatse9dqOqGp0NGSbjvApp00~8PU7MMHze-ulGBKXIYy6U9RpWHCpW9L0dj1XJSdqnm9Mh~IaBs5PlLlVzv8LwnxR22GtIGU1K0eeiGFEZ1StiAC~JQ2~tXzxbv6ZrPDSVWlwRAAtvBFdcTQyG1IHy~RneiwNq0M4gB3ojAjCpvkl1U1khPNDz4u4LgR~-RT5uyBXMptRVx7McFvHtrXHL~cYwiJ9RUxoIyYLJiofeC78c3HuTCh7I6KfJApCJgAeFjJpBj5qk8OygsdgEbI5O-6RX~SUUxW4k14TmMcqos8LHg__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
@@ -3794,6 +3965,10 @@
         },
         {
           "date": "2026-05-21",
+          "best_price": 6.97
+        },
+        {
+          "date": "2026-05-22",
           "best_price": 6.97
         }
       ],
@@ -3817,7 +3992,7 @@
         "fair": 1.97,
         "min_seen": 1.97,
         "max_seen": 1.97,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -3830,7 +4005,7 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC80NmQ4MDljYmY0OGQ0MDc3YTc2YTFhOWU4MTg1ZjJmZC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgwTm1RNE1EbGpZbVkwT0dRME1EYzNZVGMyWVRGaE9XVTRNVGcxWmpKbVpDOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTkyMDQxOH19fV19&Signature=ZwTY1TlJVE7UQa4XhR9rlhORz-Xqg-8tV5ZX9KSn~~c2S7GCbg4pJ3MNzdJX8wkGNtrDayY8CF2gzr7JwhaoTSVFxOqv2DiLeXGu66nfuzN43WFjWzAL7lpEcIYfrtYlNthAPNbtqHQd447f77SZ8UlPIPzUZNhbGZOxzQ7Ll9fSrR9L1deffQZjAshlAuGQQnAvoDNn6aQCCJqOAhTFjhHLNr23zc7L0LmT3pmyFFg3JjhGmGkpmwzUHGLSWCddyh8HzzbvQJCj1ocrljy8MLDynBUGZ3UU3K9IQ5nUfAk3RpDagQyjsX395~2Ze2qQHKr9RuQbSrSfa97~snHMQQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC80NmQ4MDljYmY0OGQ0MDc3YTc2YTFhOWU4MTg1ZjJmZC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgwTm1RNE1EbGpZbVkwT0dRME1EYzNZVGMyWVRGaE9XVTRNVGcxWmpKbVpDOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTk5NTEwNn19fV19&Signature=H0EnJaucV7AB1yOFb85D9XjW8zutxv7cLbCIi-LufBsTmeXnP2Siw3SaE2qyszG3uaCe3wZt9rq~jEqB2Yul-Q7-FwtCWyQ8KYO5h8fmy5eL-fpbkYU6cvwISgn7onkno6WTFAjXRrZuXZTQiPwhCqPNwDiQxt-VsPcxCtY0dXRHj2gtMaDWxKjK6XgZYSQD6PUMdUuf1L4Xqw7pPA4fSS5E4nrDrFqO7DW42g6QTec3TUFE4OnUSEy154i8fn3CQS-MyeafMi1d-fG8NZ0VM6qkNUteO1klXCqdiiotjJLOth6IEOS9chs7IkZHPxToqWNkftZAtkYcDLB0ybcqLg__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
@@ -3881,6 +4056,10 @@
         {
           "date": "2026-05-21",
           "best_price": 1.97
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 1.97
         }
       ],
       "notes": []
@@ -3900,10 +4079,10 @@
       "median_price": 4.99,
       "thresholds": {
         "good": 1.89,
-        "fair": 2.19,
+        "fair": 1.89,
         "min_seen": 1.87,
         "max_seen": 2.5,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -3919,17 +4098,6 @@
           "image_url": "https://f.wishabi.net/page_items/420602429/1779181604/extra_large.jpg"
         },
         {
-          "merchant": "No Frills",
-          "name": "UNICO PASTA SAUCE, 680 mL",
-          "price": 2.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-05-21T07:00:00+00:00",
-          "valid_to": "2026-05-28T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/420513356/1778794165/extra_large.jpg"
-        },
-        {
           "merchant": "Safeway",
           "name": "Pasta 410 g or Garden Select Pasta Sauce 600 mL",
           "price": 2.0,
@@ -3941,6 +4109,17 @@
           "image_url": "https://f.wishabi.net/page_items/420181733/1778659158/extra_large.jpg"
         },
         {
+          "merchant": "No Frills",
+          "name": "UNICO PASTA SAUCE, 680 mL",
+          "price": 2.0,
+          "pre_price_text": null,
+          "post_price_text": null,
+          "sale_story": null,
+          "valid_from": "2026-05-21T07:00:00+00:00",
+          "valid_to": "2026-05-28T03:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/420513356/1778794165/extra_large.jpg"
+        },
+        {
           "merchant": "Thrifty Foods",
           "name": "Compliments Fresh Pasta 300\u2013360 g or Sauce 170\u2013300 ml",
           "price": 4.99,
@@ -3949,7 +4128,7 @@
           "sale_story": null,
           "valid_from": "2026-05-21T07:00:00+00:00",
           "valid_to": "2026-05-28T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/420312244/1779071983/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/420538965/1779072000/extra_large.jpg"
         },
         {
           "merchant": "Loblaws",
@@ -4022,6 +4201,10 @@
         {
           "date": "2026-05-21",
           "best_price": 1.87
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 1.87
         }
       ],
       "notes": []
@@ -4041,10 +4224,10 @@
       "median_price": 7.99,
       "thresholds": {
         "good": 11.99,
-        "fair": 13.0,
+        "fair": 11.99,
         "min_seen": 5.99,
         "max_seen": 14.0,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -4196,6 +4379,10 @@
         {
           "date": "2026-05-21",
           "best_price": 5.99
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 5.99
         }
       ],
       "notes": []
@@ -4237,7 +4424,7 @@
         "fair": 3.77,
         "min_seen": 3.77,
         "max_seen": 3.77,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -4250,7 +4437,7 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC80NzA2MDlkZjdiZmRlOGIyODUwMzIzMjQ1YTI0MjdkZS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgwTnpBMk1EbGtaamRpWm1SbE9HSXlPRFV3TXpJek1qUTFZVEkwTWpka1pTOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTk3MjM5MX19fV19&Signature=K-wsmY0OEC4Gccsu2yogcdr0eiJmZKsFggQBvwNdE5JX7~tI-g7C80pp9Pn0y-OMY-3ExMrAF7tE-3H1ZP2UIYQIgbnYS60-L7nAjjNXgHN0PUMTSxaPA4bKd7ud-VCTv6Zm1VBrPmdhjR31V7TrxG4FPrc-jl6T-VTydrFivI-haob2lfgyFdp4anVtH7aNfsqWodA1EC7jAfqF4ShYd0Zm6GfO5Oxt~qgUNy4w~GH30J1WjtbDhOMNughGmZZmXX2vwobXDsdr7NKHpEHK-JOXKAYhlcBXconElepcJgIBZQ50R~6i~1bOU6qPSJWjK4FmEMM~drIVn8gOIuXqng__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC80NzA2MDlkZjdiZmRlOGIyODUwMzIzMjQ1YTI0MjdkZS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgwTnpBMk1EbGtaamRpWm1SbE9HSXlPRFV3TXpJek1qUTFZVEkwTWpka1pTOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTk3OTAzOX19fV19&Signature=dwn2SZRXry~FNMIGoX~XqU0b2kYRjhctnd-KmVwRlgq6txivmdzf6RsJwwOjMHPbyaq7Y3DtiQRElVpYxJJHHX0kGfHQMEnXjlTI0b0INczs7gcAagBjgWj1xiWdmUq7fPlcWg78BQt5MHo7CaPMJ7PFGWIbNK50xxAvP9BeamP1xy5XY7Fiig-xcwxEIfa9uZrRSXlPRMCQ5reu5Q~xAR0Z6idntsXeBUeJDWVe2NB4eLuWGmsqNeXiKeB67T25D1btVk4QLf8tSg2S2KlH3KZ7gD7fS5vvfyxTtfXIjQ61YRtxkeV8Lqmgjy0VrEY9CnTFXHU0~C3oTMqLMhLumA__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
@@ -4301,6 +4488,10 @@
         {
           "date": "2026-05-21",
           "best_price": 3.77
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 3.77
         }
       ],
       "notes": []
@@ -4323,7 +4514,7 @@
         "fair": 2.97,
         "min_seen": 2.97,
         "max_seen": 2.97,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -4397,6 +4588,10 @@
         },
         {
           "date": "2026-05-21",
+          "best_price": 2.97
+        },
+        {
+          "date": "2026-05-22",
           "best_price": 2.97
         }
       ],
@@ -4570,9 +4765,9 @@
         "value": 540,
         "unit": "mL"
       },
-      "best_price": 9.97,
-      "best_unit_price": 0.0185,
-      "median_price": 9.97,
+      "best_price": null,
+      "best_unit_price": null,
+      "median_price": null,
       "thresholds": {
         "good": 9.97,
         "fair": 9.97,
@@ -4581,19 +4776,7 @@
         "samples": 12
       },
       "user_good_price": null,
-      "offers": [
-        {
-          "merchant": "Walmart",
-          "name": "Decacer Pure Maple Syrup 540 Ml",
-          "price": 9.97,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": null,
-          "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC8yNTFiNjgxOTU2Y2Q3NmQzM2U4Y2M3ZjI0YzkyZWVmMi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzh5TlRGaU5qZ3hPVFUyWTJRM05tUXpNMlU0WTJNM1pqSTBZemt5WldWbU1pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTkxNDc5MX19fV19&Signature=X~MllPvU6aV3kJAe99dyJc02B61Tsgk2-0t-i0WKN~aWn-yC~Nf1FTQgNTDViOUnOFEGBNYHVqEMcICUu~Jg07MsmYw24bBpf1TACLYz1FyJ20xnkknHJRDiei3oFLcapmY2X1UkQO1dOHfQp97TJ8zT5PGyI2oIvEy1TxkmMkHl3jTmzK9MSb4UwWEW09WI95cq8U7d4AiXNnIkyJ7FkXc3PIJEOOu-PmQrVsLoXKxdXcq67M6QRegiwUkvsGUejT37qCk0~5egeEfTNQNci~PK8xtKnewrzpHR9jeY3--I~1vrQ86c~a1UC4vVm2TsQW~rvB7Nc8pddDKQcq1OXg__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
-        }
-      ],
+      "offers": [],
       "history": [
         {
           "date": "2026-05-09",
@@ -4656,18 +4839,30 @@
         "value": 890,
         "unit": "mL"
       },
-      "best_price": null,
-      "best_unit_price": null,
-      "median_price": null,
+      "best_price": 4.97,
+      "best_unit_price": 0.0056,
+      "median_price": 4.97,
       "thresholds": {
         "good": 4.97,
         "fair": 4.97,
         "min_seen": 4.97,
         "max_seen": 4.97,
-        "samples": 4
+        "samples": 5
       },
       "user_good_price": null,
-      "offers": [],
+      "offers": [
+        {
+          "merchant": "Walmart",
+          "name": "Great Value Real Mayonnaise 890 Ml",
+          "price": 4.97,
+          "pre_price_text": null,
+          "post_price_text": null,
+          "sale_story": null,
+          "valid_from": null,
+          "valid_to": null,
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9jMWMxMDVhZTYzYjhhYTUzZGU4MDA2MmMzN2IwNzc2Mi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlqTVdNeE1EVmhaVFl6WWpoaFlUVXpaR1U0TURBMk1tTXpOMkl3TnpjMk1pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTg5ODk3MH19fV19&Signature=HzMi56y0IW7EojAvjrbMTIJGZQ4SIdpbZY8g-mCPYpECT~gygEumfarsNGKM6nrKeBZVAySJlbN8r-0yPlbB6dm4mG8TODtzenZfPGjEUViPoAZihtmVsxESy48565KqYEya4ZudyEANDs-ecVqdAFFJEaVk1NpBodKp0JhW-8Sk0rW9Hxi3bv0hl4SvH~6cFiX9~t1RRnxNqZrIl-99IyZwmuVkGMl0VyiRiekq5TUB0w4FhUZikG1AUmrrucLGStwSRJHH0xPFz8ZMDG~-559kutyxaRsMMo6KjJ0eATdGeX0CRYqAzEaz2askf7pJysDUICJguWr76~V57NZHTg__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+        }
+      ],
       "history": [
         {
           "date": "2026-05-09",
@@ -4683,6 +4878,10 @@
         },
         {
           "date": "2026-05-13",
+          "best_price": 4.97
+        },
+        {
+          "date": "2026-05-22",
           "best_price": 4.97
         }
       ],
@@ -4808,20 +5007,20 @@
         "fair": 1.97,
         "min_seen": 1.97,
         "max_seen": 1.97,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
         {
           "merchant": "Walmart",
-          "name": "Great Value Diced Tomatoes 796 Ml",
+          "name": "Unico Herb Spiced Diced Tomatoes 796ml 796",
           "price": 1.97,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC82OTY1ODM3NjkxMjU2ZGUxYjc4NzcyZjJkZDcxMzJlYS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgyT1RZMU9ETTNOamt4TWpVMlpHVXhZamM0TnpjeVpqSmtaRGN4TXpKbFlTOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTk3NDA4OX19fV19&Signature=F86~sfqdmhApQYxJ-SblnMOMESHlxZSnnxc-vQYz2ajFT-8YmRvRxS84IwqtqfvK0JuGNzy78ezSpviLH1zqX3HDrJDOYjqMK4fZiuySBgIHlPdPvpJeFOUcwHiqSeW8wFDbjpkNtrBZebzooBl3cBICziyxUThaylgxper3sR9yRVe6zruFpTlsamlShDqd027PtOBRjqiae4HssClG2fPVK8~RH5zEkoaSXgdRcD4BZDqEiKTCgYY3aoCdjuYzdRlZM4nAnyPcaVlxf1DSD4zf7jSlP3rG0pLQMFEN-U3kXUzPTTCD3mGRcoOIwjwco0-yAyNiTfY7SV2g1zfk6Q__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC8zYTJmY2IzODZjYjhkNGY4YWNiZGI2N2UxNGIxMGRhNC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzh6WVRKbVkySXpPRFpqWWpoa05HWTRZV05pWkdJMk4yVXhOR0l4TUdSaE5DOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTk2OTk0MX19fV19&Signature=aLB~M0hf-s7dqXVGGSxYRz4e5nVWDZ0Rz63O-i78JyTkljVgNbfyue2gJ4RHNNiK1U4VlBL1F80O36R6cJl3zHs4wTSxTn0ZKVxDLYQZJn9li-ikh76wL7OLStsXlyEVXyczl7enYtUugyXR1K5Xb9lwL6M4u5E~IL1BlGdVdluzNeD8WdBFjLifhfZqFz79-s9G9DHk0D2jtlBRBVBFN~NDS93HlhWMIUyEZpdKhkPnD~jF~pNx~RsIFJHv-Souvfeyy2lIcdZmV74ziMrIQw-rSlEi-elJvSWkMqgpuSSkXVwXtLA08M~mHAWvbGC-7ezS6j6lmIFT2wOPxk9m5g__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
@@ -4872,6 +5071,10 @@
         {
           "date": "2026-05-21",
           "best_price": 1.97
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 1.97
         }
       ],
       "notes": []
@@ -4888,13 +5091,13 @@
       },
       "best_price": 2.79,
       "best_unit_price": 0.0048,
-      "median_price": 4.0,
+      "median_price": 4.99,
       "thresholds": {
         "good": 2.97,
         "fair": 2.97,
         "min_seen": 2.79,
         "max_seen": 2.97,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -4996,6 +5199,17 @@
           "valid_from": "2026-05-21T04:00:00+00:00",
           "valid_to": "2026-05-28T03:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/420796432/1779144901/extra_large.jpg"
+        },
+        {
+          "merchant": "T&T Supermarket",
+          "name": "GREENMAX EXTRA RICH BLACK SESAME CEREAL 30gx12",
+          "price": 10.97,
+          "pre_price_text": "2/",
+          "post_price_text": "or 7.95 ea",
+          "sale_story": null,
+          "valid_from": "2026-05-22T04:00:00+00:00",
+          "valid_to": "2026-05-29T03:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/421182481/1779318545/extra_large.jpg"
         }
       ],
       "history": [
@@ -5045,6 +5259,10 @@
         },
         {
           "date": "2026-05-21",
+          "best_price": 2.79
+        },
+        {
+          "date": "2026-05-22",
           "best_price": 2.79
         }
       ],
@@ -5098,7 +5316,7 @@
         "fair": 8.0,
         "min_seen": 8.0,
         "max_seen": 11.5,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -5250,6 +5468,10 @@
         {
           "date": "2026-05-21",
           "best_price": 11.5
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 11.5
         }
       ],
       "notes": []
@@ -5334,28 +5556,28 @@
         "value": 750,
         "unit": "g"
       },
-      "best_price": 3.37,
-      "best_unit_price": 0.0045,
-      "median_price": 3.37,
+      "best_price": 3.97,
+      "best_unit_price": 0.0053,
+      "median_price": 3.97,
       "thresholds": {
         "good": 3.37,
         "fair": 3.37,
         "min_seen": 3.37,
-        "max_seen": 3.37,
-        "samples": 12
+        "max_seen": 3.97,
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
         {
           "merchant": "Walmart",
-          "name": "Great Value Frozen Mixed Vegetables 750 G",
-          "price": 3.37,
+          "name": "Swanson\u00ae Swanson Oven Roasters Seasoned Red Potato Wedges & Onions: Frozen Mixed Vegetables Seasoned With Salt And Pepper",
+          "price": 3.97,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9jZjIzYjliM2U2Y2ZkNTM5YWEwMDAyMWFlYzMyYzBiOC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlqWmpJellqbGlNMlUyWTJaa05UTTVZV0V3TURBeU1XRmxZek15WXpCaU9DOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTk3NjE5Nn19fV19&Signature=arTfFX9jL6CKrGL19p90Isc5wAEjHN2khIDqr3llVcZ8wGECZF8zSk5ORIAr-3qnRl4XKMLQ7kWveMgfWyc8e79vWIsEV2nlHNaYSIj2qFAvuHknqvJE2UTw~hkoA1nCj~0Hbt7DlIgRmzm7BBIjIC8RbxGFYtNqEqzihfVC~G0CV6H-PSWx2waeiA5YX0Wn56yot3ARo2eWg~fF31T-836tEx99NQ2EqAdE33HjQXZ4orcPZVOuUS7TPxoZKe0yghcl4YktOTGvaxReVc18VS6fi8TeKZilyF7EhYuX7XOBU3RZXe3YeuUe3uav8mwwudW1Gzpysj~8eOEh5cqyUg__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC81OGNmZWRlYmQzYmU3ZTgyOTI5ZjhiYmUwZGY0OTcyMi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgxT0dObVpXUmxZbVF6WW1VM1pUZ3lPVEk1WmpoaVltVXdaR1kwT1RjeU1pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3OTk3MjE1MX19fV19&Signature=jex-0utgrcfXwA0PPpsP-KBbgdhHmm6iyFanAKRv3HnH3opDIW2tP6KpyLAqsOU2tmBneUzDHJiDnkocU054v9dbHzJTeZrwgvjN~n7iCvClZ-HdvZIpe~S5tD9Ss-K8W1LAvaQaJeaJbSNSoHfbSO2kLa2wd0aZKH11MzZs2QrulCpfngzmXXDOs9WNn4oTQO2eSTJpKUix88UcMsagp3Um-zh18pizTd0dA~CsGBfNi2TzKbA02AVtQYbR4LpOurzgiwRikKUwWWHPe0UKTro4Zus7K712y7iblIHgUuqlAKc15I9T3Qke0C915llzxdjniMLke-7yVjRLOAEp7A__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
@@ -5406,6 +5628,10 @@
         {
           "date": "2026-05-21",
           "best_price": 3.37
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 3.97
         }
       ],
       "notes": []
@@ -5428,7 +5654,7 @@
         "fair": 2.97,
         "min_seen": 2.97,
         "max_seen": 3.47,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -5441,7 +5667,7 @@
           "sale_story": "Rollback",
           "valid_from": "2026-05-21T07:00:00+00:00",
           "valid_to": "2026-05-28T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/420203811/1778639699/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/420203810/1778639699/extra_large.jpg"
         }
       ],
       "history": [
@@ -5491,6 +5717,10 @@
         },
         {
           "date": "2026-05-21",
+          "best_price": 2.97
+        },
+        {
+          "date": "2026-05-22",
           "best_price": 2.97
         }
       ],
@@ -5607,7 +5837,7 @@
         "fair": 54.99,
         "min_seen": 54.99,
         "max_seen": 54.99,
-        "samples": 3
+        "samples": 4
       },
       "user_good_price": null,
       "offers": [
@@ -5635,6 +5865,10 @@
         {
           "date": "2026-05-21",
           "best_price": 54.99
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 54.99
         }
       ],
       "notes": []
@@ -5657,7 +5891,7 @@
         "fair": 2.5,
         "min_seen": 2.5,
         "max_seen": 2.5,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -5787,6 +6021,10 @@
         {
           "date": "2026-05-21",
           "best_price": 2.5
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 2.5
         }
       ],
       "notes": []
@@ -5809,7 +6047,7 @@
         "fair": 1.97,
         "min_seen": 1.43,
         "max_seen": 2.0,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -5888,7 +6126,7 @@
           "sale_story": "Rollback",
           "valid_from": "2026-05-21T07:00:00+00:00",
           "valid_to": "2026-05-28T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/421163901/1779305472/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/421163910/1779305472/extra_large.jpg"
         },
         {
           "merchant": "Wholesale Club and Club Entrep\u00f4t",
@@ -5983,6 +6221,10 @@
         {
           "date": "2026-05-21",
           "best_price": 2.0
+        },
+        {
+          "date": "2026-05-22",
+          "best_price": 2.0
         }
       ],
       "notes": []
@@ -5999,13 +6241,13 @@
       },
       "best_price": 1.5,
       "best_unit_price": 0.0075,
-      "median_price": 5.0,
+      "median_price": 4.28,
       "thresholds": {
         "good": 1.25,
-        "fair": 1.73,
+        "fair": 1.5,
         "min_seen": 1.25,
         "max_seen": 1.97,
-        "samples": 12
+        "samples": 13
       },
       "user_good_price": null,
       "offers": [
@@ -6029,7 +6271,7 @@
           "sale_story": "Rollback",
           "valid_from": "2026-05-21T07:00:00+00:00",
           "valid_to": "2026-05-28T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/420200467/1778639679/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/420200463/1778639678/extra_large.jpg"
         },
         {
           "merchant": "Real Canadian Superstore",
@@ -6054,17 +6296,6 @@
           "image_url": "https://f.wishabi.net/page_items/420181731/1778659157/extra_large.jpg"
         },
         {
-          "merchant": "Loblaws",
-          "name": "PEPPERIDGE FARM GOLDFISH CRACKERS, 156-227 G OR CRISPS, 177 G",
-          "price": 3.5,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-05-21T07:00:00+00:00",
-          "valid_to": "2026-05-28T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/420703755/1778903412/extra_large.jpg"
-        },
-        {
           "merchant": "Your Independent Grocer",
           "name": "PEPPERIDGE FARM GOLDFISH CRACKERS, 156-227 G, OR CRISPS, 177 G",
           "price": 3.5,
@@ -6076,15 +6307,26 @@
           "image_url": "https://f.wishabi.net/page_items/420703613/1778910847/extra_large.jpg"
         },
         {
-          "merchant": "Choices Markets",
-          "name": "Hot Kid Rice Crackers",
-          "price": 5.0,
-          "pre_price_text": "2 FOR",
+          "merchant": "Loblaws",
+          "name": "PEPPERIDGE FARM GOLDFISH CRACKERS, 156-227 G OR CRISPS, 177 G",
+          "price": 3.5,
+          "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-05-21T04:00:00+00:00",
+          "valid_from": "2026-05-21T07:00:00+00:00",
           "valid_to": "2026-05-28T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/420796386/1779144899/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/420703755/1778903412/extra_large.jpg"
+        },
+        {
+          "merchant": "T&T Supermarket",
+          "name": "OISHI PRAWN CRACKERS/CRACKLINGS 90g",
+          "price": 4.28,
+          "pre_price_text": "3/",
+          "post_price_text": "or $1.89/ea",
+          "sale_story": null,
+          "valid_from": "2026-05-22T04:00:00+00:00",
+          "valid_to": "2026-05-29T03:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/421182295/1779318529/extra_large.jpg"
         },
         {
           "merchant": "Buy-Low Foods",
@@ -6098,15 +6340,15 @@
           "image_url": "https://f.wishabi.net/page_items/420977510/1779220918/extra_large.jpg"
         },
         {
-          "merchant": "T&T Supermarket",
-          "name": "T&T SALTINE SODA CRACKERS, 800g",
-          "price": 5.88,
-          "pre_price_text": "Member Price",
-          "post_price_text": "/ea",
+          "merchant": "Choices Markets",
+          "name": "Hot Kid Rice Crackers",
+          "price": 5.0,
+          "pre_price_text": "2 FOR",
+          "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-05-15T04:00:00+00:00",
-          "valid_to": "2026-05-22T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/420369430/1778704635/extra_large.jpg"
+          "valid_from": "2026-05-21T04:00:00+00:00",
+          "valid_to": "2026-05-28T03:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/420796386/1779144899/extra_large.jpg"
         },
         {
           "merchant": "Thrifty Foods",
@@ -6189,6 +6431,10 @@
         },
         {
           "date": "2026-05-21",
+          "best_price": 1.5
+        },
+        {
+          "date": "2026-05-22",
           "best_price": 1.5
         }
       ],
