@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T12:07:19+00:00",
+  "generated_at": "2026-08-08T11:52:42+00:00",
   "postal_code": "V5K0A1",
   "items": [
     {
@@ -37,10 +37,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 3.57
-        },
         {
           "date": "2026-05-10",
           "best_price": 3.57
@@ -348,6 +344,10 @@
         {
           "date": "2026-08-07",
           "best_price": 3.37
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 3.37
         }
       ],
       "notes": []
@@ -367,7 +367,7 @@
       "median_price": 7.48,
       "thresholds": {
         "good": 1.99,
-        "fair": 2.29,
+        "fair": 2.38,
         "min_seen": 0.97,
         "max_seen": 3.47,
         "samples": 90
@@ -398,10 +398,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 1.99
-        },
         {
           "date": "2026-05-10",
           "best_price": 1.99
@@ -757,6 +753,10 @@
         {
           "date": "2026-08-07",
           "best_price": 2.47
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 2.47
         }
       ],
       "notes": []
@@ -796,10 +796,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 1.99
-        },
         {
           "date": "2026-05-10",
           "best_price": 1.99
@@ -1155,6 +1151,10 @@
         {
           "date": "2026-08-07",
           "best_price": 1.0
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 1.0
         }
       ],
       "notes": []
@@ -1194,10 +1194,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 1.99
-        },
         {
           "date": "2026-05-10",
           "best_price": 1.99
@@ -1553,6 +1549,10 @@
         {
           "date": "2026-08-07",
           "best_price": 1.99
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 1.99
         }
       ],
       "notes": []
@@ -1588,14 +1588,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC85Njk2NTFjYWY3MDA3MGNhYWM1Zjk2NGE3YTkwOTIwMS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzg1TmprMk5URmpZV1kzTURBM01HTmhZV00xWmprMk5HRTNZVGt3T1RJd01TOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjcwOTE5MX19fV19&Signature=esRPnOuGJF9ik9DWMek8d73wSyWVFcq4OFeq47Fv3NlNB8Hj6PcyLXXQur9FkZY8yUc5IRkibjfcmJQ6Su~7hALUu2jIj5MU2QcKzB87QRHyGsxLHGdlyxT2yr2TOBFXpSPc7akGONt6APL8yYIN7NxVD2~PA1H3gAf9FKPca9gyPboUzq3hcl2Rgu8HjV-6rqWuf-2Ets6zvqVW6y2khfID3udiazDg1ZlIfIqVD57IxLiyEt5W9OErcqrzfcOeM2Qn6jc1LgfQfURWXpqq49jTv82EsdHEAwmZ00YLqqxgFhU5A-H42mEu0xu4KYmt632zhYe7gmzNKsW8c84PUw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC85Njk2NTFjYWY3MDA3MGNhYWM1Zjk2NGE3YTkwOTIwMS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzg1TmprMk5URmpZV1kzTURBM01HTmhZV00xWmprMk5HRTNZVGt3T1RJd01TOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc5NDcxM319fV19&Signature=TP4CPDGIIZPSbwKJOVRgcQ16B6EUraRH9MyPnkGMLSSkXKFC6iEh3onAeyTO1drEyM7rwbW5huASV-~ZPQELcRu7otfegwLcuu2n6fsOsCUu526l3BucPeMxanICV8nL1hVYNeZRn8ogo9GggtgkGWIFPjaCdsB1OZJwgf1muyNrNK8lyMMNiwmSyjyZNdNr3Svsu3SwD~Ioys6CELiE7baJ1QgucygrYIq6gr~hIaUfpc0XyQ~PmerKOcoYZmZCq83x7jFnALFW3P3-byMzluF0yE0d7GYMY-WJe0D~5WAQ1eTPV6SDTbkvLf3GCdcghpxFlbMw7THq9iWcokyDmw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 2.47
-        },
         {
           "date": "2026-05-10",
           "best_price": 2.47
@@ -1951,6 +1947,10 @@
         {
           "date": "2026-08-07",
           "best_price": 2.47
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 2.47
         }
       ],
       "notes": []
@@ -1970,10 +1970,10 @@
       "median_price": 5.99,
       "thresholds": {
         "good": 0.97,
-        "fair": 1.67,
+        "fair": 1.35,
         "min_seen": 0.97,
         "max_seen": 5.99,
-        "samples": 68
+        "samples": 69
       },
       "user_good_price": null,
       "offers": [
@@ -2283,6 +2283,10 @@
         {
           "date": "2026-08-07",
           "best_price": 0.97
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 0.97
         }
       ],
       "notes": []
@@ -2366,10 +2370,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 2.94
-        },
         {
           "date": "2026-05-10",
           "best_price": 2.94
@@ -2725,6 +2725,10 @@
         {
           "date": "2026-08-07",
           "best_price": 1.94
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 1.94
         }
       ],
       "notes": []
@@ -2774,17 +2778,6 @@
           "image_url": "https://f.wishabi.net/page_items/429772920/1785971808/extra_large.jpg"
         },
         {
-          "merchant": "Your Independent Grocer",
-          "name": "BROCCOLI CROWNS",
-          "price": 2.0,
-          "pre_price_text": null,
-          "post_price_text": "lb",
-          "sale_story": null,
-          "valid_from": "2026-08-06T04:00:00+00:00",
-          "valid_to": "2026-08-13T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/429629215/1785876528/extra_large.jpg"
-        },
-        {
           "merchant": "Loblaws",
           "name": "BROCCOLI CROWNS",
           "price": 2.0,
@@ -2794,6 +2787,17 @@
           "valid_from": "2026-08-06T04:00:00+00:00",
           "valid_to": "2026-08-13T03:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/429338644/1785566239/extra_large.jpg"
+        },
+        {
+          "merchant": "Your Independent Grocer",
+          "name": "BROCCOLI CROWNS",
+          "price": 2.0,
+          "pre_price_text": null,
+          "post_price_text": "lb",
+          "sale_story": null,
+          "valid_from": "2026-08-06T04:00:00+00:00",
+          "valid_to": "2026-08-13T03:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/429629215/1785876528/extra_large.jpg"
         },
         {
           "merchant": "No Frills",
@@ -2808,10 +2812,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 1.87
-        },
         {
           "date": "2026-05-10",
           "best_price": 1.87
@@ -3130,6 +3130,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 1.99
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 1.99
         }
       ],
@@ -3223,10 +3227,6 @@
       ],
       "history": [
         {
-          "date": "2026-05-09",
-          "best_price": 3.99
-        },
-        {
           "date": "2026-05-10",
           "best_price": 3.99
         },
@@ -3557,6 +3557,10 @@
         {
           "date": "2026-08-07",
           "best_price": 2.49
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 2.49
         }
       ],
       "notes": []
@@ -3579,15 +3583,11 @@
         "fair": 2.99,
         "min_seen": 0.97,
         "max_seen": 8.98,
-        "samples": 67
+        "samples": 66
       },
       "user_good_price": null,
       "offers": [],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 1.54
-        },
         {
           "date": "2026-05-10",
           "best_price": 1.54
@@ -3943,10 +3943,6 @@
       ],
       "history": [
         {
-          "date": "2026-05-09",
-          "best_price": 1.99
-        },
-        {
           "date": "2026-05-10",
           "best_price": 1.99
         },
@@ -4300,6 +4296,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 1.99
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 1.99
         }
       ],
@@ -4755,10 +4755,6 @@
       ],
       "history": [
         {
-          "date": "2026-05-09",
-          "best_price": 1.87
-        },
-        {
           "date": "2026-05-10",
           "best_price": 1.87
         },
@@ -5113,6 +5109,10 @@
         {
           "date": "2026-08-07",
           "best_price": 3.99
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 3.99
         }
       ],
       "notes": []
@@ -5160,10 +5160,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 0.88
-        },
         {
           "date": "2026-05-10",
           "best_price": 0.88
@@ -5518,6 +5514,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 0.99
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 0.99
         }
       ],
@@ -5578,10 +5578,6 @@
       ],
       "history": [
         {
-          "date": "2026-05-09",
-          "best_price": 5.79
-        },
-        {
           "date": "2026-05-10",
           "best_price": 5.79
         },
@@ -5936,6 +5932,10 @@
         {
           "date": "2026-08-07",
           "best_price": 4.99
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 4.99
         }
       ],
       "notes": []
@@ -5955,7 +5955,7 @@
       "median_price": 30.0,
       "thresholds": {
         "good": 6.79,
-        "fair": 8.49,
+        "fair": 7.99,
         "min_seen": 4.88,
         "max_seen": 17.99,
         "samples": 90
@@ -5986,10 +5986,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 9.99
-        },
         {
           "date": "2026-05-10",
           "best_price": 9.99
@@ -6344,6 +6340,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 6.99
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 6.99
         }
       ],
@@ -6407,10 +6407,6 @@
       ],
       "history": [
         {
-          "date": "2026-05-09",
-          "best_price": 4.0
-        },
-        {
           "date": "2026-05-10",
           "best_price": 4.0
         },
@@ -6764,6 +6760,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 3.97
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 3.97
         }
       ],
@@ -6849,10 +6849,6 @@
       ],
       "history": [
         {
-          "date": "2026-05-09",
-          "best_price": 15.0
-        },
-        {
           "date": "2026-05-10",
           "best_price": 15.0
         },
@@ -7206,6 +7202,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 1.97
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 1.97
         }
       ],
@@ -7291,10 +7291,6 @@
       ],
       "history": [
         {
-          "date": "2026-05-09",
-          "best_price": 7.49
-        },
-        {
           "date": "2026-05-10",
           "best_price": 7.49
         },
@@ -7649,6 +7645,10 @@
         {
           "date": "2026-08-07",
           "best_price": 7.99
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 7.99
         }
       ],
       "notes": []
@@ -7688,10 +7688,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 8.5
-        },
         {
           "date": "2026-05-10",
           "best_price": 8.5
@@ -8023,6 +8019,10 @@
         {
           "date": "2026-08-07",
           "best_price": 8.99
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 8.99
         }
       ],
       "notes": []
@@ -8045,7 +8045,7 @@
         "fair": 6.0,
         "min_seen": 5.99,
         "max_seen": 8.0,
-        "samples": 75
+        "samples": 76
       },
       "user_good_price": null,
       "offers": [
@@ -8069,7 +8069,7 @@
           "sale_story": null,
           "valid_from": "2026-08-06T07:00:00+00:00",
           "valid_to": "2026-08-13T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/429058575/1785716647/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/428930448/1785716645/extra_large.jpg"
         }
       ],
       "history": [
@@ -8372,6 +8372,10 @@
         {
           "date": "2026-08-07",
           "best_price": 6.44
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 6.44
         }
       ],
       "notes": []
@@ -8411,14 +8415,14 @@
         },
         {
           "merchant": "Thrifty Foods",
-          "name": "Fresh Pork Loin Chops",
+          "name": "Fresh Pork Loin Chops or Roast",
           "price": 3.79,
           "pre_price_text": null,
           "post_price_text": "/lb",
           "sale_story": null,
           "valid_from": "2026-08-06T07:00:00+00:00",
           "valid_to": "2026-08-13T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/429012766/1785494404/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/429012753/1785494403/extra_large.jpg"
         },
         {
           "merchant": "T&T Supermarket",
@@ -8466,10 +8470,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 3.0
-        },
         {
           "date": "2026-05-10",
           "best_price": 3.0
@@ -8825,6 +8825,10 @@
         {
           "date": "2026-08-07",
           "best_price": 3.77
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 3.77
         }
       ],
       "notes": []
@@ -8844,10 +8848,10 @@
       "median_price": 5.99,
       "thresholds": {
         "good": 4.0,
-        "fair": 4.98,
+        "fair": 5.97,
         "min_seen": 3.97,
         "max_seen": 5.99,
-        "samples": 40
+        "samples": 41
       },
       "user_good_price": null,
       "offers": [
@@ -9023,6 +9027,10 @@
         {
           "date": "2026-08-07",
           "best_price": 5.99
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 5.99
         }
       ],
       "notes": []
@@ -9072,17 +9080,6 @@
           "image_url": "https://f.wishabi.net/page_items/429227920/1785476348/extra_large.jpg"
         },
         {
-          "merchant": "Nesters Market",
-          "name": "Wild Sockeye Salmon Fillet",
-          "price": 4.99,
-          "pre_price_text": null,
-          "post_price_text": "100g",
-          "sale_story": null,
-          "valid_from": "2026-08-06T07:00:00+00:00",
-          "valid_to": "2026-08-13T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/429259373/1785545399/extra_large.jpg"
-        },
-        {
           "merchant": "Thrifty Foods",
           "name": "Fresh Wild Sockeye Salmon Fillets",
           "price": 4.99,
@@ -9092,6 +9089,17 @@
           "valid_from": "2026-08-06T07:00:00+00:00",
           "valid_to": "2026-08-13T03:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/429012871/1785494406/extra_large.jpg"
+        },
+        {
+          "merchant": "Nesters Market",
+          "name": "Wild Sockeye Salmon Fillet",
+          "price": 4.99,
+          "pre_price_text": null,
+          "post_price_text": "100g",
+          "sale_story": null,
+          "valid_from": "2026-08-06T07:00:00+00:00",
+          "valid_to": "2026-08-13T03:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/429259373/1785545399/extra_large.jpg"
         },
         {
           "merchant": "Choices Markets",
@@ -9117,10 +9125,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 3.99
-        },
         {
           "date": "2026-05-10",
           "best_price": 3.99
@@ -9476,6 +9480,10 @@
         {
           "date": "2026-08-07",
           "best_price": 2.97
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 2.97
         }
       ],
       "notes": []
@@ -9511,14 +9519,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC8wZWRiNTRjMzc1NWEyZGIyZjQ3ZmRiMGNiOGIxYmU4OC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzh3WldSaU5UUmpNemMxTldFeVpHSXlaalEzWm1SaU1HTmlPR0l4WW1VNE9DOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjcwODM4Mn19fV19&Signature=aCLLo1P8xl2MiqnZ66-5NBNPohlcEI~8so3FFQFEA83tHMsCaw0zNEXXcnjmHmtMbPLFxhxY-rA2YfT4fsLIk4VS2oUF9Kis2SH8ehlGWqSDOPhQidiVOUYJuN00wm3KJx1ZhB~jg~~CDTZCvLDOiOVsVKCWJIskLAmpQVwcSKZtZ977jXmK8Ufi4ZushwhQhdm560ZiA7nZ9H4ifkdK9M3JEA9TpCCTRh~JjuN7LGFCG19u468WE14PQ2VgFIVnUTY9cYb5ab4tqAqXVBrEqjJdoMM-pMFYFwwWHqhR4KYwHQouCVJYUlB4HnTbDtG6broqnDvd-pypQ3pYkvqZ4A__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC8wZWRiNTRjMzc1NWEyZGIyZjQ3ZmRiMGNiOGIxYmU4OC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzh3WldSaU5UUmpNemMxTldFeVpHSXlaalEzWm1SaU1HTmlPR0l4WW1VNE9DOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc5MzYzNn19fV19&Signature=clscNa1mR-Pqr4316gAzhxViVAfwI0dZgIOoJUjL48WqYj-PnbECYW4gm4Mz9f3idfqUjiBteUdPwKEr2BtiH1yXPX1eN1yN~SmuNcgYje4ZQlTaOjbPbMYaPUBECW4VLIiPSxg9aF-34OcDmAC7zRL~sH-IHz8C6UCBONSQf-H7nDYqbmCtvMCB-JhTWqC3MJyIb8SkJLqzeWiIozVTd7dYsvYp1ElBcRqzOFnyQ0eJDZH8j0X0Ln6fGf8KezO-Lr1f6zwq33-uTvW4NTnERsMd98r1TsrTImVoKlK9bFKLrqRKdBIMRr7ES9hHQdghu4HTYar9O70Lwzkj-Kx4EQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 7.18
-        },
         {
           "date": "2026-05-10",
           "best_price": 7.18
@@ -9749,6 +9753,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 5.98
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 5.98
         }
       ],
@@ -9785,14 +9793,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC85YmE4ZWRlMjc2NzlmODVlMzE3Yzg4YTM0MGFiYTk5My9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzg1WW1FNFpXUmxNamMyTnpsbU9EVmxNekUzWXpnNFlUTTBNR0ZpWVRrNU15OXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjcwOTIwN319fV19&Signature=PDNwyUOgrq~pPGw6ybiT~EDJQqn6BwOzUBoYwpb0FY0kymxzJFg6k3wRl4BI5R52a1Pz0JbasXl1vElp-HL2rW5~dofPRYg9WBqND9eGwdXCYy73rZmN6R53TPH525mcUZYfyRNJxl6e6md3~U0zO4gGYGtV4rXScCrziVH9-LEU~fDwKaldCPAl5LqNn54GJmCobRl9cGF-Hz~ZMV3KQ9-iEoicTEosi3bZK~vkexMkrNI9TGk9i3P1HI3~PjbDLmH0RXCRSByljpzlHURvNFbsb4A8GIW~jUr6HV6dg4NI1r6qRGokbicaIV~VN4rfzb8yT5iiCMEo-MArkgT9NQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC85YmE4ZWRlMjc2NzlmODVlMzE3Yzg4YTM0MGFiYTk5My9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzg1WW1FNFpXUmxNamMyTnpsbU9EVmxNekUzWXpnNFlUTTBNR0ZpWVRrNU15OXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc5Mzk5NH19fV19&Signature=Ll-ES0WYRQMpg1EpEzcKLhxXUvkQS1l2dIoIkxx4qF6tLRTc9ohrGGyCiCCOc~IlcM2j1jYNmggR1XDTshQs5e~DUVO30TskfhSYilbN8n8BfJPsY79rJ~dPQHMyf3kUiuyRn98qroMGi7vyUK7uzWbG1LQNsECpPaLcd9wyUPhqNyhsYqK0yKbuyT0i3E-hGdv4ZXXYvNvVJ3E5f8XvZnKaKN7zjLWcTL5eTc~UScBjKP0zdjpcTyHCwJgu7yd2wq2eWmWlQ5fzhzpPn54bIh5x5HF1rVBVclJ3-KUBzb8lq-hWUwpAKxXfPyLmReykUTTrOcpNK-AjUv2T0zrb6g__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 6.44
-        },
         {
           "date": "2026-05-10",
           "best_price": 6.44
@@ -10024,6 +10028,10 @@
         {
           "date": "2026-08-07",
           "best_price": 5.98
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 5.98
         }
       ],
       "notes": []
@@ -10059,14 +10067,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC84ZWI1NzVlZTlhZDhlYTMyNzM4Y2QxZDI0Zjg1OTBkMy9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzg0WldJMU56VmxaVGxoWkRobFlUTXlOek00WTJReFpESTBaamcxT1RCa015OXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjcwODUxM319fV19&Signature=V5APy0tbVG~JSfmgyilV8eqCWYngSJZWEh3cRX9~0dVEORGbrhbtEkbV8zN5mnaajU8yjG1UWsGrLRL72PscF0NzcsDOpauAGfKWJoYoxqFV8ndbhqVFkXNdyA0FESU4USxZyWYtTmn0mZVKWoJ9iWffkyEmG4f9T1nW53oo-dVbqi~na-5oBlrwEvt0mWeHRzy2zXrdRq5eTsgYVCBv9iFRH52OMOhXyfX2kGGi8rZ1K5wkjjQ6aJANzVhtsIPj80H1hopUVr-lK~mK5WzUHlJXnZ3ltd6PoJL8k~CFipTcu259SWltyQifOwPnVihb4WYOcKp~538SWav0T7i08Q__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC84ZWI1NzVlZTlhZDhlYTMyNzM4Y2QxZDI0Zjg1OTBkMy9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzg0WldJMU56VmxaVGxoWkRobFlUTXlOek00WTJReFpESTBaamcxT1RCa015OXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc5MzA1OX19fV19&Signature=Vtp82482x6ypb5p27BVf~HiM10~9kZODoIVpMA-0xBmd2p58mZ8hT9XFQurhoBi2URfk8rSkbeZTNdBYD5gp69qNyFML7AER0A5LxIsxPWaqxnzRuJ7sCtEukAyRuI7BpdcZw5vY0z1ggQz-Ua0YRC42DkoMvYEUtzXjADnj1a6wjd0Emk7pLj-gaUXTW9YUN3JzzMAskY3WeRJ6El4swrE~Wojtf7fG3qj0aGlsNkCV9H680dPRR5lXnFEka090epg63ESOk9tJFzpobPNWpviyOMEYtYGtoQ7c5dezOkmuLf6ZW3BAvEKdAZ6FEYRDYAT~aCt3IQlG-9WtnnZwTA__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 2.0
-        },
         {
           "date": "2026-05-10",
           "best_price": 2.0
@@ -10266,6 +10270,10 @@
         {
           "date": "2026-08-07",
           "best_price": 3.48
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 3.48
         }
       ],
       "notes": []
@@ -10301,14 +10309,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC8xZjIxMDVhMzI5NWY3NjgzYjk2YTBjNjk0ODFiYjg1Mi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzh4WmpJeE1EVmhNekk1TldZM05qZ3pZamsyWVRCak5qazBPREZpWWpnMU1pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjcwODI3NH19fV19&Signature=LJX53b1yYEtcxle1pm2fn8HiRjY2-yd0JJDQoYeQvIeR55gSx8P3h6n-RmFl3d2i9BlNTVzvZ3Y~kBpOO3Teafk-ltseWOpjh3FCikEpd5NhKcv0UPTiEujiMrq3yp19F~57XyYVvWOl7DaoA3ReS0HkEblbNpwFLUIhxOloH87Jv1pl465MhiWXaHz0buFTcNGub7h9WOfToVU8TktM6NKUNaEv6bmHK0Fj~CAv8k4k~uQZ9sCyDL2e0reC2dOc-90JvT-uw2uyXWSYHI3AQ58yShXIU~GZJ-dZ30WzUw4JcYKW4KgsFBgA-mAftyPgv5-mvLEntOFv0DZStIfhXQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC8xZjIxMDVhMzI5NWY3NjgzYjk2YTBjNjk0ODFiYjg1Mi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzh4WmpJeE1EVmhNekk1TldZM05qZ3pZamsyWVRCak5qazBPREZpWWpnMU1pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc5NDQxNH19fV19&Signature=OfcjPEwOWi53oUUA3ciCczcaQ~jC4XBreLdbteqd9DknURYT2HTDEEOcJeK-SfMRP8SwiBekO7URNEYiNRnmRJaY3PQItSx61Pw5g4ErKWI8WPseX5byfZLd4ouNQaTKzSG-toVdPGFceDCw3WvuFwi4KEEk2-kK7jaC7ozixhVx8w0DXLJwYa4j-SdN6fkdnbkUNbyasGNAupWYRmij1Gukp3vtQeyxdfJgkiWwocIapQoEsoJLXZuIC9c5Yumoy5cbzSNAxSFM~k2~1xXgEadv0iEIIWKujTT~LrHRDHQP9vzhi~zpDiFtwWWR-QZm4SPaYSGUxvDr5-DiCQab2g__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 4.48
-        },
         {
           "date": "2026-05-10",
           "best_price": 4.48
@@ -10647,6 +10651,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 4.48
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 4.48
         }
       ],
@@ -10877,25 +10885,25 @@
         },
         {
           "merchant": "Walmart",
-          "name": "Cracker Barrel cheese block 400 g or shreds 320 g",
+          "name": "Cracker Barrel cheese shreds 320g",
           "price": 5.97,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": "Rollback",
           "valid_from": "2026-08-06T07:00:00+00:00",
           "valid_to": "2026-08-13T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/429058591/1785716649/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/428929283/1785716637/extra_large.jpg"
         },
         {
           "merchant": "Thrifty Foods",
           "name": "Compliments Shredded Cheese",
           "price": 5.99,
           "pre_price_text": null,
-          "post_price_text": "EACH",
+          "post_price_text": null,
           "sale_story": "100 Scene+ PTS when you buy 2",
           "valid_from": "2026-08-06T07:00:00+00:00",
           "valid_to": "2026-08-13T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/429012886/1785494404/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/429251491/1785494414/extra_large.jpg"
         },
         {
           "merchant": "No Frills",
@@ -10932,21 +10940,17 @@
         },
         {
           "merchant": "Wholesale Club and Club Entrep\u00f4t",
-          "name": "EASY MELT MOZZARELLA FLAVOURED CHEESE SHREDS, 2.27 KG",
+          "name": "THE GREAT CANADIAN APPETIZER COMPANY EASY MELT CHEDDAR FLAVOURED CHEESE SHREDS, 2.27 KG",
           "price": 28.99,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
           "valid_from": "2026-07-30T04:00:00+00:00",
           "valid_to": "2026-08-20T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/429055106/1785373419/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/429055105/1785373418/extra_large.jpg"
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 4.98
-        },
         {
           "date": "2026-05-10",
           "best_price": 4.98
@@ -11302,6 +11306,10 @@
         {
           "date": "2026-08-07",
           "best_price": 4.98
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 4.98
         }
       ],
       "notes": []
@@ -11324,15 +11332,11 @@
         "fair": 3.5,
         "min_seen": 2.75,
         "max_seen": 7.0,
-        "samples": 62
+        "samples": 61
       },
       "user_good_price": null,
       "offers": [],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 5.0
-        },
         {
           "date": "2026-05-10",
           "best_price": 5.0
@@ -11611,14 +11615,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9iYWJlZDJkMTA0NzU1Y2VjY2NiNTEwMDM3MjQ1MDViNC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlpWVdKbFpESmtNVEEwTnpVMVkyVmpZMk5pTlRFd01ETTNNalExTURWaU5DOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjcwODcwOX19fV19&Signature=Coo0goBdJERtl~O5pXmmKwdExqSKagdSOnHH8ENcDtLwLZuiHquv7qAXeScR82tw~7QKSwO3t8laMFVbL6lVMQV2atknwngLFoggiPmnuqBYGNh0S~2oM~3QZjgZNx8ii9U3~7rhrzrSRgVZU1bj~R69bsja1Ilpd1AOAhuSmugAtSNs2HO~071OCuprnQzFLMgwZvR0QRodTsDE1l5rvPE7EV0ZI~zz0zQm3FoGEFe6KnF1MeV~ySpO4T1lSb5uTXNhoLNyTuvIcLT5nRsVTShumnQrdcvcpxIkhe6PhN6z1TKazLbZM8ju3dkE5lNHXPDohl~-kB76xjpM3b6gmw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9iYWJlZDJkMTA0NzU1Y2VjY2NiNTEwMDM3MjQ1MDViNC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlpWVdKbFpESmtNVEEwTnpVMVkyVmpZMk5pTlRFd01ETTNNalExTURWaU5DOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc5NDAwMX19fV19&Signature=a9Li2UgDY8kgjjUCshNbyHRVzq1gCjddWbAz~o-OFTCSyr3BFivEaw1839l-v~4O23C01IHtdcjB-EiJ1ajvOVXX~tXSaghZYVkHP6bIkp2mCUIO7MkB8KSGvn0tBxW9pm9IVlZEaJ4VxG9BENxC1NxnT~Otc-6AQxK4rNZUoG1goBdE5ZcIrbcS1Sx2vpLIhZtCnKTrH513W4tNlws1FXHsN1mdOMgXwxLktjIdioDNEQTHx2Imc-7h35bWkXs~85gtPimD~r16H2LqMRLiKYEh7kYIL0vRXRR3iGtDMVEF2aqCiWxSeWipoc61FmgrWTkphJ3Ebz3tvTLICCKxNw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 5.56
-        },
         {
           "date": "2026-05-10",
           "best_price": 5.56
@@ -11790,6 +11790,10 @@
         {
           "date": "2026-08-07",
           "best_price": 5.56
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 5.56
         }
       ],
       "notes": []
@@ -11829,10 +11833,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 2.56
-        },
         {
           "date": "2026-05-10",
           "best_price": 2.56
@@ -12092,6 +12092,10 @@
         {
           "date": "2026-08-07",
           "best_price": 3.27
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 3.27
         }
       ],
       "notes": []
@@ -12221,10 +12225,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 2.49
-        },
         {
           "date": "2026-05-10",
           "best_price": 2.49
@@ -12580,6 +12580,10 @@
         {
           "date": "2026-08-07",
           "best_price": 3.49
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 3.49
         }
       ],
       "notes": []
@@ -12602,15 +12606,11 @@
         "fair": 2.49,
         "min_seen": 1.99,
         "max_seen": 2.99,
-        "samples": 88
+        "samples": 87
       },
       "user_good_price": null,
       "offers": [],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 2.49
-        },
         {
           "date": "2026-05-10",
           "best_price": 2.49
@@ -13110,10 +13110,6 @@
       ],
       "history": [
         {
-          "date": "2026-05-09",
-          "best_price": 8.49
-        },
-        {
           "date": "2026-05-10",
           "best_price": 8.49
         },
@@ -13435,6 +13431,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 2.99
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 2.99
         }
       ],
@@ -13472,14 +13472,14 @@
         },
         {
           "merchant": "Safeway",
-          "name": "Cheese Hot Dog or Burger Buns",
+          "name": "Value Pack Hot Dog or Burger Buns",
           "price": 5.0,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
           "valid_from": "2026-08-06T07:00:00+00:00",
           "valid_to": "2026-08-13T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/429228044/1785476342/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/429228056/1785476346/extra_large.jpg"
         },
         {
           "merchant": "Thrifty Foods",
@@ -13494,10 +13494,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 2.49
-        },
         {
           "date": "2026-05-10",
           "best_price": 2.49
@@ -13852,6 +13848,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 3.99
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 3.99
         }
       ],
@@ -13888,14 +13888,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9mMmQ4YmZiOTA5NDJiMDkyZjM0Njg0NDViYWY4NzdlMi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzltTW1RNFltWmlPVEE1TkRKaU1Ea3laak0wTmpnME5EVmlZV1k0TnpkbE1pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjcwODMzNH19fV19&Signature=jHJTJzIuyDFsKzmFVLVAN81Vs~P5EmqmsGf1JC8sRf96LufeUeFRf7BYofFSovv90nZUkjlCCc3zmYcHu3kzRWK9KAXdf2kW33Bm8L7KtuYKuS7WjTsmSSRK2iKtWx8X38FEHTYa74KLPGSiCY-wNzJ3UlttRnz7kGutd7yYF8DorFu6HKo7jbup5fjtJCBSBugY~So84~y6AD1~Mj0LbK990bEq02kjQ7ph3OQOeKcBlBw0JDtpQd1fRdd09o7KzHGMAkiTa1XAgq9j3FhHSWBw6nglTe4GsbAUyz8Uv2Low7YRYHo0OHNp8y2YblYkgFhBi3C78M13e~-wHvB9qg__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9mMmQ4YmZiOTA5NDJiMDkyZjM0Njg0NDViYWY4NzdlMi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzltTW1RNFltWmlPVEE1TkRKaU1Ea3laak0wTmpnME5EVmlZV1k0TnpkbE1pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc5NDcwMH19fV19&Signature=bBZex~9w2W5C5gfQ6DtHVXXhHDK~IUvJBl9OZMGVxR4siLl~N5yTtJpW8kQOBgkN2sWYEx8zYjQRh6IaxAOoA8DUrKIOFR-ouSfkIfskkX3hglxxdBH~5lDBDwK2peFprpfg3IDe3gpSzcnHcDme7n8ZbviHt~aP8Ecn~7tPOFhW9J3wEdf7igs-Iu1ltwZ4dWTXPuxvfwheE38sa~3lH6Hk1HhpP3OaMaBfZ0lj~ccLOz5l6xpBOO7lElDPMiKF5AomUbhdzZY8GwcUdk5M2zbcuOUDpn23-S8m7ZUOP0CuoUYXB0Rb0O~BgCABGmM~VgQr7he6wh2I2Qib~OKJag__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 6.97
-        },
         {
           "date": "2026-05-10",
           "best_price": 6.97
@@ -14251,6 +14247,10 @@
         {
           "date": "2026-08-07",
           "best_price": 6.97
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 6.97
         }
       ],
       "notes": []
@@ -14286,14 +14286,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9lMWI3NTY3OTE3YTQxODU1NmVjZDcyMjdkYzQ1MzljOS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlsTVdJM05UWTNPVEUzWVRReE9EVTFObVZqWkRjeU1qZGtZelExTXpsak9TOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjcwOTIyMH19fV19&Signature=jZP0n~kICXbr0uS-5c3sx3fr6CdOtRJzojyEE5l84jHP7O3p2-zucnzBqAcAgX6iP4jGqRPZY6M9pTO5RXZ35rJYZWl1~hXRoBnFw0LxSCP9CapbpqjMp5J7WG5JQQqq07MzasN4IZs4j3IOnnmNe1cFusBpNW1KsTZiBkyJOTSxWpbdV48Nzqld14ceYlZcQ0ajuXUHeFdfNHSwVmdxdGAdnZ3gK7YxBcDRb9j1AtYQS20tk0WOKaCKN5NY6yqMgN9zvGIF4Hs9xfGMKGtp-wFBHML6XGJjFvijqT-~m9s7-iXAR9pXir8moU9U3XUHSLG0wvmtXmX7NYR5rXqJ-A__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9lMWI3NTY3OTE3YTQxODU1NmVjZDcyMjdkYzQ1MzljOS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlsTVdJM05UWTNPVEUzWVRReE9EVTFObVZqWkRjeU1qZGtZelExTXpsak9TOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc5MzkwNn19fV19&Signature=F9wtLZlcO90vZXhauvm7cVUY9obtw3A8yXIx2~g08OpSrw2l6GwpTJemBNtTEqcRABA8~AuMG2oDii5VAoQElVaM0Fc32y~ZwWhL4SV80SrCYqIfBdwnp2Mn~VaGjMfzO7Ncv263~BTlVYGwXWGDAdg0rtTFMmPXAQ8vtmLQIZapfo3yrWYtIiZH0ftQM7YoCC2LVwOFips54vJSkByukaUzgcdbV6DG58UlO1ZcbUn92ZjaOcWyHNstZgSoTX5tyPIkrjYXlmVa~2KSQ2mTRXIZI-MZrjsJSd7cLygxyZU9zApN8FRwiA4odUEs-4QVROHci39q667vn6rwf2O2wQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 1.97
-        },
         {
           "date": "2026-05-10",
           "best_price": 1.97
@@ -14616,6 +14612,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 1.97
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 1.97
         }
       ],
@@ -14696,7 +14696,7 @@
           "sale_story": "Rollback",
           "valid_from": "2026-08-06T07:00:00+00:00",
           "valid_to": "2026-08-13T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/428929293/1785716638/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/429058586/1785716649/extra_large.jpg"
         },
         {
           "merchant": "Safeway",
@@ -14722,10 +14722,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 1.89
-        },
         {
           "date": "2026-05-10",
           "best_price": 1.89
@@ -15081,6 +15077,10 @@
         {
           "date": "2026-08-07",
           "best_price": 1.99
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 1.99
         }
       ],
       "notes": []
@@ -15119,17 +15119,6 @@
           "image_url": "https://f.wishabi.net/page_items/429228186/1785476361/extra_large.jpg"
         },
         {
-          "merchant": "Your Independent Grocer",
-          "name": "TERRA DELYSSA EXTRA VIRGIN OLIVE OIL, 1L",
-          "price": 10.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": "SAVE 58%",
-          "valid_from": "2026-08-06T04:00:00+00:00",
-          "valid_to": "2026-08-13T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/429629213/1785876527/extra_large.jpg"
-        },
-        {
           "merchant": "Loblaws",
           "name": "TERRA DELYSSA EXTRA VIRGIN OLIVE OIL, 1L",
           "price": 10.0,
@@ -15139,6 +15128,17 @@
           "valid_from": "2026-08-06T04:00:00+00:00",
           "valid_to": "2026-08-13T03:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/429338642/1785566238/extra_large.jpg"
+        },
+        {
+          "merchant": "Your Independent Grocer",
+          "name": "TERRA DELYSSA EXTRA VIRGIN OLIVE OIL, 1L",
+          "price": 10.0,
+          "pre_price_text": null,
+          "post_price_text": null,
+          "sale_story": "SAVE 58%",
+          "valid_from": "2026-08-06T04:00:00+00:00",
+          "valid_to": "2026-08-13T03:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/429629213/1785876527/extra_large.jpg"
         },
         {
           "merchant": "Walmart",
@@ -15187,10 +15187,6 @@
       ],
       "history": [
         {
-          "date": "2026-05-09",
-          "best_price": 11.99
-        },
-        {
           "date": "2026-05-10",
           "best_price": 11.99
         },
@@ -15544,6 +15540,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 5.99
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 5.99
         }
       ],
@@ -15634,14 +15634,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC81N2NjNDM4MTExZTI2ZDRhNzI2MmRkYTFhY2MxZTYzYi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgxTjJOak5ETTRNVEV4WlRJMlpEUmhOekkyTW1Sa1lURmhZMk14WlRZellpOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjcwODA0OX19fV19&Signature=bk2vo7uwS~SyeZWX4ySZn5AOYDNAcCVHVufZhZpltk~7PHseo2Fa2dQx0nZfEqeyJAxIRZd4sCo6GOO9Okp-N5zT21q0jWsK1XL3CNG-ec5ZBePj0XgEBOtRXMdfXPu-qfxxwtoTbiCYlqtPVYOUEsVSTRqaJWFH6chkFJJmAnFFHY1OnJg9NykPz~Uaw5JiSdcJHVQvHv4uEj4v7pM9DPG~~q9keRTaQChNEljWVBES-u9vT16C0PssGkaRUj0O-NUpYb2TTL0AU-e0Ul0skM0z7P0i0A4VpwiHmSI4C12C~PgyGtbA4I3xOH20xvImrqzAdG7xL96sLL9rZ0ZS9A__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC81N2NjNDM4MTExZTI2ZDRhNzI2MmRkYTFhY2MxZTYzYi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgxTjJOak5ETTRNVEV4WlRJMlpEUmhOekkyTW1Sa1lURmhZMk14WlRZellpOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc5NDIxMX19fV19&Signature=qkt~217IvxVgE1CAEQK8gVKeVeooRTZTR1MOmuKHGx9I79Y9RXTYCzruXiyQWomNWAPZzmazDFUkzj4HPamu13~QX2K2Kbp~Ue67DDSmJxIzM7bhobzRAyD9lLVIOcZfEvViG-OL0IbASCuihzdvdQDwGyRbVZcba8ITMGwhN~oiNOQ2cOO3X0adklKT~Y6kf6iJFM5mNMQYBYjW-~bgPlqBEQWraSPBiGZKluhFrB~JK3S9LGJ-hrnO0WnjbmgUSTyX2Iu8Ux~wD1Z7rwbJIRlSDSS~xtGkHu3jgb1~GFX4BU~1pVlbESK2gng1zemkHVAzy4dscOEm77J7GjexiA__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 3.77
-        },
         {
           "date": "2026-05-10",
           "best_price": 3.77
@@ -15996,6 +15992,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 3.77
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 3.77
         }
       ],
@@ -16048,10 +16048,6 @@
       ],
       "history": [
         {
-          "date": "2026-05-09",
-          "best_price": 2.97
-        },
-        {
           "date": "2026-05-10",
           "best_price": 2.97
         },
@@ -16405,6 +16401,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 4.29
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 4.29
         }
       ],
@@ -16587,14 +16587,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC81YTVkNTViMmQ0MmIyNTlmZTBiZjZmMzQzYWYyOWE4Ni9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgxWVRWa05UVmlNbVEwTW1JeU5UbG1aVEJpWmpabU16UXpZV1l5T1dFNE5pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjcwNzE5OH19fV19&Signature=W-B-tIlnpBW1vAiNvbT3P84w9gTj~s1o5pXCbzET3vnhW7B5dqdouER-1UCr5Qpi~S~6ZPyw0zWq7JOfO7fel5BkxNnC1YtbrNREVT-DCscJU1F4pkZ7lrFz69uoz8jDXOxh3FHIKyjku1FJnQFM8pvQvi3uergJY9RWEHp3IvNLakYRSR3jDb~vhgMGR~AYo2gY1mhV2lQMT7tDPSZsNU7iwcYJ-wAcV4f5Asw-TV2Kbl96ihKVYi0BnOHnoSK9b-5nEC3IoG1YJ~lgBsyLPuk5W4c8H1ZJjfH7CgSXtPC-6JBT6ZZHhbR-3eRWT8quPdRTz6C30Tq49GqWkS~nmQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC81YTVkNTViMmQ0MmIyNTlmZTBiZjZmMzQzYWYyOWE4Ni9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgxWVRWa05UVmlNbVEwTW1JeU5UbG1aVEJpWmpabU16UXpZV1l5T1dFNE5pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc5NDMyOH19fV19&Signature=VmX9F-UfDpvCcQs1Bd-FDcIu5cVMKC-~hdofuZImfqXoqHTiMPF0qYmERQkEA9K2ELGcpGF5UH9ImM6r3A3RAM8pKLSXdWgJAXdqTjOkQrfyKQsMRkjJE17xmoHOWCKyVfqVSyq-uZrwZc8Z~YoxbGXbtZM-YXzdRy223PQv2mv5KWAXHJyXEX2XNejEMKwEjAD7VvQ3~CqutGsK1Ex1DMqCv-cThV30LBCgj0LKCjSuVgqsBlmcIlPI8DqIwywrY1BAWFw2Li6BmKYu2sLUoC0I~8YwKz7sTl6uH~c1Q9P2y-eM18Gf4zNdabMwFh3PLjklugEqbH2-kLGURDjErA__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 3.47
-        },
         {
           "date": "2026-05-10",
           "best_price": 3.47
@@ -16918,6 +16914,10 @@
         {
           "date": "2026-08-07",
           "best_price": 3.47
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 3.47
         }
       ],
       "notes": []
@@ -16953,14 +16953,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC83Y2ZiNjM4MzEyNmIxZDU5NWQ1ZTRjODQ0Yzc2OWIzYS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgzWTJaaU5qTTRNekV5Tm1JeFpEVTVOV1ExWlRSak9EUTBZemMyT1dJellTOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjcwODY1Mn19fV19&Signature=WXAK8KjGU2axWUMSu-Yq2Jc~DSoI-nXXhQbP~rwXsFobgrpH4-Psx1iW89bNxJfhjfqHFlkMETUmhjbx0f~W21P0U8xdT7KNScrDyJy6tJTantkvPSlozAfx-Y-Bjc58MOOKf9bawDA~xBGvD6tTB63pwB1kAkDawakWxMj7v7i1iZP8medJh9ZzPAzzi35aMF8Qlg-e82Hw1FXuXJA4GhZAPIoYscUTbcYsBD6bIHbB34ZzPCKDiz219i4dVPiQLJV~ROpt6539c5y5fK9cCS1bNr61c4qtbsSwWQ5whGhfuwjbfmfarSJqXQFiHl5kkGev7sP1eZZ9wZs6ujOl~A__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC83Y2ZiNjM4MzEyNmIxZDU5NWQ1ZTRjODQ0Yzc2OWIzYS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgzWTJaaU5qTTRNekV5Tm1JeFpEVTVOV1ExWlRSak9EUTBZemMyT1dJellTOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc5MzI3MH19fV19&Signature=QondUs38Z6xansMn8e4MwX6hCNA7CsEo8DSh1F3bRbiBTPyKsuZ-TcQJUFJzkTXBPQ3aZugciHRCLYeA3DbfGOvW8yvHtww6SN0LawES6TOfsr-RpncFtZ8Qq8DMxLeGzmg6Y2vUlMgTzVr0rOlgwS9nLWeO4CGtdQIrUlEls7dIzS7iicrjN8e7ZBKyow-IolopcI7ZEqgw8dsni2LFmy~54OiJTn8ysqVeDQJPkl7Ix8LNqEsoRUQ-rA-vYi9RXDUI4R7PVmO~mTvF4mzkB-51iqSGc-pL8luc1cwBTu-utYxR~ywCvgpQCekSMnlsyUzsXlsDn~5i4VadVweTyw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 7.77
-        },
         {
           "date": "2026-05-10",
           "best_price": 7.77
@@ -17044,6 +17040,10 @@
         {
           "date": "2026-08-07",
           "best_price": 10.97
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 10.97
         }
       ],
       "notes": []
@@ -17079,14 +17079,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9hNjY3ZGRmMDYxZDQ5OWIzY2YwMzIyOGNkYmY0MjdlNC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzloTmpZM1pHUm1NRFl4WkRRNU9XSXpZMll3TXpJeU9HTmtZbVkwTWpkbE5DOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjcwODUxNH19fV19&Signature=YuTA5CWNV8qdhICtYU2x9N~Q~K3WQukzxFb1qiZZMiNOPiSeVPkKzAJNAEpJc9R3v1MGgN5V~2qpWdFaxQLeWfVt-x3rWsYo0YYvVg79OAZJMD5LDWepu1jTm5zNxw4ASZUixs~76yHitbjdTVhqP1aaCWPYNKNZNYRz8uOmxgqWWQUtOpVsHeiwRnHUs1LwwQbiDnNjGqgtCqmJHGxjW4jaAMMrxX1nEVNB6f5JSNya~7PzI4gH4konr2DfgHtEwwtJ813oRIxLn3db7xavW7ODB9iPBuTd-Vd~bCRC5KgaW00nZQeI1utLlcZ55vO-rNpFUjdeSiEO7wgxiMayZQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9hNjY3ZGRmMDYxZDQ5OWIzY2YwMzIyOGNkYmY0MjdlNC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzloTmpZM1pHUm1NRFl4WkRRNU9XSXpZMll3TXpJeU9HTmtZbVkwTWpkbE5DOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc5NDY0NX19fV19&Signature=D-jlNpcbkZdZMzsEzUb5N-FqZs31~K-Y7WEdmJebbNsU8S-yG4AvSBou5mRFHHCh4feoJoOgYHZ8oR63zjWSlDieF7VKvxA2faHScNq1mI0BK9uKNdsRz0d-33pJQCFtQK1FCT~dHRB4JTGonRKcdwAk9inxqSeSYFdMGJZCgULImbiFe7GgJariHgARvIO6nBqe8m0u4o68VVv4ZTcIxqJG4cTTFWujEP~oYbDtFb6nprTnCKNeLK7p0xjxAMXkFaYbjBUNdFNu79d2BqX3I0Wvv9dDdIL7alTPkQ~5~RbXdq1trMqLN9bKuWQ-XPU3zulirSaTzwrnYNM4e8sdjw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 9.97
-        },
         {
           "date": "2026-05-10",
           "best_price": 9.97
@@ -17438,6 +17434,10 @@
         {
           "date": "2026-08-07",
           "best_price": 9.97
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 9.97
         }
       ],
       "notes": []
@@ -17473,14 +17473,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC81M2FhNjExZjNhNzA3YWM2ZjM4NDhiYTdmODA2ZjdkNi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgxTTJGaE5qRXhaak5oTnpBM1lXTTJaak00TkRoaVlUZG1PREEyWmpka05pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjcwOTA4M319fV19&Signature=ZwX9M60T9d3UnbKaPnSQJqlC64FjyEHLV9TwjbhouZtVkUm5hQABcHL7CnyD8vUT5fsWF9xGoRmGjYz1S5MZvvlV6hnF6hYFiIwc~zKTqWecLNdtPgnQ-yjAxwb2aeaAPol4mnopG1uxz7U7sm5Pw-N8HHthiQRYS9o4g-rqdZeUn6jo2exX3J~tCSYNzK-ezgG8~Gqi-ansD6tGQ~thLcBU6yR029DHnMY5j2~OlladEZriOb4FSAdmxIoJJKL1MnxxIpjr8AzCOmbiYKaAqAqF6201U-0adM6ScmxH9~TLU9L~QLSIDq~Afe3vEsd6MxqCWAAVCLt7VMwKcUpaRw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC81M2FhNjExZjNhNzA3YWM2ZjM4NDhiYTdmODA2ZjdkNi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgxTTJGaE5qRXhaak5oTnpBM1lXTTJaak00TkRoaVlUZG1PREEyWmpka05pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc5NDYyN319fV19&Signature=GIeoEmpjyEdQFLtwFyBaSBMRc3gSlRiC43F4bQASEe78e9KZsDw0d8iH~a2CK3B7rF~ya0TWnrQojTzoLpE6nGkf0RAOIRF0gCLb6iFROKNfnVqlQ1H6QHEj4kgH0Ub4YLMiOvE23zUaxrIsCPGXm6z-F6xlyq3qf6jSx7lOUJx4uod62hQ0AWd4QOe6axxMLfw6ADQfSZ9G2Nae1HiVJRWfNkPVlPKKJzfP3M0BEszx-~mTlAgK5JsxScIiOF11Y6BVXiLy4Epl-bZB92Mh6-K-S-s4A8oclpDnEPkHqiIGKmj~EIxaUXCHd6LuAL~RCetv563dp920l0CMnEtdwA__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 4.97
-        },
         {
           "date": "2026-05-10",
           "best_price": 4.97
@@ -17647,6 +17643,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 4.97
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 4.97
         }
       ],
@@ -17887,14 +17887,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC8yNzAwNGZlOWE5YTFlNzM3ZWQzNjk3OTZmZGY1YWMyNi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzh5TnpBd05HWmxPV0U1WVRGbE56TTNaV1F6TmprM09UWm1aR1kxWVdNeU5pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjcwODg5MX19fV19&Signature=jiumDzeqac~nWpBFllX~bQBPAQ1QolTGLxPKILCbM-YSbgaqAiE5f9CHBjGBh9LNY8RdTObHyBgl77jueILETL2xekY6KF90aXebTZvWVDjWAJE4rQdX4lAz~7k1se3q7sSCYn1aW8JsI6NnHPVeg0CaiIyoOl8PlbEd58ag6L8PY3vJ5RkLocWw5SID5~cZjE2UuM2NMfaBNVEIi5pI7NSAiltIzDbJNAzZvdcdu0RQeaQ7yItFJVncfVjuVHrrocgIA~aOIrRWuqIymSPlUKpJtXclerpr1NUnLani1wVTO9BLK8aB7q8aN~FbML6QU5DI9L18dlQBMSR-DKm6aQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC8yNzAwNGZlOWE5YTFlNzM3ZWQzNjk3OTZmZGY1YWMyNi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzh5TnpBd05HWmxPV0U1WVRGbE56TTNaV1F6TmprM09UWm1aR1kxWVdNeU5pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc5MzYzNH19fV19&Signature=ob2YkS4PeAzCFclk62s83fW4gPB7svSu84SRREt90pMLuKehLn4K4gunuuVatnGGjRrsRUYuHAy2aWkNnk82Zw0iEsAp-ioxLqHkV553YBAQO6Ej~Pfo~zbz46Spn9hvZp6QX3eK6T9fiMBHrLI~uXQqLFngb1DF1aT3T3E9y3AK0OZo2d3YcHUWyUQNegU~8VXWQveIkcpZokLrzseQ~Xf5k5JF0yuT4uHct4~2Nj4XYD7VRCwGre8WJ9YTzF~Zo5eDbbW2Q~qM40F1xEzC6yIASdjmUzH3Qp-4P3rmmI6FOoc3F-ZSqamfiLTpnNMWEwiIBnLBt3jfHICF53-2rg__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 1.84
-        },
         {
           "date": "2026-05-10",
           "best_price": 1.84
@@ -18026,6 +18022,10 @@
         {
           "date": "2026-08-07",
           "best_price": 1.84
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 1.84
         }
       ],
       "notes": []
@@ -18061,14 +18061,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC8zMDg4MzdkNzNjYjY2NmY1NTBiYjRjMzlmNTY2ZTYzMS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzh6TURnNE16ZGtOek5qWWpZMk5tWTFOVEJpWWpSak16bG1OVFkyWlRZek1TOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjcwODc1M319fV19&Signature=h5g4qJ-4tXMUIwH5j~RkPJKljVp99Pb2nCT~F8x8c80ZsLN~U4GOFlm4WhiJUUkmAdJMDdRK7UytcGqbNAwJDxQnVuz2Ul3dBCvIkqXXGfDZhUipHyjMcW98DuHsmRf3zQZMvs~gA7DsEvSWBQLkAcvDqGf4WmBm2o2L2PXt76Kqz9G8siwFZNSgdhA-y~ma04KHe1hJDLsBNeuRWStwnB1hhK8Q8Tj-LeJti7eg~oqsdSac48eOW1ozKoD6ZjLl2IQUs3zRu6QR6PtU-4MqIyElgIeubu8E2McjIVVXkmLtkvj4uri0pYnBdvku9N-5L9ndZ3ArbI-ongU6ZWfUYg__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC8zMDg4MzdkNzNjYjY2NmY1NTBiYjRjMzlmNTY2ZTYzMS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzh6TURnNE16ZGtOek5qWWpZMk5tWTFOVEJpWWpSak16bG1OVFkyWlRZek1TOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc5MzgxOX19fV19&Signature=qHE5Ep~EsGqdIoNpHY9KOx2WSDAhlwMLsTkvZWTyjRKGLX4H9Yq73F9GAXbRI11jOB2dCZc9Ut8OKs9HPqV5KBZuV0xeukq8DLIJUSD3jcE3Qp~gGFfGByuS~eXcNKUxua4XBA7V0dy8DGL7rK41TbyQfy9mA1qDdcnfzRBdw8bxu3iu2UwFIVoq2GPLRomkt6ek4tKH6m0VSxtaC~wQbpXEiws7zpavbM2hFzBRBfTYZR8yas3Twhq~fK6aYxcN3QR0sARq2mTknEn4g9zm4Fku6duvfwa4hNimpYvGzlreUgXGNItiQ-ubcQPtSOSN8hpqSiOne1FYQRNMn9ZsCw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 1.97
-        },
         {
           "date": "2026-05-10",
           "best_price": 1.97
@@ -18424,6 +18420,10 @@
         {
           "date": "2026-08-07",
           "best_price": 1.97
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 1.97
         }
       ],
       "notes": []
@@ -18442,7 +18442,7 @@
       "best_unit_price": 0.0043,
       "median_price": 4.0,
       "thresholds": {
-        "good": 2.69,
+        "good": 2.66,
         "fair": 2.97,
         "min_seen": 1.91,
         "max_seen": 3.27,
@@ -18558,7 +18558,7 @@
           "sale_story": "Rollback",
           "valid_from": "2026-08-06T07:00:00+00:00",
           "valid_to": "2026-09-17T03:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/429266948/1785716670/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/429949036/1786129248/extra_large.jpg"
         },
         {
           "merchant": "Costco",
@@ -18573,10 +18573,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 2.97
-        },
         {
           "date": "2026-05-10",
           "best_price": 2.97
@@ -18931,6 +18927,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 2.5
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 2.5
         }
       ],
@@ -19103,10 +19103,6 @@
       ],
       "history": [
         {
-          "date": "2026-05-09",
-          "best_price": 8.99
-        },
-        {
           "date": "2026-05-10",
           "best_price": 8.99
         },
@@ -19460,6 +19456,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 7.97
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 7.97
         }
       ],
@@ -19501,10 +19501,6 @@
       ],
       "history": [
         {
-          "date": "2026-05-09",
-          "best_price": 3.97
-        },
-        {
           "date": "2026-05-10",
           "best_price": 3.97
         },
@@ -19835,6 +19831,10 @@
         {
           "date": "2026-08-07",
           "best_price": 2.97
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 2.97
         }
       ],
       "notes": []
@@ -19870,14 +19870,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9jNWMwMDJlMTU3MTdhOTU0ODZkODc0ZGJkZDI3MmZhZC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlqTldNd01ESmxNVFUzTVRkaE9UVTBPRFprT0RjMFpHSmtaREkzTW1aaFpDOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjcwOTIzNH19fV19&Signature=fGj-~rpK6PceCxp55o5sxkmCmNqegFVvsjf~MBpm862vDMlVTvxwPNmG70yd3LNk9W9mhJAbsy~3NNlt6qz4TfAuqySEwF8GfXLhJFGqLUNDnM1MofWMgJkZH1ZT3e3nl-1-UO6zGmcXJ5lisUIGMElkUlSB7RwC-Y9bmQyDJuOGrbI2rIbLOmDIku4zP1yfoxX-EYy66GGTYA43~-HS0bEM-VUnjLcjqdpKPbCc~huM4aMFXmocYApEV09cZDABsKwgJQe81Y9DfzhyGdWS9bzdaTX-lLVFU3uT~uvdEbZg-EqFtUfw8RdL2pE21mKgoO2HaTEthU-H5ddwdpQDyA__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9jNWMwMDJlMTU3MTdhOTU0ODZkODc0ZGJkZDI3MmZhZC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlqTldNd01ESmxNVFUzTVRkaE9UVTBPRFprT0RjMFpHSmtaREkzTW1aaFpDOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc5NDc1Nn19fV19&Signature=We9z7rCfQJEFZNpGVqSXTE-iUJYX25Y3gbDJ3utqcU52mMlWoohPUlF8q8G0PvB~Al6VD1dN~9mii0JNZDm6wsDfP1eexJob7RBX0zfqwQMGgu~oa4AYWpk8Ph1QcPKFjoFmkRvq-x0nS5fbGPmgtts81hBVeUhviCcvMqS4QdEw8lH~9c83vMOKRwCWUtwlJdlYipyhMjSFObkoLVMVEbqZhMorgCd~NcTTKXTovxYGFYFHtXogrpzQWGwSKdXEKGYTPQZD7Y0WJ9f-Yv4NmXed6twxSu0s3n7A8kyoC7uw07gQkL~V0ZlCZ6WxqXhzmb5e3zr18FYE2qEJTRiiFw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 3.37
-        },
         {
           "date": "2026-05-10",
           "best_price": 3.37
@@ -20233,6 +20229,10 @@
         {
           "date": "2026-08-07",
           "best_price": 3.37
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 3.37
         }
       ],
       "notes": []
@@ -20255,15 +20255,11 @@
         "fair": 3.47,
         "min_seen": 2.97,
         "max_seen": 4.49,
-        "samples": 75
+        "samples": 74
       },
       "user_good_price": null,
       "offers": [],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 3.47
-        },
         {
           "date": "2026-05-10",
           "best_price": 3.47
@@ -20581,7 +20577,7 @@
         "fair": 4.68,
         "min_seen": 3.0,
         "max_seen": 7.5,
-        "samples": 52
+        "samples": 53
       },
       "user_good_price": null,
       "offers": [
@@ -20594,7 +20590,7 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9kZWQzZmRkMDA5MjFhODAwMWJkNmI3MDY0NzlmZjc4Yy9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlrWldRelptUmtNREE1TWpGaE9EQXdNV0prTm1JM01EWTBOemxtWmpjNFl5OXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjcwOTIzNX19fV19&Signature=LIFOUn6-XheYEY7rxlrOtOZFV03Gf5lhbY-288wUjwdAb7OuMcD-xCWoAvv134oUIJ9NUmGv5lcszbFUJ6M-SDJZNWcqe-iQXHd6Bnxd1g8GTM22gjvmMWDUXD7d1JXCzF5STxJJWQKGJb9gyvy1mwV8dmch0P2WgLlD8wmS15q5stoKvDMYZ1DPnYZIHAn9rKdy8G9meDaOUBxpEYgDCnPt5WHQEhURBx0PuRQZlGJpsar9OXsCDxdqeOQlfhSbARQYAFCOogx9fbM4ny8fuHmGk0jR1lSF47kmHbVfDYNnj9E1WcUHGBeLoFv2GJrvitouTkNUl-87RmantCfGgg__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9kZWQzZmRkMDA5MjFhODAwMWJkNmI3MDY0NzlmZjc4Yy9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlrWldRelptUmtNREE1TWpGaE9EQXdNV0prTm1JM01EWTBOemxtWmpjNFl5OXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Njc5NDc1OH19fV19&Signature=Ftywbmsv4GlYfjLV4eX8KkGerTSSBK8xhptZjhIJ7XrNA~z55n1SubTWByHxWkC3Kvuh1TjnhzhfcEdy~aiAmGg3R0jynMbhKs-9x480wvdA5islj2MwhoNNbA-YuqrSNstpvVI0cafAOgZqJ891OCj8xGUWsLoHIF1G0UhRIJyWLr0akGFsqmFlcm~OTti3OuzTx8VQdk-bXsvAQgaNNDXeaLs5RaBRhcuU8pP0ul1O3J7EG6U~05kdsgbXFvcaLHVij~Yuv77G7QwO1i7EQ5Mxvr47gDiFT61dP1asY2Apd~jPp5QTMwYOcToGwDTIgry5-hgwgAZxTc-Mqi7x3w__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
@@ -20805,6 +20801,10 @@
         {
           "date": "2026-08-07",
           "best_price": 4.68
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 4.68
         }
       ],
       "notes": []
@@ -20844,10 +20844,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 2.99
-        },
         {
           "date": "2026-05-10",
           "best_price": 2.99
@@ -21063,6 +21059,10 @@
         {
           "date": "2026-08-07",
           "best_price": 3.0
+        },
+        {
+          "date": "2026-08-08",
+          "best_price": 3.0
         }
       ],
       "notes": []
@@ -21226,10 +21226,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-05-09",
-          "best_price": 2.5
-        },
         {
           "date": "2026-05-10",
           "best_price": 2.5
@@ -21584,6 +21580,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 2.96
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 2.96
         }
       ],
@@ -21757,10 +21757,6 @@
       ],
       "history": [
         {
-          "date": "2026-05-09",
-          "best_price": 1.43
-        },
-        {
           "date": "2026-05-10",
           "best_price": 1.43
         },
@@ -22114,6 +22110,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 1.25
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 1.25
         }
       ],
@@ -22265,10 +22265,6 @@
       ],
       "history": [
         {
-          "date": "2026-05-09",
-          "best_price": 1.25
-        },
-        {
           "date": "2026-05-10",
           "best_price": 1.25
         },
@@ -22622,6 +22618,10 @@
         },
         {
           "date": "2026-08-07",
+          "best_price": 1.37
+        },
+        {
+          "date": "2026-08-08",
           "best_price": 1.37
         }
       ],
