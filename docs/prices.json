@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T19:29:09+00:00",
+  "generated_at": "2026-11-19T19:33:39+00:00",
   "postal_code": "V5K0A1",
   "items": [
     {
@@ -12,9 +12,9 @@
         "value": 1,
         "unit": "lb"
       },
-      "best_price": null,
-      "best_unit_price": null,
-      "median_price": null,
+      "best_price": 0.29,
+      "best_unit_price": 0.29,
+      "median_price": 0.29,
       "thresholds": {
         "good": 1.18,
         "fair": 3.57,
@@ -23,12 +23,20 @@
         "samples": 61
       },
       "user_good_price": null,
-      "offers": [],
-      "history": [
+      "offers": [
         {
-          "date": "2026-08-21",
-          "best_price": 0.35
-        },
+          "merchant": "Walmart",
+          "name": "Banana",
+          "price": 0.29,
+          "pre_price_text": null,
+          "post_price_text": null,
+          "sale_story": null,
+          "valid_from": null,
+          "valid_to": null,
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC84MTM1MDk0YTNkMjk5NGJkZWFlOWU4NGNkNzEyY2M2OS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzg0TVRNMU1EazBZVE5rTWprNU5HSmtaV0ZsT1dVNE5HTmtOekV5WTJNMk9TOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcyMDMwNH19fV19&Signature=IJ-8cIsbIQmzMPUeXDOQrtQZy0gz7s7vJDQkTTr1hp3yn1OrZW5KefnWXEzkHmx5t9gpfy2-nszAItFU2NA2HvMKQvrdtXqZMI8ye6ENVdk85M3JH6MZNUzjaQadPM2qpeQjjU6CW6CCCE44wcI2kiRF19Z8VEvecv5kqaHIJ4aDtLQ5Fni85~NL6XD1C0-Xy1pQBxzeVWt~8ndm6E5HXuiGVAgl3CAdmv0N3rdk6~iaq6Go3n0tFTbT67INtS7uS8uBmZ~FHMrniLVvsUqurfUJjTRW5m6CESv9vj4Wh660BfW0FfTlzPfumkknCeOytHy5NhZVPsMYVxMShVeBDg__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+        }
+      ],
+      "history": [
         {
           "date": "2026-08-22",
           "best_price": 0.35
@@ -268,6 +276,10 @@
         {
           "date": "2026-11-12",
           "best_price": 3.55
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 0.29
         }
       ],
       "notes": []
@@ -284,7 +296,7 @@
       },
       "best_price": 1.99,
       "best_unit_price": 1.99,
-      "median_price": 2.99,
+      "median_price": 3.77,
       "thresholds": {
         "good": 0.99,
         "fair": 1.28,
@@ -328,17 +340,6 @@
           "image_url": "https://f.wishabi.net/page_items/440568826/1794627297/extra_large.jpg"
         },
         {
-          "merchant": "FreshCo",
-          "name": "Honeycrisp Apples Product of British Columbia, Canada Extra Fancy, Honey Tangerines Product of Australia 4.4l/kg or Blueberries 170 g Product of Peru, No. I Grade",
-          "price": 2.0,
-          "pre_price_text": "only",
-          "post_price_text": "/LB OR EA",
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439784640/1793886589/extra_large.jpg"
-        },
-        {
           "merchant": "T&T Supermarket",
           "name": "Cosmic Crisp/ Envy Apple",
           "price": 2.28,
@@ -350,37 +351,26 @@
           "image_url": "https://f.wishabi.net/page_items/440418504/1794459466/extra_large.jpg"
         },
         {
-          "merchant": "Walmart",
-          "name": "Bulk Honeycrisp apples",
-          "price": 2.98,
-          "pre_price_text": null,
-          "post_price_text": "lb",
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440323694/1794414971/extra_large.jpg"
-        },
-        {
-          "merchant": "Thrifty Foods",
-          "name": "Organic Honeycrisp Apples",
+          "merchant": "Choices Markets",
+          "name": "Cosmic Crisp Apples",
           "price": 2.99,
           "pre_price_text": null,
-          "post_price_text": "/lb",
+          "post_price_text": "/LB",
           "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439656357/1793993795/extra_large.jpg"
+          "valid_from": "2026-11-19T05:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440349089/1794475735/extra_large.jpg"
         },
         {
-          "merchant": "Real Canadian Superstore",
-          "name": "PC\u00ae ORGANICS UNSWEETENED APPLE SAUCE, 6X100 ML",
-          "price": 4.0,
-          "pre_price_text": null,
+          "merchant": "FreshCo",
+          "name": "Ambrosia Apples 3 lb Product of BC, Canada Fancy 1.36 kg or Seedless Cucumber 3 pk Product of Mexico, No. 1 Grade or Canada, Canada No. 1",
+          "price": 3.77,
+          "pre_price_text": "only",
           "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439894785/1794015877/extra_large.jpg"
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440450171/1794498190/extra_large.jpg"
         },
         {
           "merchant": "Buy-Low Foods",
@@ -394,37 +384,37 @@
           "image_url": "https://f.wishabi.net/page_items/440530016/1794555663/extra_large.jpg"
         },
         {
-          "merchant": "Choices Markets",
-          "name": "Organic Ambrosia Apples",
-          "price": 5.99,
-          "pre_price_text": null,
-          "post_price_text": "/EA",
-          "sale_story": "YOU SAVE 25%",
-          "valid_from": "2026-11-12T05:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440189543/1794336763/extra_large.jpg"
-        },
-        {
-          "merchant": "Nesters Market",
-          "name": "Organic Gala Apples",
-          "price": 6.99,
-          "pre_price_text": null,
-          "post_price_text": "ea",
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439974320/1794052095/extra_large.jpg"
-        },
-        {
-          "merchant": "Your Independent Grocer",
-          "name": "FARMER'S MARKET\u2122 GALA OR MCINTOSH APPLES, 5 LB",
-          "price": 7.5,
+          "merchant": "Walmart",
+          "name": "Your Fresh Market\u2122 Gala apples",
+          "price": 5.98,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957174/1794021053/extra_large.jpg"
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/441216184/1795108400/extra_large.jpg"
+        },
+        {
+          "merchant": "Thrifty Foods",
+          "name": "Organic Royal Gala Apples",
+          "price": 6.99,
+          "pre_price_text": null,
+          "post_price_text": "EACH",
+          "sale_story": null,
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440776269/1794898503/extra_large.jpg"
+        },
+        {
+          "merchant": "Your Independent Grocer",
+          "name": "FARMER'S MARKET\u2122 GALA, AMBROSIA OR MCINTOSH APPLES, 5 LB",
+          "price": 8.0,
+          "pre_price_text": null,
+          "post_price_text": null,
+          "sale_story": "PRODUCT OF CANADA",
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440585638/1794617569/extra_large.jpg"
         },
         {
           "merchant": "Costco",
@@ -439,10 +429,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 1.99
-        },
         {
           "date": "2026-08-22",
           "best_price": 1.99
@@ -794,6 +780,10 @@
         {
           "date": "2026-11-18",
           "best_price": 1.99
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 1.99
         }
       ],
       "notes": []
@@ -810,7 +800,7 @@
       },
       "best_price": 1.27,
       "best_unit_price": 1.27,
-      "median_price": 4.99,
+      "median_price": 5.99,
       "thresholds": {
         "good": 1.28,
         "fair": 1.97,
@@ -829,29 +819,7 @@
           "sale_story": null,
           "valid_from": "2026-11-19T08:00:00+00:00",
           "valid_to": "2026-11-26T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440536079/1794555661/extra_large.jpg"
-        },
-        {
-          "merchant": "Choices Markets",
-          "name": "Organic Navel Oranges",
-          "price": 2.99,
-          "pre_price_text": null,
-          "post_price_text": "/LB",
-          "sale_story": null,
-          "valid_from": "2026-11-12T05:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439951325/1794016264/extra_large.jpg"
-        },
-        {
-          "merchant": "Walmart",
-          "name": "Your Fresh Market\u2122 mandarins",
-          "price": 4.44,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439605659/1794015081/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/441063844/1795036934/extra_large.jpg"
         },
         {
           "merchant": "Safeway",
@@ -876,33 +844,18 @@
           "image_url": "https://f.wishabi.net/page_items/440776266/1794898500/extra_large.jpg"
         },
         {
-          "merchant": "Nesters Market",
-          "name": "Halos Mandarin Oranges",
-          "price": 5.99,
+          "merchant": "Choices Markets",
+          "name": "Navel Oranges",
+          "price": 6.99,
           "pre_price_text": null,
-          "post_price_text": "ea",
+          "post_price_text": "/ EA",
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439974264/1794052094/extra_large.jpg"
-        },
-        {
-          "merchant": "Your Independent Grocer",
-          "name": "FRENCH BEANS MEXICO OR FARMER'S MARKET\u2122 NAVAL ORANGES",
-          "price": 6.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957172/1794021051/extra_large.jpg"
+          "valid_from": "2026-11-19T05:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440349078/1794475724/extra_large.jpg"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 6.99
-        },
         {
           "date": "2026-08-22",
           "best_price": 6.99
@@ -1254,6 +1207,10 @@
         {
           "date": "2026-11-18",
           "best_price": 1.27
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 1.27
         }
       ],
       "notes": []
@@ -1268,8 +1225,8 @@
         "value": 1,
         "unit": "lb"
       },
-      "best_price": 1.97,
-      "best_unit_price": 1.97,
+      "best_price": 2.0,
+      "best_unit_price": 2.0,
       "median_price": 2.99,
       "thresholds": {
         "good": 1.92,
@@ -1280,17 +1237,6 @@
       },
       "user_good_price": null,
       "offers": [
-        {
-          "merchant": "Buy-Low Foods",
-          "name": "Tomatoes on the Vine",
-          "price": 1.97,
-          "pre_price_text": null,
-          "post_price_text": "ea",
-          "sale_story": "WOW!",
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957426/1794038588/extra_large.jpg"
-        },
         {
           "merchant": "Loblaws",
           "name": "GREENHOUSE TOMATOES ON THE VINE",
@@ -1345,35 +1291,9 @@
           "valid_from": "2026-11-19T08:00:00+00:00",
           "valid_to": "2026-11-26T04:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/440530888/1794556585/extra_large.jpg"
-        },
-        {
-          "merchant": "FreshCo",
-          "name": "Tomatoes on the Vine Product of Canada or Mexico",
-          "price": 2.99,
-          "pre_price_text": "only",
-          "post_price_text": "/lb",
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439784511/1793886585/extra_large.jpg"
-        },
-        {
-          "merchant": "Real Canadian Superstore",
-          "name": "PC TOMATOES ON THE VINE BALANCIA, 454 G",
-          "price": 5.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439894526/1794015875/extra_large.jpg"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 1.99
-        },
         {
           "date": "2026-08-22",
           "best_price": 1.99
@@ -1725,6 +1645,10 @@
         {
           "date": "2026-11-18",
           "best_price": 1.97
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 2.0
         }
       ],
       "notes": []
@@ -1760,14 +1684,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC85Njk2NTFjYWY3MDA3MGNhYWM1Zjk2NGE3YTkwOTIwMS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzg1TmprMk5URmpZV1kzTURBM01HTmhZV00xWmprMk5HRTNZVGt3T1RJd01TOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTYzNDg5OX19fV19&Signature=TfpGNMMTWi6WdfF6m2GlKrB9OR4xx~y~~yxe44l5s6rBMAxJmAsHf8uN5IqS7srca6fwVcqr22vtpyr0aR-0GRJIXdA~ZlDPQeQuXa4ZIsAwUHplth3WmsxAoUF3bQJZKX5jUW3r~dHDdoJPZn32nf~U38lhGey1S9PM3GJ-~UyLPt7nZczds4wPjrQ~RCOGXIWlf-CywFM5sPbWwdJ1jativ2ZLnMqyEFNBLkfz80GZlkz8EsPRMzuUARg9FX-JXXmHoqLVdSbhcb9geY2VE12HIjhZLdzFvuD-pUsLBthVoUS3fkge-h8DNrldNIGqDAyr6djp2bQDSqp6w4BjcA__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC85Njk2NTFjYWY3MDA3MGNhYWM1Zjk2NGE3YTkwOTIwMS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzg1TmprMk5URmpZV1kzTURBM01HTmhZV00xWmprMk5HRTNZVGt3T1RJd01TOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcyMTU3MH19fV19&Signature=Gc4MxEOn0B7Ov9uaKtjVD48GUq8HMG6cBnN~sePEtRLhZImzYYZ~sjqDFv1gxK3owq3PrC3wgX8VkkRWbL~OdDMluF03b9-dmDZ4TkUGVquGXbiRrabNHhp6apBJzE4uDTkGwwYQr6X-qMirzKWDMb1jLmMwSRIPFWzsi2XvBO9QzwKuNdJz7kCTFCsoqgejcHXhJTtQu~SBR1BK-IynnXd~vwFzVqGgKFNTKHrQgV7QRB2piOpJKNuuTu5L1JPzH4n1n546Ie~ebvs82in6IfZkc6pn0eAWNPTojLBbRuDQQCrfXo7XJ9SXpon0Iwe4Su8-htJBIKIhsDph1mD9uQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 2.47
-        },
         {
           "date": "2026-08-22",
           "best_price": 2.47
@@ -2119,6 +2039,10 @@
         {
           "date": "2026-11-18",
           "best_price": 2.47
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 2.47
         }
       ],
       "notes": []
@@ -2135,7 +2059,7 @@
       },
       "best_price": 4.24,
       "best_unit_price": 4.24,
-      "median_price": 5.5,
+      "median_price": 5.99,
       "thresholds": {
         "good": 1.99,
         "fair": 4.24,
@@ -2157,39 +2081,6 @@
           "image_url": "https://f.wishabi.net/page_items/439557601/1794335184/extra_large.jpg"
         },
         {
-          "merchant": "Choices Markets",
-          "name": "Yellow, Red or Russet Potatoes",
-          "price": 5.49,
-          "pre_price_text": null,
-          "post_price_text": "/ EA",
-          "sale_story": null,
-          "valid_from": "2026-11-12T05:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439951315/1794016263/extra_large.jpg"
-        },
-        {
-          "merchant": "Loblaws",
-          "name": "FARMER'S MARKET\u2122 RUSSET POTATOES, 10 LB BAG OR ENGLISH CUCUMBERS, 3'S",
-          "price": 5.5,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439888536/1794006328/extra_large.jpg"
-        },
-        {
-          "merchant": "Your Independent Grocer",
-          "name": "FARMER'S MARKET\u2122 RUSSET POTATOES, 10 LB BAG OR ENGLISH CUCUMBERS, 3'S",
-          "price": 5.5,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957184/1794021063/extra_large.jpg"
-        },
-        {
           "merchant": "No Frills",
           "name": "RED, RUSSET OR YELLOW POTATOES, 10 LB BAG",
           "price": 5.99,
@@ -2202,10 +2093,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 5.99
-        },
         {
           "date": "2026-08-22",
           "best_price": 5.99
@@ -2541,6 +2428,10 @@
         {
           "date": "2026-11-18",
           "best_price": 4.24
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 4.24
         }
       ],
       "notes": []
@@ -2557,7 +2448,7 @@
       },
       "best_price": 2.0,
       "best_unit_price": 2.0,
-      "median_price": 3.0,
+      "median_price": 3.99,
       "thresholds": {
         "good": 0.94,
         "fair": 1.0,
@@ -2567,17 +2458,6 @@
       },
       "user_good_price": null,
       "offers": [
-        {
-          "merchant": "FreshCo",
-          "name": "Yellow Onions or Carrots 3 lb Product of Canada, Canada No. 1, 1.36 kg",
-          "price": 2.0,
-          "pre_price_text": "only",
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439784642/1793886591/extra_large.jpg"
-        },
         {
           "merchant": "Safeway",
           "name": "Red Carrots",
@@ -2601,15 +2481,15 @@
           "image_url": "https://f.wishabi.net/page_items/439586175/1794335186/extra_large.jpg"
         },
         {
-          "merchant": "Buy-Low Foods",
-          "name": "Carrots",
-          "price": 2.97,
+          "merchant": "Loblaws",
+          "name": "CELERY STALKS OR FARMER'S MARKET\u2122 CARROT, 2 LB BAG OR YELLOW ONIONS, 3 LB BAG",
+          "price": 3.0,
           "pre_price_text": null,
-          "post_price_text": "ea",
+          "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957429/1794038586/extra_large.jpg"
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440555492/1794615264/extra_large.jpg"
         },
         {
           "merchant": "Your Independent Grocer",
@@ -2623,37 +2503,15 @@
           "image_url": "https://f.wishabi.net/page_items/440585635/1794617566/extra_large.jpg"
         },
         {
-          "merchant": "Loblaws",
-          "name": "CELERY STALKS OR FARMER'S MARKET\u2122 CARROT, 2 LB BAG OR YELLOW ONIONS, 3 LB BAG",
-          "price": 3.0,
+          "merchant": "Choices Markets",
+          "name": "Organic Bunched Carrots",
+          "price": 3.99,
           "pre_price_text": null,
-          "post_price_text": null,
+          "post_price_text": "/ EA",
           "sale_story": null,
-          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_from": "2026-11-19T05:00:00+00:00",
           "valid_to": "2026-11-26T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440555492/1794615264/extra_large.jpg"
-        },
-        {
-          "merchant": "No Frills",
-          "name": "NO NAME\u00ae NATURALLY IMPERFECT\u2122 CARROTS, 5 LB BAG",
-          "price": 4.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439912969/1794594106/extra_large.jpg"
-        },
-        {
-          "merchant": "Real Canadian Superstore",
-          "name": "FARMER'S MARKET\u2122 MINI CARROTS, 2 LB",
-          "price": 4.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439894591/1794015879/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/440349079/1794475725/extra_large.jpg"
         },
         {
           "merchant": "Nesters Market",
@@ -2667,22 +2525,29 @@
           "image_url": "https://f.wishabi.net/page_items/440530886/1794556583/extra_large.jpg"
         },
         {
-          "merchant": "Choices Markets",
-          "name": "Organic Carrots",
-          "price": 5.99,
+          "merchant": "No Frills",
+          "name": "FARMER'S MARKET\u2122 CARROTS or BEETS, 10 LB BAG",
+          "price": 4.49,
+          "pre_price_text": "only",
+          "post_price_text": null,
+          "sale_story": null,
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440568805/1794891996/extra_large.jpg"
+        },
+        {
+          "merchant": "Real Canadian Superstore",
+          "name": "FARMER'S MARKET\u2122 CARROTS OR BEETS, 10 LB",
+          "price": 4.99,
           "pre_price_text": null,
-          "post_price_text": "/EA",
-          "sale_story": "YOU SAVE 20%",
-          "valid_from": "2026-11-12T05:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440189541/1794336762/extra_large.jpg"
+          "post_price_text": null,
+          "sale_story": null,
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440562188/1794612986/extra_large.jpg"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 2.49
-        },
         {
           "date": "2026-08-22",
           "best_price": 2.49
@@ -3033,6 +2898,10 @@
         },
         {
           "date": "2026-11-18",
+          "best_price": 2.0
+        },
+        {
+          "date": "2026-11-19",
           "best_price": 2.0
         }
       ],
@@ -3076,11 +2945,11 @@
           "name": "BROCCOLI CROWNS",
           "price": 2.99,
           "pre_price_text": null,
-          "post_price_text": null,
+          "post_price_text": "lb",
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439912979/1794594122/extra_large.jpg"
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440568756/1794627308/extra_large.jpg"
         },
         {
           "merchant": "FreshCo",
@@ -3094,33 +2963,18 @@
           "image_url": "https://f.wishabi.net/page_items/440450098/1794498198/extra_large.jpg"
         },
         {
-          "merchant": "Nesters Market",
-          "name": "Broccoli Crowns",
-          "price": 2.99,
+          "merchant": "Choices Markets",
+          "name": "Organic Broccoli Crowns",
+          "price": 3.99,
           "pre_price_text": null,
-          "post_price_text": "lb",
+          "post_price_text": "/LB",
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439974272/1794052101/extra_large.jpg"
-        },
-        {
-          "merchant": "Safeway",
-          "name": "Broccoli Wokly",
-          "price": 4.99,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": "200 Scene+ PTS when you buy 2",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439744661/1793844244/extra_large.jpg"
+          "valid_from": "2026-11-19T05:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440349158/1794475737/extra_large.jpg"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 1.99
-        },
         {
           "date": "2026-08-22",
           "best_price": 1.99
@@ -3472,6 +3326,10 @@
         {
           "date": "2026-11-18",
           "best_price": 1.98
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 1.98
         }
       ],
       "notes": []
@@ -3487,7 +3345,7 @@
       "best_unit_price": null,
       "median_price": 5.99,
       "thresholds": {
-        "good": 3.99,
+        "good": 3.97,
         "fair": 4.97,
         "min_seen": 1.99,
         "max_seen": 6.98,
@@ -3519,10 +3377,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 4.49
-        },
         {
           "date": "2026-08-22",
           "best_price": 4.49
@@ -3870,6 +3724,10 @@
         {
           "date": "2026-11-18",
           "best_price": 3.49
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 3.49
         }
       ],
       "notes": []
@@ -3886,13 +3744,13 @@
       },
       "best_price": 2.49,
       "best_unit_price": 2.49,
-      "median_price": 5.99,
+      "median_price": 4.0,
       "thresholds": {
         "good": 1.99,
         "fair": 4.98,
         "min_seen": 1.17,
         "max_seen": 6.0,
-        "samples": 71
+        "samples": 72
       },
       "user_good_price": null,
       "offers": [
@@ -3919,17 +3777,6 @@
           "image_url": "https://f.wishabi.net/page_items/440530012/1794555658/extra_large.jpg"
         },
         {
-          "merchant": "Safeway",
-          "name": "Mini Sweet Peppers",
-          "price": 5.99,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439744666/1793844249/extra_large.jpg"
-        },
-        {
           "merchant": "Real Canadian Superstore",
           "name": "NO NAME\u00ae NATURALLY IMPERFECT\u2122 SWEET PEPPERS",
           "price": 6.24,
@@ -3939,17 +3786,6 @@
           "valid_from": "2026-11-19T08:00:00+00:00",
           "valid_to": "2026-11-26T04:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/440562180/1794612979/extra_large.jpg"
-        },
-        {
-          "merchant": "Thrifty Foods",
-          "name": "Divemex Organic Bell Peppers",
-          "price": 7.99,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": "100 Scene+ PTS when you buy 1",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439656344/1793993787/extra_large.jpg"
         }
       ],
       "history": [
@@ -4236,6 +4072,10 @@
         {
           "date": "2026-11-18",
           "best_price": 2.49
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 2.49
         }
       ],
       "notes": []
@@ -4271,28 +4111,6 @@
           "image_url": "https://f.wishabi.net/page_items/440776260/1794898492/extra_large.jpg"
         },
         {
-          "merchant": "Real Canadian Superstore",
-          "name": "FARMER'S MARKET\u2122 ENGLISH CUCUMBERS, 3'S",
-          "price": 3.99,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439894607/1794015874/extra_large.jpg"
-        },
-        {
-          "merchant": "Nesters Market",
-          "name": "Organic Long English Cucumber",
-          "price": 3.99,
-          "pre_price_text": null,
-          "post_price_text": "ea",
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439974321/1794052096/extra_large.jpg"
-        },
-        {
           "merchant": "No Frills",
           "name": "FARMER'S MARKET\u2122 ENGLISH CUCUMBERS",
           "price": 4.99,
@@ -4302,46 +4120,9 @@
           "valid_from": "2026-11-19T08:00:00+00:00",
           "valid_to": "2026-11-26T04:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/440568757/1794627309/extra_large.jpg"
-        },
-        {
-          "merchant": "Safeway",
-          "name": "Long English Cucumbers",
-          "price": 5.0,
-          "pre_price_text": "2/",
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439744689/1793844273/extra_large.jpg"
-        },
-        {
-          "merchant": "Loblaws",
-          "name": "FARMER'S MARKET\u2122 RUSSET POTATOES, 10 LB BAG OR ENGLISH CUCUMBERS, 3'S",
-          "price": 5.5,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439888536/1794006328/extra_large.jpg"
-        },
-        {
-          "merchant": "Your Independent Grocer",
-          "name": "FARMER'S MARKET\u2122 RUSSET POTATOES, 10 LB BAG OR ENGLISH CUCUMBERS, 3'S",
-          "price": 5.5,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957184/1794021063/extra_large.jpg"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 0.99
-        },
         {
           "date": "2026-08-22",
           "best_price": 0.99
@@ -4668,6 +4449,10 @@
         },
         {
           "date": "2026-11-18",
+          "best_price": 3.49
+        },
+        {
+          "date": "2026-11-19",
           "best_price": 3.49
         }
       ],
@@ -4747,10 +4532,6 @@
       ],
       "history": [
         {
-          "date": "2026-08-21",
-          "best_price": 4.0
-        },
-        {
           "date": "2026-08-22",
           "best_price": 4.0
         },
@@ -4945,6 +4726,10 @@
         {
           "date": "2026-11-18",
           "best_price": 5.0
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 5.0
         }
       ],
       "notes": []
@@ -4956,9 +4741,9 @@
       "type": "generic",
       "query": "avocado",
       "unit_size": null,
-      "best_price": 2.0,
+      "best_price": 4.99,
       "best_unit_price": null,
-      "median_price": 4.99,
+      "median_price": 5.0,
       "thresholds": {
         "good": 2.79,
         "fair": 3.58,
@@ -4968,50 +4753,6 @@
       },
       "user_good_price": null,
       "offers": [
-        {
-          "merchant": "FreshCo",
-          "name": "Avocados 5 pk Product of Mexico",
-          "price": 2.0,
-          "pre_price_text": "only",
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439784644/1793886594/extra_large.jpg"
-        },
-        {
-          "merchant": "Safeway",
-          "name": "Avocados",
-          "price": 2.99,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440195489/1794341143/extra_large.jpg"
-        },
-        {
-          "merchant": "Nesters Market",
-          "name": "Avocado",
-          "price": 4.0,
-          "pre_price_text": "2 for",
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439974298/1794052096/extra_large.jpg"
-        },
-        {
-          "merchant": "Walmart",
-          "name": "Avocados",
-          "price": 4.98,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440323682/1794414971/extra_large.jpg"
-        },
         {
           "merchant": "No Frills",
           "name": "AVOCADOS or PINEAPPLE, PKG OF 5 OR 6",
@@ -5024,6 +4765,39 @@
           "image_url": "https://f.wishabi.net/page_items/440568750/1794627301/extra_large.jpg"
         },
         {
+          "merchant": "FreshCo",
+          "name": "Kiwi 454 g Product of New Zealand or Greece Avocados 5 pk Product of Mexico",
+          "price": 4.99,
+          "pre_price_text": "only",
+          "post_price_text": null,
+          "sale_story": "50 Scene+ PTS when you buy 1",
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440450099/1794498199/extra_large.jpg"
+        },
+        {
+          "merchant": "Choices Markets",
+          "name": "Organic Hass Avocados",
+          "price": 5.0,
+          "pre_price_text": "2 FOR",
+          "post_price_text": null,
+          "sale_story": null,
+          "valid_from": "2026-11-19T05:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440349151/1794475729/extra_large.jpg"
+        },
+        {
+          "merchant": "Nesters Market",
+          "name": "Avocado",
+          "price": 5.0,
+          "pre_price_text": "3 for",
+          "post_price_text": null,
+          "sale_story": null,
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440530866/1794556579/extra_large.jpg"
+        },
+        {
           "merchant": "Wholesale Club and Club Entrep\u00f4t",
           "name": "NATURALLY IMPERFECT AVOCADOS, 2.2 LB.",
           "price": 5.99,
@@ -5033,35 +4807,9 @@
           "valid_from": "2026-11-12T05:00:00+00:00",
           "valid_to": "2026-12-03T07:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/439771290/1793859694/extra_large.jpg"
-        },
-        {
-          "merchant": "Choices Markets",
-          "name": "Organic Hass Avocados",
-          "price": 5.99,
-          "pre_price_text": null,
-          "post_price_text": "/EA",
-          "sale_story": null,
-          "valid_from": "2026-11-12T05:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439951313/1794016262/extra_large.jpg"
-        },
-        {
-          "merchant": "Thrifty Foods",
-          "name": "Promich Gold Large Avocados",
-          "price": 6.0,
-          "pre_price_text": "3/",
-          "post_price_text": null,
-          "sale_story": "100 Scene+ PTS when you buy 3",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439656510/1793993788/extra_large.jpg"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 1.99
-        },
         {
           "date": "2026-08-22",
           "best_price": 1.99
@@ -5413,6 +5161,10 @@
         {
           "date": "2026-11-18",
           "best_price": 2.0
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 4.99
         }
       ],
       "notes": []
@@ -5432,7 +5184,7 @@
         "fair": 2.24,
         "min_seen": 0.98,
         "max_seen": 13.99,
-        "samples": 80
+        "samples": 81
       },
       "user_good_price": null,
       "offers": [
@@ -5779,6 +5531,10 @@
         {
           "date": "2026-11-18",
           "best_price": 6.0
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 6.0
         }
       ],
       "notes": []
@@ -5790,9 +5546,9 @@
       "type": "generic",
       "query": "lemons",
       "unit_size": null,
-      "best_price": 0.67,
+      "best_price": 0.88,
       "best_unit_price": null,
-      "median_price": 0.99,
+      "median_price": 4.99,
       "thresholds": {
         "good": 0.89,
         "fair": 0.99,
@@ -5802,17 +5558,6 @@
       },
       "user_good_price": null,
       "offers": [
-        {
-          "merchant": "Buy-Low Foods",
-          "name": "Lemons",
-          "price": 0.67,
-          "pre_price_text": null,
-          "post_price_text": "ea",
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957431/1794038589/extra_large.jpg"
-        },
         {
           "merchant": "Nesters Market",
           "name": "Lemons or Limes",
@@ -5825,17 +5570,6 @@
           "image_url": "https://f.wishabi.net/page_items/440530883/1794556580/extra_large.jpg"
         },
         {
-          "merchant": "Safeway",
-          "name": "Large Lemons",
-          "price": 0.99,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": "50 Scene+ PTS when you buy 2",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439744686/1793844270/extra_large.jpg"
-        },
-        {
           "merchant": "FreshCo",
           "name": "Compliments Lemons 2 lb Product of South Africa 907 g",
           "price": 4.99,
@@ -5845,24 +5579,9 @@
           "valid_from": "2026-11-19T07:00:00+00:00",
           "valid_to": "2026-11-26T04:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/440450086/1794498190/extra_large.jpg"
-        },
-        {
-          "merchant": "Real Canadian Superstore",
-          "name": "FARMER'S MARKET\u00ae LEMONS, 3 LB",
-          "price": 6.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439894602/1794015870/extra_large.jpg"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 0.67
-        },
         {
           "date": "2026-08-22",
           "best_price": 0.67
@@ -6214,6 +5933,10 @@
         {
           "date": "2026-11-18",
           "best_price": 0.67
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 0.88
         }
       ],
       "notes": []
@@ -6230,7 +5953,7 @@
       },
       "best_price": 6.79,
       "best_unit_price": 6.79,
-      "median_price": 6.88,
+      "median_price": 6.79,
       "thresholds": {
         "good": 6.79,
         "fair": 6.88,
@@ -6250,35 +5973,9 @@
           "valid_from": "2026-11-19T07:00:00+00:00",
           "valid_to": "2026-11-26T04:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/440417116/1794462273/extra_large.jpg"
-        },
-        {
-          "merchant": "Safeway",
-          "name": "Fresh AIR-CHILLED Boneless Skinless Chicken Breasts",
-          "price": 6.88,
-          "pre_price_text": null,
-          "post_price_text": "/lb",
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440195485/1794341138/extra_large.jpg"
-        },
-        {
-          "merchant": "Real Canadian Superstore",
-          "name": "PC\u00ae BLUE MENU\u00ae EXTRA LEAN BONELESS SKINLESS CHICKEN BREASTS, 3'S, UP TO 630G",
-          "price": 16.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439894741/1794015875/extra_large.jpg"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 14.0
-        },
         {
           "date": "2026-08-22",
           "best_price": 14.0
@@ -6606,6 +6303,10 @@
         {
           "date": "2026-11-18",
           "best_price": 6.79
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 6.79
         }
       ],
       "notes": []
@@ -6620,9 +6321,9 @@
         "value": 1,
         "unit": "lb"
       },
-      "best_price": 3.47,
-      "best_unit_price": 3.47,
-      "median_price": 7.5,
+      "best_price": 6.99,
+      "best_unit_price": 6.99,
+      "median_price": 7.0,
       "thresholds": {
         "good": 3.97,
         "fair": 3.99,
@@ -6632,17 +6333,6 @@
       },
       "user_good_price": null,
       "offers": [
-        {
-          "merchant": "Buy-Low Foods",
-          "name": "Chicken Thighs",
-          "price": 3.47,
-          "pre_price_text": null,
-          "post_price_text": "lb",
-          "sale_story": "WOW!",
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957422/1794038588/extra_large.jpg"
-        },
         {
           "merchant": "Thrifty Foods",
           "name": "BC Fresh Chicken Thighs",
@@ -6655,33 +6345,29 @@
           "image_url": "https://f.wishabi.net/page_items/440776236/1794898495/extra_large.jpg"
         },
         {
-          "merchant": "Real Canadian Superstore",
-          "name": "CHICKEN THIGHS",
-          "price": 7.5,
+          "merchant": "Buy-Low Foods",
+          "name": "Chicken Thighs",
+          "price": 7.0,
           "pre_price_text": null,
           "post_price_text": "lb",
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439894633/1794015873/extra_large.jpg"
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440530046/1794555659/extra_large.jpg"
         },
         {
-          "merchant": "No Frills",
-          "name": "PC\u00ae BLUE MENU\u2122 CHICKEN THIGHS, skinless up to 696 g",
-          "price": 14.0,
+          "merchant": "Real Canadian Superstore",
+          "name": "SUFRA HALAL CHICKEN DRUMSTICKS OR THIGHS, UP TO 1.57 KG",
+          "price": 16.0,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439913001/1794594121/extra_large.jpg"
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440562204/1794612979/extra_large.jpg"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 2.97
-        },
         {
           "date": "2026-08-22",
           "best_price": 2.97
@@ -7033,6 +6719,10 @@
         {
           "date": "2026-11-18",
           "best_price": 3.47
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 6.99
         }
       ],
       "notes": []
@@ -7049,7 +6739,7 @@
       },
       "best_price": 1.77,
       "best_unit_price": 1.77,
-      "median_price": 4.99,
+      "median_price": 15.0,
       "thresholds": {
         "good": 2.89,
         "fair": 3.5,
@@ -7071,28 +6761,6 @@
           "image_url": "https://f.wishabi.net/page_items/440450172/1794498191/extra_large.jpg"
         },
         {
-          "merchant": "Thrifty Foods",
-          "name": "BC Fresh Whole Roasting or Frying Chicken or Chicken Drumsticks",
-          "price": 3.49,
-          "pre_price_text": null,
-          "post_price_text": "/lb",
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439908788/1793993798/extra_large.jpg"
-        },
-        {
-          "merchant": "Choices Markets",
-          "name": "Whole Frying Chicken",
-          "price": 4.99,
-          "pre_price_text": null,
-          "post_price_text": "/LB",
-          "sale_story": null,
-          "valid_from": "2026-11-12T05:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439951304/1794016255/extra_large.jpg"
-        },
-        {
           "merchant": "Nesters Market",
           "name": "Only Goodness Whole Frying Chicken",
           "price": 4.99,
@@ -7104,17 +6772,6 @@
           "image_url": "https://f.wishabi.net/page_items/440530929/1794556580/extra_large.jpg"
         },
         {
-          "merchant": "Real Canadian Superstore",
-          "name": "PC\u00ae WHOLE CHICKEN, UP TO 1.7 KG",
-          "price": 15.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-19T08:00:00+00:00",
-          "valid_to": "2026-11-26T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440562225/1794612995/extra_large.jpg"
-        },
-        {
           "merchant": "No Frills",
           "name": "PC\u00ae WHOLE CHICKEN, 1.7 kg",
           "price": 15.0,
@@ -7124,6 +6781,17 @@
           "valid_from": "2026-11-19T08:00:00+00:00",
           "valid_to": "2026-11-26T04:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/440568774/1794627309/extra_large.jpg"
+        },
+        {
+          "merchant": "Real Canadian Superstore",
+          "name": "PC\u00ae WHOLE CHICKEN, UP TO 1.7 KG",
+          "price": 15.0,
+          "pre_price_text": null,
+          "post_price_text": null,
+          "sale_story": null,
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440562225/1794612995/extra_large.jpg"
         },
         {
           "merchant": "Loblaws",
@@ -7138,10 +6806,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 2.79
-        },
         {
           "date": "2026-08-22",
           "best_price": 2.79
@@ -7469,6 +7133,10 @@
         {
           "date": "2026-11-18",
           "best_price": 1.77
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 1.77
         }
       ],
       "notes": []
@@ -7483,9 +7151,9 @@
         "value": 1,
         "unit": "lb"
       },
-      "best_price": 5.98,
-      "best_unit_price": 5.98,
-      "median_price": 8.99,
+      "best_price": 8.0,
+      "best_unit_price": 8.0,
+      "median_price": 10.0,
       "thresholds": {
         "good": 5.99,
         "fair": 6.99,
@@ -7496,39 +7164,6 @@
       "user_good_price": null,
       "offers": [
         {
-          "merchant": "Walmart",
-          "name": "Our Promise lean ground beef",
-          "price": 5.98,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": "Rollback",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439605648/1794015071/extra_large.jpg"
-        },
-        {
-          "merchant": "Thrifty Foods",
-          "name": "Fresh Extra Lean Ground Beef",
-          "price": 7.99,
-          "pre_price_text": null,
-          "post_price_text": "/lb",
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439656511/1793993789/extra_large.jpg"
-        },
-        {
-          "merchant": "Nesters Market",
-          "name": "Extra Lean Ground Beef",
-          "price": 7.99,
-          "pre_price_text": null,
-          "post_price_text": "lb",
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439974265/1794052095/extra_large.jpg"
-        },
-        {
           "merchant": "No Frills",
           "name": "HALAL LEAN GROUND BEEF",
           "price": 8.0,
@@ -7538,17 +7173,6 @@
           "valid_from": "2026-11-19T08:00:00+00:00",
           "valid_to": "2026-11-26T04:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/440569063/1794627305/extra_large.jpg"
-        },
-        {
-          "merchant": "Choices Markets",
-          "name": "Lean Ground Beef",
-          "price": 8.99,
-          "pre_price_text": null,
-          "post_price_text": "/LB",
-          "sale_story": "SPECIAL PRICE YOU SAVE 36%",
-          "valid_from": "2026-11-12T05:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440189550/1794336768/extra_large.jpg"
         },
         {
           "merchant": "Real Canadian Superstore",
@@ -7562,15 +7186,15 @@
           "image_url": "https://f.wishabi.net/page_items/440562214/1794612980/extra_large.jpg"
         },
         {
-          "merchant": "Safeway",
-          "name": "Fresh Extra Lean Ground Beef",
-          "price": 9.99,
+          "merchant": "Loblaws",
+          "name": "PC\u00ae FREE FROM\u2122 LEAN GROUND BEEF, 454 G",
+          "price": 10.0,
           "pre_price_text": null,
-          "post_price_text": "/lb",
+          "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439744742/1793844264/extra_large.jpg"
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440555505/1794615278/extra_large.jpg"
         },
         {
           "merchant": "Your Independent Grocer",
@@ -7584,22 +7208,18 @@
           "image_url": "https://f.wishabi.net/page_items/440585648/1794617577/extra_large.jpg"
         },
         {
-          "merchant": "Loblaws",
-          "name": "PC\u00ae FREE FROM\u2122 LEAN GROUND BEEF, 454 G",
-          "price": 10.0,
+          "merchant": "Choices Markets",
+          "name": "Extra Lean Ground Beef",
+          "price": 10.99,
           "pre_price_text": null,
-          "post_price_text": null,
+          "post_price_text": "/LB",
           "sale_story": null,
-          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_from": "2026-11-19T05:00:00+00:00",
           "valid_to": "2026-11-26T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440555505/1794615278/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/440349148/1794475725/extra_large.jpg"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 6.99
-        },
         {
           "date": "2026-08-22",
           "best_price": 6.99
@@ -7951,6 +7571,10 @@
         {
           "date": "2026-11-18",
           "best_price": 5.98
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 8.0
         }
       ],
       "notes": []
@@ -7965,57 +7589,31 @@
         "value": 1,
         "unit": "lb"
       },
-      "best_price": 7.99,
-      "best_unit_price": 7.99,
-      "median_price": 7.99,
+      "best_price": 10.99,
+      "best_unit_price": 10.99,
+      "median_price": 10.99,
       "thresholds": {
-        "good": 6.99,
+        "good": 7.24,
         "fair": 8.98,
         "min_seen": 6.99,
-        "max_seen": 9.5,
+        "max_seen": 10.99,
         "samples": 83
       },
       "user_good_price": null,
       "offers": [
         {
-          "merchant": "Thrifty Foods",
-          "name": "Fresh Extra Lean Ground Beef",
-          "price": 7.99,
-          "pre_price_text": null,
-          "post_price_text": "/lb",
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439656511/1793993789/extra_large.jpg"
-        },
-        {
-          "merchant": "Nesters Market",
+          "merchant": "Choices Markets",
           "name": "Extra Lean Ground Beef",
-          "price": 7.99,
+          "price": 10.99,
           "pre_price_text": null,
-          "post_price_text": "lb",
+          "post_price_text": "/LB",
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439974265/1794052095/extra_large.jpg"
-        },
-        {
-          "merchant": "Safeway",
-          "name": "Fresh Extra Lean Ground Beef",
-          "price": 9.99,
-          "pre_price_text": null,
-          "post_price_text": "/lb",
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439744742/1793844264/extra_large.jpg"
+          "valid_from": "2026-11-19T05:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440349148/1794475725/extra_large.jpg"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 6.99
-        },
         {
           "date": "2026-08-22",
           "best_price": 6.99
@@ -8343,6 +7941,10 @@
         {
           "date": "2026-11-18",
           "best_price": 7.99
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 10.99
         }
       ],
       "notes": []
@@ -8357,9 +7959,9 @@
         "value": 1,
         "unit": "lb"
       },
-      "best_price": 6.0,
-      "best_unit_price": 6.0,
-      "median_price": 8.0,
+      "best_price": 8.28,
+      "best_unit_price": 8.28,
+      "median_price": 8.28,
       "thresholds": {
         "good": 6.0,
         "fair": 8.0,
@@ -8370,55 +7972,18 @@
       "user_good_price": null,
       "offers": [
         {
-          "merchant": "Safeway",
-          "name": "COMPLIMENTS Ground Chicken or Turkey",
-          "price": 6.0,
-          "pre_price_text": null,
-          "post_price_text": "ea when you buy 2 or more",
-          "sale_story": "BUY MORE SAVE MORE",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439744734/1793844255/extra_large.jpg"
-        },
-        {
-          "merchant": "FreshCo",
-          "name": "Compliments Extra Lean Ground Turkey 450 g",
-          "price": 7.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": "SAVE $1",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439784498/1793886573/extra_large.jpg"
-        },
-        {
-          "merchant": "Real Canadian Superstore",
-          "name": "PC BLUE MENU\u00ae GROUND CHICKEN OR MINCED TURKEY, 454 G",
-          "price": 8.0,
+          "merchant": "Walmart",
+          "name": "Prime Extra Lean Ground Turkey",
+          "price": 8.28,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439894511/1794015877/extra_large.jpg"
-        },
-        {
-          "merchant": "Nesters Market",
-          "name": "Ground Turkey",
-          "price": 8.99,
-          "pre_price_text": null,
-          "post_price_text": "lb",
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439974346/1794052110/extra_large.jpg"
+          "valid_from": null,
+          "valid_to": null,
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC81YzFhOTE2ZGRiYmE2YzQzNDhmMjNiODk3ZTRiYWUwZS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgxWXpGaE9URTJaR1JpWW1FMll6UXpORGhtTWpOaU9EazNaVFJpWVdVd1pTOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcwNDA3OH19fV19&Signature=FmoCC2ERiPXO5S6CMgfB3iTFM3kBCzW4NhYV1GCjtMjhaXekD7CPej~WOt-67Q67MxgaFe4S7N9L54CiNR31yknlnLgCpeW17XLKV8fZ71U443HJ-DYkmQi9EkqQ4uTGW1D9SPNzQn4GPxsQ7SChmqECpi8Y8-n1hQ0IHYJVetPbOg1605x~PmC1dh8pgkxQvzTFrq0u4wRYLrWXSQLalFSAOVsMGp-vAJTDJkYRRN6zrVzmRqm108Yd02AcUwSmcDD497x4ZzJR3rc17Owvwvmlx2UutnGB92fI4wFn8X1UJZTBRPfnMwrJ0Y-HBZkRB8XQZ9mtzDxbEMLm9rel3g__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 6.0
-        },
         {
           "date": "2026-08-22",
           "best_price": 6.0
@@ -8722,6 +8287,10 @@
         {
           "date": "2026-11-18",
           "best_price": 6.0
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 8.28
         }
       ],
       "notes": []
@@ -8736,8 +8305,8 @@
         "value": 1,
         "unit": "lb"
       },
-      "best_price": 2.99,
-      "best_unit_price": 2.99,
+      "best_price": 4.49,
+      "best_unit_price": 4.49,
       "median_price": 4.49,
       "thresholds": {
         "good": 2.99,
@@ -8749,26 +8318,15 @@
       "user_good_price": null,
       "offers": [
         {
-          "merchant": "Real Canadian Superstore",
-          "name": "PORK LOIN COMBINATION CHOPS SIRLOIN, CENTRE-CUT AND RIB PORTION",
-          "price": 2.99,
-          "pre_price_text": "SALE",
-          "post_price_text": "lb",
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439894475/1794256944/extra_large.jpg"
-        },
-        {
           "merchant": "Thrifty Foods",
-          "name": "Fresh Pork Sirloin Roast or Chops",
-          "price": 3.99,
+          "name": "Fresh Pork Loin Chops",
+          "price": 4.49,
           "pre_price_text": null,
-          "post_price_text": "/lb",
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439656375/1793993789/extra_large.jpg"
+          "post_price_text": null,
+          "sale_story": "250 Scene+ PTS when you spend $30 or more",
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440776283/1794898504/extra_large.jpg"
         },
         {
           "merchant": "Safeway",
@@ -8780,35 +8338,9 @@
           "valid_from": "2026-11-19T07:00:00+00:00",
           "valid_to": "2026-11-26T04:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/440382432/1794454368/extra_large.jpg"
-        },
-        {
-          "merchant": "Nesters Market",
-          "name": "Pork Loin Chops",
-          "price": 6.99,
-          "pre_price_text": null,
-          "post_price_text": "lb",
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439974341/1794052098/extra_large.jpg"
-        },
-        {
-          "merchant": "Choices Markets",
-          "name": "Pork Loin Roast or Chops",
-          "price": 6.99,
-          "pre_price_text": null,
-          "post_price_text": "/LB",
-          "sale_story": null,
-          "valid_from": "2026-11-12T05:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439951307/1794016257/extra_large.jpg"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 3.49
-        },
         {
           "date": "2026-08-22",
           "best_price": 3.49
@@ -9160,6 +8692,10 @@
         {
           "date": "2026-11-18",
           "best_price": 2.99
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 4.49
         }
       ],
       "notes": []
@@ -9174,9 +8710,9 @@
         "value": 375,
         "unit": "g"
       },
-      "best_price": 5.99,
-      "best_unit_price": 0.016,
-      "median_price": 5.99,
+      "best_price": 9.77,
+      "best_unit_price": 0.0261,
+      "median_price": 9.77,
       "thresholds": {
         "good": 4.97,
         "fair": 5.99,
@@ -9187,22 +8723,18 @@
       "user_good_price": null,
       "offers": [
         {
-          "merchant": "FreshCo",
-          "name": "Schneiders Bacon 375 g",
-          "price": 5.99,
+          "merchant": "Walmart",
+          "name": "Schneiders Bacon Cheddar Smoked Sausages, 375 G 375 G",
+          "price": 9.77,
           "pre_price_text": null,
           "post_price_text": null,
-          "sale_story": "SAVE $5.99",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439784641/1793886590/extra_large.jpg"
+          "sale_story": null,
+          "valid_from": null,
+          "valid_to": null,
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC83MzlkOTg2MDc3NjlhNDcyYzVjMGRkZDJhOWVhNWQzMy9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgzTXpsa09UZzJNRGMzTmpsaE5EY3lZelZqTUdSa1pESmhPV1ZoTldRek15OXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcyMTU4NH19fV19&Signature=iLWJziPS0v7GWq1F7Vxyaf-Zb1K5x~9qm2W3fqMgbr8r9-dcjvtGFgV0Zy3MTilR4j75j1a7tHMVEdrwIvmDD70mz~qIC-VWDYmAxXzG2~ICyK~4Clpb~ZRhxn-4Avb-EplEgqFTA7kjlBZ9zQbKWYl5U-Zf1KCk6otUGR524dZdUf3QOeVQXmmRh6BbPdjFIV9p7RDXxSk3pGlrlZaYRXfSe0viKGmoNK4ra-~WNv4cxH0goE~jiPfiJGegjCXeQUbPdXIDKlfn7mfZ4pXXoYhoj-U91c0RnaNzwRFz~cD7e0PeovQdMrDJ62vrVTBAr156j0KSc-NcUFEFmAJWTw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 9.77
-        },
         {
           "date": "2026-08-22",
           "best_price": 9.77
@@ -9426,6 +8958,10 @@
         {
           "date": "2026-11-18",
           "best_price": 5.99
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 9.77
         }
       ],
       "notes": []
@@ -9464,17 +9000,6 @@
           "image_url": "https://f.wishabi.net/page_items/440382267/1794454371/extra_large.jpg"
         },
         {
-          "merchant": "Thrifty Foods",
-          "name": "Wild Spring Salmon Fillets",
-          "price": 4.99,
-          "pre_price_text": null,
-          "post_price_text": "/100 g",
-          "sale_story": "150 Scene+ PTS when you spend $15 or more",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439656397/1793993796/extra_large.jpg"
-        },
-        {
           "merchant": "Nesters Market",
           "name": "Wild Sockeye Salmon Fillet",
           "price": 5.49,
@@ -9497,17 +9022,6 @@
           "image_url": "https://f.wishabi.net/page_items/440418521/1794459481/extra_large.jpg"
         },
         {
-          "merchant": "Real Canadian Superstore",
-          "name": "FRESH ATLANTIC SALMON FILLETS",
-          "price": 14.0,
-          "pre_price_text": "SALE",
-          "post_price_text": "lb",
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439894472/1794256941/extra_large.jpg"
-        },
-        {
           "merchant": "Walmart",
           "name": "Your Fresh Market\u2122 coho salmon fillet",
           "price": 16.32,
@@ -9516,7 +9030,7 @@
           "sale_story": null,
           "valid_from": "2026-11-19T07:00:00+00:00",
           "valid_to": "2026-11-26T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440417318/1794592403/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/441216179/1795108398/extra_large.jpg"
         },
         {
           "merchant": "FreshCo",
@@ -9531,10 +9045,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 4.99
-        },
         {
           "date": "2026-08-22",
           "best_price": 4.99
@@ -9886,6 +9396,10 @@
         {
           "date": "2026-11-18",
           "best_price": 2.89
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 2.89
         }
       ],
       "notes": []
@@ -9921,14 +9435,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC85NDgwNTA3ZTRiMzE3OWFiYmNhZjNjZDk1YTA5NDlkNy9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzg1TkRnd05UQTNaVFJpTXpFM09XRmlZbU5oWmpOalpEazFZVEE1TkRsa055OXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTYyNTkyOX19fV19&Signature=i2bo8v3r8PTa3IfGyantLDOd-3XOiZ8v2y35A9Lr8S8RdIkh9XTll5pMUHngtOg-zuB4VZLz-qJcANIGDcL085lbNnQZ6lOF6rycsMlo2407a13C2tmsxpXjfshrssoVOYPel3l0vo1pt3QKptXFVDQqjYUtgOCEIPY6jwf-DMBVOC-sRrpxxUJ8mJ-bk0yIIWSfo39HdcRsz2PD~uAhDpOyostUUqqukFtWAG7I4F~LSgktqUtza74yL-Jvexh8QU76AIky66gZTQ8UDPeXGqvsI0UOE4Ns~Cp0CykKBP0cczLCLTLVAmZMOSZHMuwnRU0k3jchOdwk3Hy6JwILDQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC85NDgwNTA3ZTRiMzE3OWFiYmNhZjNjZDk1YTA5NDlkNy9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzg1TkRnd05UQTNaVFJpTXpFM09XRmlZbU5oWmpOalpEazFZVEE1TkRsa055OXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcyMDg4MX19fV19&Signature=AxAxOXdb5aB4CZniKJElr1fevGqDaJdw4AjTbXj0M3kZyghS3j1DVHg06RTu6DgZug9VccTSIYmTF7lkx98OsU~TMTZiLYE-BD3JlFnyncCi82uqf19BD23Rk7HRkZl8O0vyeSZIGylc2gANrfGGgNRmzfdgPRisuwrVHKWg9qvtxe3LRB~RTm2WGo69WFborV0APS0HLkYv-MIFFKzaionvKFcwQrW23NnpUYiaGHbUXYJzHmGmPtc5FKCWnsQZBe1Fc~UnS~5BQcIKbMUjLx~3P9v8TdRaMRblezRUeM0oLgBc03w0kh8Bms9R3qt5lqGx0q7HD--Nj-kJG~SFMw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 5.98
-        },
         {
           "date": "2026-08-22",
           "best_price": 5.98
@@ -10280,6 +9790,10 @@
         {
           "date": "2026-11-18",
           "best_price": 6.44
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 6.44
         }
       ],
       "notes": []
@@ -10315,14 +9829,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9lNDJjYWEyNDZlMjgxZjNmNzZhMDQ4MjZhNTg5MzljMC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlsTkRKallXRXlORFpsTWpneFpqTm1OelpoTURRNE1qWmhOVGc1TXpsak1DOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTYyNTk4NX19fV19&Signature=KdtjlTYhiIDLRptmxKGMk9M-Kqo78Az0l8eywQdPTZQaGHb7L2XJky1xfnXHKHqdVhROT9DV7cvbdWBfm82wlaa9N~7s3Jp~mU5uBzgv6VxCkAF8YWrEMsMcsGXi6lR-awI8fu4qZ3FIzCH3v9pE74lWCDhjRgRVfn0KL7OK47R~ulR78oPsvnCejlpeCvHn3j8QJcimP3XSmNQlmZhFYXTesG2TjSaz-P87KnJo5AIE2sqw7qGJlPJMgqnbnPKKSxZHNnM01X3sOEvdWUm-TXiPkMo9YV1O6J-10hn34~C4Fjq91nj1T-HfYIZWjKB1EFeG0EBIuhMNq31B3L5-VQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9lNDJjYWEyNDZlMjgxZjNmNzZhMDQ4MjZhNTg5MzljMC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlsTkRKallXRXlORFpsTWpneFpqTm1OelpoTURRNE1qWmhOVGc1TXpsak1DOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcxNDExOX19fV19&Signature=R0CY7fcIAcEkrkhyW5vprfDwuiJpdidn5vfJcF5vFUaomoBiU0hj-P3dSJsJRdSOsXtOIZQx3VWSukZG38NyZrq-XQD1UEkZpSUJwkzN4qIwQdVRGsT7p3YGSUU0GV0IlECA2WoV6j30nPOSSFAXNDis8stAQyCS7I7-INorwMQ67XHd5RHaASRPFQv24bTdVQhcAf9vc0ZW6dkK2xGlsoY9Yv195rJKJtbwMyr-wcvJK2ZP4K1tEgE1BOzV6IUng-P2FN6WWC4N9LIwkXqp1sLloPPEWsGm0Q1ibVDzSuDGWAuV-023BGt2~dkQFeXRfBgOy0NBWcl85o8kOA9J6Q__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 5.98
-        },
         {
           "date": "2026-08-22",
           "best_price": 5.98
@@ -10673,6 +10183,10 @@
         },
         {
           "date": "2026-11-18",
+          "best_price": 6.44
+        },
+        {
+          "date": "2026-11-19",
           "best_price": 6.44
         }
       ],
@@ -10709,14 +10223,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC84ZWI1NzVlZTlhZDhlYTMyNzM4Y2QxZDI0Zjg1OTBkMy9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzg0WldJMU56VmxaVGxoWkRobFlUTXlOek00WTJReFpESTBaamcxT1RCa015OXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTYyNTc3MX19fV19&Signature=DyHH7~ZNGup1Y6prXG5qC7ryaHPNlnTryzEyLAE8-Y~Dv2NNvFdiTdWcgBbtBz~K3lrpHlrNYd3lnxVNWgDfWks7AYe8vKKpdke-gTvWoUWqBc8T61mJoBdGz3N2BAXc60n59YKPuyHfrP5kl2Fv7YoA4Ix-jPc5WC2gEDjDs95U1l1OfDATrDbCu7yeO7CMmpZHSiWunjEH~bw89h4lXOA-Il6qImktx94ixz789YjjctVxRn0QmsTUBMz92zjQyCZ-Yew0M5Bt~tq1lCjAPYaCfI9YuNrJYkIqq1LdTbH99SamXWOa0qxZl5j2TicmmrRt5P62H3kl3ABW~ZigOw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC84ZWI1NzVlZTlhZDhlYTMyNzM4Y2QxZDI0Zjg1OTBkMy9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzg0WldJMU56VmxaVGxoWkRobFlUTXlOek00WTJReFpESTBaamcxT1RCa015OXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcyMDYwOH19fV19&Signature=MJrfEwHFUAaC-EkCU8dt-1~bd6jgEzCxRmesY-5SZWDiLwox7xksI~uR97vIzmvtR2BMO7GgxcBfIuNinTeyxR~OZ-nXHb2O~Ip4UZP4qrdYrJDQBB6MZm1PJanp0YXaflbDDnNMnXhcPQ9azGMjsEg9AGBcz45ML1TQh9deQOM93bkehZFDu1F4eMo5~qJugPyJaCC~VgRnJwim1jPmM3OoQC3vrEezw8YtSZS0YfGXVsFxm64oC4IMj7MPi30F0-ROqwbTXQuUzu8bmsl4ajHFNDQWSUM3l0WgkbvIUZu8eD2nT3r3PsrqQ-QwZA0oa6wnAgOxoy3NiruGJsRtNw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 4.16
-        },
         {
           "date": "2026-08-22",
           "best_price": 4.16
@@ -11068,6 +10578,10 @@
         {
           "date": "2026-11-18",
           "best_price": 4.16
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 4.16
         }
       ],
       "notes": []
@@ -11084,7 +10598,7 @@
       },
       "best_price": 4.97,
       "best_unit_price": 0.0109,
-      "median_price": 7.0,
+      "median_price": 4.97,
       "thresholds": {
         "good": 4.48,
         "fair": 4.97,
@@ -11096,54 +10610,17 @@
       "offers": [
         {
           "merchant": "Walmart",
-          "name": "Gay Lea salted or unsalted butter 454 g",
+          "name": "Gay Lea salted butter 454 g",
           "price": 4.97,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": "Rollback",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439605652/1794015074/extra_large.jpg"
-        },
-        {
-          "merchant": "No Frills",
-          "name": "GAY LEA BUTTER 454 g or PARKAY MARGARINE 1.28 kg",
-          "price": 5.99,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439913121/1794594128/extra_large.jpg"
-        },
-        {
-          "merchant": "Your Independent Grocer",
-          "name": "LACTANTIA BUTTER STICKS, 454 g KRAFT PARMESAN SHREDDED CHEESE, 200 G",
-          "price": 7.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957047/1794021047/extra_large.jpg"
-        },
-        {
-          "merchant": "Buy-Low Foods",
-          "name": "Parkay Margarine (1.28 kg), Also Lactantia Butter Sticks (454g)",
-          "price": 7.97,
-          "pre_price_text": null,
-          "post_price_text": "ea",
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957656/1794038600/extra_large.jpg"
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440417616/1794462264/extra_large.jpg"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 4.48
-        },
         {
           "date": "2026-08-22",
           "best_price": 4.48
@@ -11462,6 +10939,10 @@
         },
         {
           "date": "2026-11-18",
+          "best_price": 4.97
+        },
+        {
+          "date": "2026-11-19",
           "best_price": 4.97
         }
       ],
@@ -11523,7 +11004,7 @@
         "fair": 6.68,
         "min_seen": 5.98,
         "max_seen": 6.68,
-        "samples": 73
+        "samples": 74
       },
       "user_good_price": null,
       "offers": [
@@ -11536,7 +11017,7 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9kOWJkYjg1ODhmMTYyZTcyNzIwYzQyMTk4NjE4ZDBjMy9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlrT1dKa1lqZzFPRGhtTVRZeVpUY3lOekl3WXpReU1UazROakU0WkRCak15OXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTYyNTk3OH19fV19&Signature=qLvGmSYnVy2CI-Q0OhovsnWFlbJULhpm5Y2Y63YzYMnF82hIWIBocoPERUsP9MpZSM-JlOMeEg2DCt1Gj09GH3h535xfn7ndV66z1uGgJWe6VWtQe7ENkHjerRoC~ovNw78f6OvqwSrnFQAPy1Rvzkhljpt-pqYCBu9Oz9EhgAEGGmnBN6n~WBx2rKwaNCctYylY8bsMnlN5a3JymhGjYLbfXPniQtxBK2LWgzt8MHngvbqABQTyH72p2bhQjvv0HprMeuWm8dbMldTCxWIvpCL5V1lFQnQ-ZmjYgjrB04uvUbdmJ61yTCpxJLHbQ0sZPU8TMIo2IvxxcT5lmLBY~g__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9kOWJkYjg1ODhmMTYyZTcyNzIwYzQyMTk4NjE4ZDBjMy9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlrT1dKa1lqZzFPRGhtTVRZeVpUY3lOekl3WXpReU1UazROakU0WkRCak15OXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcxOTI3OH19fV19&Signature=P1hUZtU9fJWylyMAJp88LAf~NobXICdao8iw1oE8y8xdebvuJNGzmTLNZ51CVwtTHieZp3Wgwk~o0RkXWT2aDnqVmXpIXH9iYyCg01MPWvHRiD~2~B9jFN5Y-hv9fi67ARsBKn1Z3oMxPEhGsWit9iWJH5OJKWbIU6Hf90P8J2fY-LtZ3CdbOHSEjGrl0ltV9NktZLf2C4XNwN7QorNkpr5dpa49bK5slUpiAOY0k~0BdTHs81BtHEjPmPsKkge837ogT1KMs~prclPcZhM7XyUIoNO-pBSn0bXtRyCZqRPI6ky3uoXw8J4JyJH~metWRdaQuAuEnAH~YW9OeaNXWw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
@@ -11831,6 +11312,10 @@
         {
           "date": "2026-11-18",
           "best_price": 6.68
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 6.68
         }
       ],
       "notes": []
@@ -11866,7 +11351,7 @@
       },
       "best_price": 4.77,
       "best_unit_price": 0.0149,
-      "median_price": 5.99,
+      "median_price": 6.5,
       "thresholds": {
         "good": 4.97,
         "fair": 4.98,
@@ -11888,114 +11373,59 @@
           "image_url": "https://f.wishabi.net/page_items/440450173/1794498191/extra_large.jpg"
         },
         {
-          "merchant": "Safeway",
-          "name": "COMPLIMENTS Cheese Shreds",
-          "price": 4.77,
+          "merchant": "Loblaws",
+          "name": "BLACK DIAMOND CHEESTRINGS OR CHEESE STICKS, 189-336 G OR CRACKER BARREL CHEESE BARS OR SHREDDED CHEESE, 250-400 G",
+          "price": 5.97,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439745427/1793844264/extra_large.jpg"
-        },
-        {
-          "merchant": "Walmart",
-          "name": "Armstrong cheese block 400 g, shreds 320 g or slices 220 g - 240 g or Gay Lea salted or unsalted butter 454 g",
-          "price": 4.97,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": "Rollback",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439732318/1794015089/extra_large.jpg"
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440555176/1794615270/extra_large.jpg"
         },
         {
           "merchant": "Your Independent Grocer",
-          "name": "NO NAME\u00ae SHREDDED CHEESE, 320 G",
-          "price": 4.98,
+          "name": "BLACK DIAMOND CHEESTRINGS OR CHEESE STICKS, 189-336 G OR CRACKER BARREL CHEESE BARS OR SHREDDED CHEESE, 250-400 G",
+          "price": 5.97,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439956953/1794021051/extra_large.jpg"
-        },
-        {
-          "merchant": "Loblaws",
-          "name": "NO NAME\u00ae SHREDDED CHEESE, 320 G",
-          "price": 4.98,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439888371/1794006310/extra_large.jpg"
-        },
-        {
-          "merchant": "Nesters Market",
-          "name": "Daiya Cheese Shreds",
-          "price": 4.99,
-          "pre_price_text": null,
-          "post_price_text": "ea",
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439974423/1794052100/extra_large.jpg"
-        },
-        {
-          "merchant": "Thrifty Foods",
-          "name": "Compliments Shredded Cheese",
-          "price": 5.99,
-          "pre_price_text": null,
-          "post_price_text": "EACH",
-          "sale_story": "200 Scene+ PTS when you buy 2",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439656432/1793993789/extra_large.jpg"
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440585370/1794838418/extra_large.jpg"
         },
         {
           "merchant": "No Frills",
-          "name": "PC\u00ae SHREDDED OR CRUMBLED CHEESE, 250\u2013320 G",
-          "price": 6.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440576175/1794604454/extra_large.jpg"
-        },
-        {
-          "merchant": "Real Canadian Superstore",
-          "name": "PC\u00ae LACTOSE FREE CHEESE SHREDS, 320 G",
+          "name": "BLACK DIAMOND CHEESTRINGS 24 - 30 G OR CRACKER BARREL SHREDDED CHEESE 300 - 320 G",
           "price": 6.5,
           "pre_price_text": null,
           "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439894534/1794496114/extra_large.jpg"
+          "sale_story": "Get PC Optimum 1,500 pts, That's $1.50 value",
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440568846/1794627323/extra_large.jpg"
         },
         {
-          "merchant": "Choices Markets",
-          "name": "Saputo Shredded Cheese",
-          "price": 7.99,
+          "merchant": "Real Canadian Superstore",
+          "name": "NO NAME\u00ae SHREDDED CHEESE, 900 G",
+          "price": 14.49,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T05:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439951343/1794016264/extra_large.jpg"
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440562312/1794612986/extra_large.jpg"
         },
         {
-          "merchant": "Buy-Low Foods",
-          "name": "Western Family Tortilla Chips (300g), Salsa (650 mL), Shredded Cheese (320 g) & Pop (2 Litres)",
-          "price": 10.0,
-          "pre_price_text": "YOU PAY",
-          "post_price_text": null,
+          "merchant": "Thrifty Foods",
+          "name": "Saputo Shredded Cheese 1 kg or Armstrong Cheese 900 g",
+          "price": 16.99,
+          "pre_price_text": null,
+          "post_price_text": "EACH",
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957615/1794038588/extra_large.jpg"
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440776242/1794898492/extra_large.jpg"
         },
         {
           "merchant": "Wholesale Club and Club Entrep\u00f4t",
@@ -12010,10 +11440,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 4.99
-        },
         {
           "date": "2026-08-22",
           "best_price": 4.99
@@ -12365,6 +11791,10 @@
         {
           "date": "2026-11-18",
           "best_price": 4.77
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 4.77
         }
       ],
       "notes": []
@@ -12379,9 +11809,9 @@
         "value": 750,
         "unit": "g"
       },
-      "best_price": 2.0,
-      "best_unit_price": 0.0027,
-      "median_price": 2.0,
+      "best_price": null,
+      "best_unit_price": null,
+      "median_price": null,
       "thresholds": {
         "good": 2.87,
         "fair": 5.99,
@@ -12390,19 +11820,7 @@
         "samples": 45
       },
       "user_good_price": null,
-      "offers": [
-        {
-          "merchant": "FreshCo",
-          "name": "Chalo! Dahi Yogurt 2.0% or 3.25% M.F. 750 g",
-          "price": 2.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": "SAVE 79\u00a2",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439784459/1793886574/extra_large.jpg"
-        }
-      ],
+      "offers": [],
       "history": [
         {
           "date": "2026-08-28",
@@ -12597,35 +12015,19 @@
         "value": 750,
         "unit": "g"
       },
-      "best_price": 5.56,
-      "best_unit_price": 0.0074,
-      "median_price": 5.56,
+      "best_price": null,
+      "best_unit_price": null,
+      "median_price": null,
       "thresholds": {
         "good": 5.56,
         "fair": 5.56,
         "min_seen": 5.56,
         "max_seen": 6.97,
-        "samples": 56
+        "samples": 55
       },
       "user_good_price": null,
-      "offers": [
-        {
-          "merchant": "Walmart",
-          "name": "Our Finest 2% Plain Greek Yogurt 750g",
-          "price": 5.56,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": null,
-          "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9iYWJlZDJkMTA0NzU1Y2VjY2NiNTEwMDM3MjQ1MDViNC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlpWVdKbFpESmtNVEEwTnpVMVkyVmpZMk5pTlRFd01ETTNNalExTURWaU5DOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTYzMjA4M319fV19&Signature=hZNhwA1jxuycVZCkRDtG7EKKy9oRy3P9G7TdpPdNPG8e6-5agKPAYjR-eucpTGxtZDtbyKp3El9J9D~pkiF6Y9mqVbM0WbM948Eo471PiVtUgjtjT-RWBEtbx5W773OLo3tRbQ9rPMgNRCjdvCdB9TbrmmfyqfyBlPg7ezydWdgmjYhZdNUAI7Vlus~FH9SHHCdZSkhzNE5I4qUe6MVjnLmh77xJpA3~5lzQ~zhbUiabgsyVNXn7sWrqbMGbai~6Ktt3jKu~rpGkSIX5t-iSlXVNQfMA5YmpK5ugqwEsNzuDHWnXQoH7gH8FSiVevCztbr~~-VZChciW6cMPR0h94Q__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
-        }
-      ],
+      "offers": [],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 5.56
-        },
         {
           "date": "2026-08-22",
           "best_price": 5.56
@@ -12859,9 +12261,9 @@
         "value": 500,
         "unit": "mL"
       },
-      "best_price": 2.0,
-      "best_unit_price": 0.004,
-      "median_price": 2.0,
+      "best_price": 2.68,
+      "best_unit_price": 0.0054,
+      "median_price": 2.68,
       "thresholds": {
         "good": 2.67,
         "fair": 2.68,
@@ -12872,22 +12274,18 @@
       "user_good_price": null,
       "offers": [
         {
-          "merchant": "FreshCo",
-          "name": "I Can't Believe It's Not Butter! 400 g or Gay Lea Sour Cream 500 mL Selected Varieties",
-          "price": 2.0,
+          "merchant": "Walmart",
+          "name": "Great Value Low Fat Sour Cream 500 Ml",
+          "price": 2.68,
           "pre_price_text": null,
           "post_price_text": null,
-          "sale_story": "SAVE UP TO $1.49",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439784638/1793886586/extra_large.jpg"
+          "sale_story": null,
+          "valid_from": null,
+          "valid_to": null,
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9jYmRkNWZjMzYwOTRjYTMyNzA1YzhmOTkwYjVjYTBjMC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlqWW1Sa05XWmpNell3T1RSallUTXlOekExWXpobU9Ua3dZalZqWVRCak1DOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcwOTk3M319fV19&Signature=IMm~-TLszahOc1m3ngqVHH2oTD2WgWjHp~vPtXUMwv55CMCZZ0nW6fcwNjAUTBgZGiTmK-VaRK7AJmOhRQnH9QkBxuu~SMPzNAJ7qksHYGigjVWVzyd7RdHNa5YBwSknmvKrzr2p7lpegiFRQawpB528Xr3N26NE7HzQHA45HVQBDasPYGvWmpj700JaU8hfqvsLrcLCLyfKW9UBlXhUrs4Ei3e6q~cSCvIoxhzNjNRH~3WwTpY2EyRlQmDb5B9gS3GwC-qbV~1XKL5moOHlofDDSEq1jhunloei6fQPwReixeGoB-hLS3xi3P~IhYrG72ljQuJmdBj7aeTM3KBClg__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 2.68
-        },
         {
           "date": "2026-08-22",
           "best_price": 2.68
@@ -13239,6 +12637,10 @@
         {
           "date": "2026-11-18",
           "best_price": 2.0
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 2.68
         }
       ],
       "notes": []
@@ -13447,10 +12849,6 @@
       ],
       "history": [
         {
-          "date": "2026-08-21",
-          "best_price": 2.49
-        },
-        {
           "date": "2026-08-22",
           "best_price": 2.49
         },
@@ -13800,6 +13198,10 @@
         },
         {
           "date": "2026-11-18",
+          "best_price": 1.99
+        },
+        {
+          "date": "2026-11-19",
           "best_price": 1.99
         }
       ],
@@ -13839,17 +13241,6 @@
           "image_url": "https://f.wishabi.net/page_items/440382313/1794454365/extra_large.jpg"
         },
         {
-          "merchant": "Nesters Market",
-          "name": "White Bread",
-          "price": 1.99,
-          "pre_price_text": null,
-          "post_price_text": "ea",
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439974362/1794052096/extra_large.jpg"
-        },
-        {
           "merchant": "Thrifty Foods",
           "name": "Compliments White or Whole Wheat Bread",
           "price": 2.49,
@@ -13859,17 +13250,6 @@
           "valid_from": "2026-11-19T07:00:00+00:00",
           "valid_to": "2026-11-26T04:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/440776206/1794898490/extra_large.jpg"
-        },
-        {
-          "merchant": "No Frills",
-          "name": "DELI WORLD LIGHT RYE BREAD, 500 g",
-          "price": 2.5,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439912992/1794594111/extra_large.jpg"
         },
         {
           "merchant": "FreshCo",
@@ -13884,10 +13264,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 2.49
-        },
         {
           "date": "2026-08-22",
           "best_price": 2.49
@@ -14239,6 +13615,10 @@
         {
           "date": "2026-11-18",
           "best_price": 1.99
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 1.99
         }
       ],
       "notes": []
@@ -14250,9 +13630,9 @@
       "type": "generic",
       "query": "bagels 6 pack",
       "unit_size": null,
-      "best_price": 4.49,
+      "best_price": null,
       "best_unit_price": null,
-      "median_price": 4.49,
+      "median_price": null,
       "thresholds": {
         "good": 3.99,
         "fair": 4.49,
@@ -14261,19 +13641,7 @@
         "samples": 25
       },
       "user_good_price": null,
-      "offers": [
-        {
-          "merchant": "Thrifty Foods",
-          "name": "Dempster's English Muffins 6 Pack or Bagels",
-          "price": 4.49,
-          "pre_price_text": null,
-          "post_price_text": "EACH",
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439656465/1793993799/extra_large.jpg"
-        }
-      ],
+      "offers": [],
       "history": [
         {
           "date": "2026-08-26",
@@ -14406,14 +13774,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9mZDc5ZDI2ZTI0ZjZkNDA4MjdiM2Y2MDJkMzRlYzM2OC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzltWkRjNVpESTJaVEkwWmpaa05EQTRNamRpTTJZMk1ESmtNelJsWXpNMk9DOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTYzMjIwN319fV19&Signature=iG5YD1KXE5VXDjOA~FPjIuZ-LYR0RgQWGxslSIQ-nPrFVy3aR38wiX~YZWOezajjXaDGc-CH4~GZDssyxw5WutgINiauSSrMySkhcUq0eJRYtx4YrLNFyvUNpO~1YiNHqCO4MzWXaBqne7DnGpCnKWfHUVZ9q8OiJKHlDZg9ydUyH~7uV-kB66TMT6GB-D3OBqQHgfy4jWFUkJUhuqTepQMbCWc~jdO8f6DHBRRGS~PWiAYXGQuoDrYmwX5kA~BWLV36JnkIQBNiEVxtkDh3OsfWcqcu71Vp2EsJZoyG6xUhZZbi1DaPubYXG5~WKJYx8JKgGOtJPa4CZRRCMb2~9A__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9mZDc5ZDI2ZTI0ZjZkNDA4MjdiM2Y2MDJkMzRlYzM2OC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzltWkRjNVpESTJaVEkwWmpaa05EQTRNamRpTTJZMk1ESmtNelJsWXpNMk9DOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcyMTU5N319fV19&Signature=boWMb15hc79QeybAySTklT3bkMgiAex6jHrh45a0DKkWAIj51HSKqdGKwJRjkkQIiWnVVyr-aAAJxHqG2PeF0TxId-9tsU0p6h9J6qI5399HnXmhA5ND3Wkc8tqs-w6ULwnDt54eAK~KHuA5ZEeSA9AfQFIS2CAaMG47QCsTOyMqvbtA~s~m3XAD~HizS7s6SVhqCexGBZDzu-I0QBDLN2UuRS7yTJpnffKdzFfwP5pB5XzaWYtPQbdQB3x0itEhbsghKNiNLnrRPvEu6oUXe7s77lhygDyyhDR2Qn8HE3CvoOI2C2-VU5-tANkUPsPImnWSdOE7PqzN-kTc6FunVA__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 2.99
-        },
         {
           "date": "2026-08-22",
           "best_price": 2.99
@@ -14733,6 +14097,10 @@
         {
           "date": "2026-11-18",
           "best_price": 2.68
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 2.68
         }
       ],
       "notes": []
@@ -14744,46 +14112,19 @@
       "type": "generic",
       "query": "hamburger buns",
       "unit_size": null,
-      "best_price": 3.49,
+      "best_price": null,
       "best_unit_price": null,
-      "median_price": 6.99,
+      "median_price": null,
       "thresholds": {
         "good": 2.48,
         "fair": 2.99,
         "min_seen": 2.25,
         "max_seen": 7.5,
-        "samples": 68
+        "samples": 67
       },
       "user_good_price": null,
-      "offers": [
-        {
-          "merchant": "Safeway",
-          "name": "COMPLIMENTS Hot Dog or Hamburger Buns",
-          "price": 3.49,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": "100 Scene+ PTS when you buy 2",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439744890/1793844261/extra_large.jpg"
-        },
-        {
-          "merchant": "Choices Markets",
-          "name": "Carbonaut Low Carb Hamburger Buns, Hot Dog Buns or Tortillas",
-          "price": 6.99,
-          "pre_price_text": null,
-          "post_price_text": "/ EA",
-          "sale_story": null,
-          "valid_from": "2026-11-12T05:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439951382/1794016267/extra_large.jpg"
-        }
-      ],
+      "offers": [],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 4.25
-        },
         {
           "date": "2026-08-22",
           "best_price": 4.25
@@ -15086,14 +14427,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9mMmQ4YmZiOTA5NDJiMDkyZjM0Njg0NDViYWY4NzdlMi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzltTW1RNFltWmlPVEE1TkRKaU1Ea3laak0wTmpnME5EVmlZV1k0TnpkbE1pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTYyNjUxNH19fV19&Signature=IlK1jfgzc8Z02b6F233oEI5F8ENOWp7MTkclXZ9ZJ6tZK6u0spI3Me-6ekcKkIGEDxbYh-0Yn133cQgBu5d1-sDIIKMHJDRVy~SGlF68ED0sfdX2K4DDwxT0m-ROxtys7Vq3rWQsGx0ZzL7yvugToJie1ASF6qllGIfDmvhHoBstyMRfXAz26t1HNoN1lEw7BsywWjlrnGE9QRAQ8rq8aJar9JLP0qzZAllYd6WL-hnacfEgroMfWsAadVCPAzfhSAZPp3knqF~teGfeYNUvRSHA55IQxUN~JETzWCosqLveMHbUdibmuCRXurWKjTiNNFXrPAIvx8kBYSnPyJ263g__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9mMmQ4YmZiOTA5NDJiMDkyZjM0Njg0NDViYWY4NzdlMi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzltTW1RNFltWmlPVEE1TkRKaU1Ea3laak0wTmpnME5EVmlZV1k0TnpkbE1pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcxODU0NH19fV19&Signature=sJIhRyjJINsUBiOKwWitUAaDV9Pqj4QByT4LUjtT0-NhYU02KaWTI0rD8ICuH15j-J~Tz5eRxDpnZrReqvANdLt8u4TZmnOe-OcaWNS2MkQvCwe55nXvm7d4W~MVDrNTm8gTXJ1kMCJvDh6BEvs9f2wzQCkkTnKMjnrKn5UslvlzMx5X8Y6jJdu~MzjY5FJ5tEzrr-hMzNNJX46qKYl29SBRLZEpowkVQ0YHwMEAeELfwLXdlBj1ZOasUFn6Yf7xqb3jUhzaY9yO9F7KhrhTe4rZymeTeXVStlLwdEb4rC-2lgXb~OYjzzs1xJSwQsJAGTv~cOppjKHLl6GOlPVhSg__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 6.97
-        },
         {
           "date": "2026-08-22",
           "best_price": 6.97
@@ -15440,6 +14777,10 @@
         },
         {
           "date": "2026-11-18",
+          "best_price": 6.97
+        },
+        {
+          "date": "2026-11-19",
           "best_price": 6.97
         }
       ],
@@ -15476,14 +14817,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9lMWI3NTY3OTE3YTQxODU1NmVjZDcyMjdkYzQ1MzljOS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlsTVdJM05UWTNPVEUzWVRReE9EVTFObVZqWkRjeU1qZGtZelExTXpsak9TOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTYzMjY0NH19fV19&Signature=T1qTgi6l7xDNWS-QMGsIA5CuSwlb6i2G1o9qGKcYkzileVuRJ6cWqWsjVdGyOwaCljbDopriLqkmJrtgpOpPLQUmViHRQJfNDgGobzXuJlx~Ik3xmmyx4FjibPm~4ocmnwaEjqDmsEatMvv2ikq1O-fYq~UNT8DZSMudKX8jEsx3fAMXzrzhFNYUgRlkyAv5uJA4ZK8G~KN4J2jRE3CmA04fs3CzKItUtX-Lm~hn1eRnQyT3k0CBltkfoTq0~l612rgXCtnDvpAzIUOQK-Cdznet2gBZRM3D~QC1R0BayAFk9gofbRsjapHAJ3IKaGhN2kD7WWeA46cKUTNMq~gPCQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9lMWI3NTY3OTE3YTQxODU1NmVjZDcyMjdkYzQ1MzljOS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlsTVdJM05UWTNPVEUzWVRReE9EVTFObVZqWkRjeU1qZGtZelExTXpsak9TOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcyMDkxMn19fV19&Signature=ouIIA8WCTTCImZKGTGmnamT34DZheExFzF8qpz7LU~Y4T9l1BPl-2LHTPSZzJ01s7~I8I47V3G1zR7dic0k8ikWN7kXysXFH9qpLJVBrEobaAA8Tzda1wmT05HVFuZsUjOcLclsffDw5jRtydrKuBi-b9VOlkx7umnAijpa12pfvrF4vLrpzu88X46tkqD0aQd6MKrIYSbNHoP7owVHhymU01lECjavBnYDc4O38Lb9WUNqbgiXllyk21gXsAf~9azW25K0mIaZMMXvs7yuul0wrCb3Um7VkTIK4WeIp0ht2MKO1~pxdTUK7PTpt~HuUlYmPpDJVu021UAQeWDjXYw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 1.97
-        },
         {
           "date": "2026-08-22",
           "best_price": 1.97
@@ -15771,6 +15108,10 @@
         {
           "date": "2026-11-18",
           "best_price": 1.97
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 1.97
         }
       ],
       "notes": []
@@ -15787,7 +15128,7 @@
       },
       "best_price": 1.99,
       "best_unit_price": 0.0031,
-      "median_price": 3.5,
+      "median_price": 6.99,
       "thresholds": {
         "good": 1.99,
         "fair": 2.0,
@@ -15810,14 +15151,14 @@
         },
         {
           "merchant": "Real Canadian Superstore",
-          "name": "UNICO PASTA 700-900 G OR UNICO OR PRIMO PASTA SAUCE 680 ML",
-          "price": 2.0,
+          "name": "CLASSICO PASTA SAUCE, 520-600 ML",
+          "price": 2.97,
           "pre_price_text": null,
-          "post_price_text": "OVER LIMIT PAY 2.49 EA",
-          "sale_story": "LIMIT 4",
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439894469/1794256938/extra_large.jpg"
+          "post_price_text": "OVER LIMIT PAY 3.49 EA",
+          "sale_story": null,
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440562268/1794612980/extra_large.jpg"
         },
         {
           "merchant": "Buy-Low Foods",
@@ -15831,50 +15172,6 @@
           "image_url": "https://f.wishabi.net/page_items/440530135/1794555665/extra_large.jpg"
         },
         {
-          "merchant": "Walmart",
-          "name": "Classico pasta sauce",
-          "price": 3.47,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439962061/1794038648/extra_large.jpg"
-        },
-        {
-          "merchant": "Your Independent Grocer",
-          "name": "PREGO\u00ae PASTA SAUCE, 645 ML",
-          "price": 3.5,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957039/1794021057/extra_large.jpg"
-        },
-        {
-          "merchant": "Loblaws",
-          "name": "PREGO\u00ae PASTA SAUCE, 645 ML",
-          "price": 3.5,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439888424/1794006322/extra_large.jpg"
-        },
-        {
-          "merchant": "Safeway",
-          "name": "Pasta Sauce",
-          "price": 3.99,
-          "pre_price_text": null,
-          "post_price_text": "ea when you buy 2 or more",
-          "sale_story": "200 Scene+ PTS when you buy 4",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439746498/1793844281/extra_large.jpg"
-        },
-        {
           "merchant": "Wholesale Club and Club Entrep\u00f4t",
           "name": "PASTA OR PIZZA SAUCE, 2.84 L",
           "price": 6.99,
@@ -15886,15 +15183,15 @@
           "image_url": "https://f.wishabi.net/page_items/439771079/1793859704/extra_large.jpg"
         },
         {
-          "merchant": "Nesters Market",
-          "name": "Classico Pasta Sauce",
-          "price": 7.0,
-          "pre_price_text": "2 for",
+          "merchant": "Choices Markets",
+          "name": "Stefano Faita Pasta Sauce",
+          "price": 7.99,
+          "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439974270/1794052099/extra_large.jpg"
+          "valid_from": "2026-11-19T05:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440349010/1794475728/extra_large.jpg"
         },
         {
           "merchant": "Thrifty Foods",
@@ -15906,24 +15203,9 @@
           "valid_from": "2026-11-19T07:00:00+00:00",
           "valid_to": "2026-11-26T04:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/440776364/1794898505/extra_large.jpg"
-        },
-        {
-          "merchant": "Choices Markets",
-          "name": "Carbone Premium Pasta Sauce",
-          "price": 11.99,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-01T04:00:00+00:00",
-          "valid_to": "2026-12-01T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439203709/1793327359/extra_large.jpg"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 1.99
-        },
         {
           "date": "2026-08-22",
           "best_price": 1.99
@@ -16275,6 +15557,10 @@
         {
           "date": "2026-11-18",
           "best_price": 1.99
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 1.99
         }
       ],
       "notes": []
@@ -16289,8 +15575,8 @@
         "value": 1,
         "unit": "L"
       },
-      "best_price": 2.0,
-      "best_unit_price": 2.0,
+      "best_price": 6.5,
+      "best_unit_price": 6.5,
       "median_price": 10.0,
       "thresholds": {
         "good": 5.0,
@@ -16302,26 +15588,15 @@
       "user_good_price": null,
       "offers": [
         {
-          "merchant": "FreshCo",
-          "name": "Clover Leaf Tuna in Olive Oil 142 g",
-          "price": 2.0,
+          "merchant": "Real Canadian Superstore",
+          "name": "TERRADELYSSA OLIVE OIL, 500 ML",
+          "price": 6.5,
           "pre_price_text": null,
           "post_price_text": null,
-          "sale_story": "SAVE $1.99",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439784633/1793886579/extra_large.jpg"
-        },
-        {
-          "merchant": "Real Canadian Superstore",
-          "name": "NO NAME\u2122 OLIVE OIL, 750 ML",
-          "price": 6.0,
-          "pre_price_text": null,
-          "post_price_text": "OVER LIMIT PAY 10 EA",
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439894696/1794015881/extra_large.jpg"
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440562285/1794612985/extra_large.jpg"
         },
         {
           "merchant": "No Frills",
@@ -16333,17 +15608,6 @@
           "valid_from": "2026-11-19T08:00:00+00:00",
           "valid_to": "2026-11-26T04:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/440568833/1794627306/extra_large.jpg"
-        },
-        {
-          "merchant": "Walmart",
-          "name": "Gallo olive oil",
-          "price": 9.96,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": "Rollback",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439606393/1794015085/extra_large.jpg"
         },
         {
           "merchant": "Thrifty Foods",
@@ -16368,37 +15632,26 @@
           "image_url": "https://f.wishabi.net/page_items/440530273/1794555668/extra_large.jpg"
         },
         {
-          "merchant": "Your Independent Grocer",
-          "name": "BERTOLLI, CARAPELLI, FILIPPO BERIO OR OLIVE GREEN OLIVE OIL, 500 ML-1 L",
-          "price": 10.98,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": "Get 1,000 pts, $1 back in points",
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439956901/1794021051/extra_large.jpg"
-        },
-        {
           "merchant": "Loblaws",
-          "name": "BERTOLLI, CARAPELLI, FILIPPO BERIO OR OLIVE GREEN OLIVE OIL, 500 ML-1 L",
-          "price": 10.98,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": "Get PC Optimum 1,000 pts, $1 back in points",
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439888221/1794006312/extra_large.jpg"
-        },
-        {
-          "merchant": "Safeway",
-          "name": "Olive Oil",
-          "price": 17.49,
+          "name": "TERRA DELYSSA VIRGIN OLIVE OIL, 1L",
+          "price": 11.98,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439744905/1793844271/extra_large.jpg"
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440555275/1794615270/extra_large.jpg"
+        },
+        {
+          "merchant": "Your Independent Grocer",
+          "name": "TERRA DELYSSA VIRGIN OLIVE OIL, 1 L",
+          "price": 11.98,
+          "pre_price_text": null,
+          "post_price_text": null,
+          "sale_story": null,
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440585384/1794617571/extra_large.jpg"
         },
         {
           "merchant": "Choices Markets",
@@ -16407,16 +15660,12 @@
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T05:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439951361/1794016269/extra_large.jpg"
+          "valid_from": "2026-11-01T04:00:00+00:00",
+          "valid_to": "2026-12-01T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/439204280/1793327358/extra_large.jpg"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 6.99
-        },
         {
           "date": "2026-08-22",
           "best_price": 6.99
@@ -16768,6 +16017,10 @@
         {
           "date": "2026-11-18",
           "best_price": 2.0
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 6.5
         }
       ],
       "notes": []
@@ -16822,14 +16075,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC81N2NjNDM4MTExZTI2ZDRhNzI2MmRkYTFhY2MxZTYzYi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgxTjJOak5ETTRNVEV4WlRJMlpEUmhOekkyTW1Sa1lURmhZMk14WlRZellpOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTYyNjgxMX19fV19&Signature=ddu~C9ccjSsR3GZLvzs~nzjTdAAk9qNI3yN~TiDAabvhh4E-ogtlMnPrdCkWMqJklnsicc5-c~a4EVw5Q-j9VEMXLRP6FWtSppZPz2b~UJXi6ODaoI8GH8Lp~78Z4mM7ZBEdC7pegxNzeL3ffzXp6H639B61cVNOnfL4DP0oDeRaCN9GcD3mOe~vVKnbzk5WJQC-crJQksKOzFnCJngjzotpoOn3~pCjsHOK2mO1HY7CN-PTLLkCDDwIjUV8AoK7RruvcGAyqZuJmfc7QO5wJRDBRpGgw1yZlbdCuSk8I1a3cL1q6H~eb1NtNm6mA0IGvgU4DwbvQK297S017Em~ZQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC81N2NjNDM4MTExZTI2ZDRhNzI2MmRkYTFhY2MxZTYzYi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgxTjJOak5ETTRNVEV4WlRJMlpEUmhOekkyTW1Sa1lURmhZMk14WlRZellpOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcyMDYzNH19fV19&Signature=FMwdSMn5D-WB4SHS1MBaWXulM7UyFQu8XlA3gUqLycJNzJhKLrjHvz1wTbDhI4oRpiBoRDfnn~eZajZMlQUtqDx0rbuSEy2Tipaq-651OWPn5Q5V7Hcyd06C6KdnLR-yNvQSb2Z42XYQzrUhcZ10ppOGc8~ly8mv4ygV2LLudZvyFIEsdnDoZM28gaCx58tpZF2DMMyW68FIhlA~fruM-LfjI1xVwV79~AdTOXy2amPILFhAw66idVaiqYmfL5cQndoux0kf2wItTsyKTk0qGhcp~O2-ibt40IxUbGQAJpmLdHZMzj-MfbKWNXDO2KwU~uMKmoZ1IcE7xiik5pYhzw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 3.77
-        },
         {
           "date": "2026-08-22",
           "best_price": 3.77
@@ -17181,6 +16430,10 @@
         {
           "date": "2026-11-18",
           "best_price": 3.77
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 3.77
         }
       ],
       "notes": []
@@ -17195,35 +16448,19 @@
         "value": 2,
         "unit": "kg"
       },
-      "best_price": 12.99,
-      "best_unit_price": 6.495,
-      "median_price": 12.99,
+      "best_price": null,
+      "best_unit_price": null,
+      "median_price": null,
       "thresholds": {
         "good": 2.77,
         "fair": 2.77,
         "min_seen": 1.18,
         "max_seen": 15.0,
-        "samples": 89
+        "samples": 88
       },
       "user_good_price": null,
-      "offers": [
-        {
-          "merchant": "No Frills",
-          "name": "ROGERS GRANULATED WHITE SUGAR, 10 kg",
-          "price": 12.99,
-          "pre_price_text": "only",
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440483740/1794524451/extra_large.jpg"
-        }
-      ],
+      "offers": [],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 13.48
-        },
         {
           "date": "2026-08-22",
           "best_price": 13.48
@@ -17589,35 +16826,19 @@
         "value": 1,
         "unit": "kg"
       },
-      "best_price": 4.47,
-      "best_unit_price": 4.47,
-      "median_price": 4.47,
+      "best_price": null,
+      "best_unit_price": null,
+      "median_price": null,
       "thresholds": {
         "good": 4.47,
         "fair": 4.47,
         "min_seen": 4.47,
         "max_seen": 4.47,
-        "samples": 58
+        "samples": 57
       },
       "user_good_price": null,
-      "offers": [
-        {
-          "merchant": "Walmart",
-          "name": "Great Value Light Smooth Peanut Butter 1kg",
-          "price": 4.47,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": null,
-          "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC81ZGFmMjRkNjE4YzQwZjJkZWNiOGU0YzUwODc2MmI5OC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgxWkdGbU1qUmtOakU0WXpRd1pqSmtaV05pT0dVMFl6VXdPRGMyTW1JNU9DOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTYzNDUzM319fV19&Signature=N6UKj9th-KUgr4oT170tg1~cIZ1MyUSVHgxT-8pvKKa-5T1AdC4D1Sk3pjtL6iAfAvGJDFZQqrSO1CpHUpzlSVBZO9upHODqUeGPMfZ--rOJipEiI4Q8PdQx1ArzBn9fcY0wdS92VsqKpUwN7QvPxoED0uOfcp-8SuDsZSUQwe0dm9U3GVgyX~zb-vHKsLvqgDryJEsgWrH2jjv6mVPaLtcuw-MGf2Eb8A-utwAkPjPOHPxt7wLh1ASaQREXUgEiiQR02TEB-ufbhjndbfRv-Bo1SNvlYqoUblXWFYgru0LN9eXl5VHOZid53I4aONe6NeuWa5SKVRVGY66j3bAmrg__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
-        }
-      ],
+      "offers": [],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 4.47
-        },
         {
           "date": "2026-08-22",
           "best_price": 4.47
@@ -17867,15 +17088,11 @@
         "fair": 3.99,
         "min_seen": 3.47,
         "max_seen": 6.99,
-        "samples": 38
+        "samples": 37
       },
       "user_good_price": null,
       "offers": [],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 6.99
-        },
         {
           "date": "2026-08-22",
           "best_price": 6.99
@@ -18042,18 +17259,14 @@
       "median_price": null,
       "thresholds": {
         "good": 9.88,
-        "fair": 10.43,
+        "fair": 9.88,
         "min_seen": 9.88,
         "max_seen": 59.97,
-        "samples": 16
+        "samples": 15
       },
       "user_good_price": null,
       "offers": [],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 10.97
-        },
         {
           "date": "2026-08-22",
           "best_price": 10.97
@@ -18148,14 +17361,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9hNjY3ZGRmMDYxZDQ5OWIzY2YwMzIyOGNkYmY0MjdlNC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzloTmpZM1pHUm1NRFl4WkRRNU9XSXpZMll3TXpJeU9HTmtZbVkwTWpkbE5DOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTYzNDM3MH19fV19&Signature=E~BUOJ4ZmnbQ42w78YlTmYTW9wePCMVgEdU-DDXguZsEPMnpzM4siSDC8Kwz5j7eCkdLo0LrvzQK8tRMkqNVsLQU1mpg9QjzdEQXHnfBxzKmUmafUh2ey44Pt2H6Ag35NGUtvH0yjpXJK6AjAkS3m-cBLALuD1oJxsjO3IakbyueQPwcxOpuKeF7R52sw9FJgJ44KW5LCx-OtLeJ-J5keJIrQg7Y4MHpYYvDFN45gsSB4lH6o93betp1IzSeAwLmnmzG1S5RPOky2JcmOeeulebKgqUfMX6vh~FGb9WLDaTQNiOni1GMQCrHmt99Iwk5ftZF~EQMZLmz7gqEgEfSUw__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9hNjY3ZGRmMDYxZDQ5OWIzY2YwMzIyOGNkYmY0MjdlNC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzloTmpZM1pHUm1NRFl4WkRRNU9XSXpZMll3TXpJeU9HTmtZbVkwTWpkbE5DOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcxOTM5N319fV19&Signature=Z0uiwGR7fCQ7kL5-88GwJPDlcePc3-nj~9XtVvLs3qmM6PcgP7FsEOjDnM7DvwhrG3R59ZyG-d7TrPzt~DTqYDMesuiUlvG78h7UMUgeGNKTMrdq8SIHnQ9r7nrZyqqGo3cagFyylKzmLuBakHbvi-CF6-Rsl73RRk03R6qYuPzLnXaCfvB18KLbfe3lh163v8LdxSbCpuLCghpBC6BAW2t4FmMGZvG14Fc2qJ36GXPOhMdtmkHGimhi1tKQX9TazYe4UhqeZceg1DAyBIQEABTlOUDCvOt2IX~5uO-LOTKRKOh6tjaF4X02VVgpYhAHCcMDg1x6~M~6Vy-A~Ed~3A__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 9.97
-        },
         {
           "date": "2026-08-22",
           "best_price": 9.97
@@ -18507,6 +17716,10 @@
         {
           "date": "2026-11-18",
           "best_price": 9.97
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 9.97
         }
       ],
       "notes": []
@@ -18529,7 +17742,7 @@
         "fair": 4.97,
         "min_seen": 4.97,
         "max_seen": 4.97,
-        "samples": 50
+        "samples": 51
       },
       "user_good_price": null,
       "offers": [
@@ -18542,7 +17755,7 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC81M2FhNjExZjNhNzA3YWM2ZjM4NDhiYTdmODA2ZjdkNi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgxTTJGaE5qRXhaak5oTnpBM1lXTTJaak00TkRoaVlUZG1PREEyWmpka05pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTYyNTk2NH19fV19&Signature=nnQ0AoCMorCCRxtX-hnpVzuA210HqaPW516zjOdD2gPF~2I84iRb8VO8ODPz3LAWNKHdQAcaNl49GsHB0hsoqMKbUdD-NUIbAuh6fvS50p11jL17EIEJD~4tA8ef34REn9alDiPV1hUUNTvHIZJUfNQjTcrwMD8S4DbMOr01jZHbzhf2wzFQlUOZqRFrhkA3gHI8wHWl4YTBPkLwbwtwXdREKK2MeCnBkp6zblQiNJ~h1T53RuP193qmZ13bk~~u7CsWcXOzXiPx3pJvF-8CSM4uIwcTUejIsGUtLzrO0P-LOE8lbNVM~60PGJBjyGwjYQy6PIZWMtoJf-zpyFZ2WA__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC81M2FhNjExZjNhNzA3YWM2ZjM4NDhiYTdmODA2ZjdkNi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzgxTTJGaE5qRXhaak5oTnpBM1lXTTJaak00TkRoaVlUZG1PREEyWmpka05pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcyMTQwOX19fV19&Signature=Debrn8OWZiMRdEGIOqPrF73gbMnw7AYbG601ngTeQHGFh6gxvXxSjLyDIl1x6Uf54MlcYCNeWV8agy8C25Y6ow~D43TeAsg-u14Ks2K44nwNNW2r9oU4TGY9p-6t0Vq~IEzMqs7Rt9b2bG2s4Xzk~qCu6TZq3MCmDig8LaAJuqmh-gswomKu7pjXwTUpu3v7rnqXdx-oihryC97eh8BBSgmixdlwHHy~kS0fwS1mY7fzbHEstc7BsZuSwXvPdmO8I~23lTuc-kK8yxylJQBRFqzvQWqje98c9cF3Pmg~i80lF1iC81WO9R~J5xdGeDNmIK46PY3bFrDJYDK1NolbrQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
@@ -18745,6 +17958,10 @@
         {
           "date": "2026-11-18",
           "best_price": 4.97
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 4.97
         }
       ],
       "notes": []
@@ -18841,15 +18058,11 @@
         "fair": 1.88,
         "min_seen": 1.88,
         "max_seen": 1.88,
-        "samples": 42
+        "samples": 41
       },
       "user_good_price": null,
       "offers": [],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 1.88
-        },
         {
           "date": "2026-08-22",
           "best_price": 1.88
@@ -19027,9 +18240,9 @@
         "value": 540,
         "unit": "mL"
       },
-      "best_price": 2.88,
-      "best_unit_price": 0.0053,
-      "median_price": 2.88,
+      "best_price": 1.84,
+      "best_unit_price": 0.0034,
+      "median_price": 1.84,
       "thresholds": {
         "good": 1.84,
         "fair": 1.84,
@@ -19041,21 +18254,17 @@
       "offers": [
         {
           "merchant": "Walmart",
-          "name": "Lao Gan Ma chili sauce with black beans 280 g or Squid Brand fish sauce 725 mL",
-          "price": 2.88,
+          "name": "Unico Canned Black Beans 540 Ml",
+          "price": 1.84,
           "pre_price_text": null,
           "post_price_text": null,
-          "sale_story": "Rollback",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439939621/1794015052/extra_large.jpg"
+          "sale_story": null,
+          "valid_from": null,
+          "valid_to": null,
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC8yNzAwNGZlOWE5YTFlNzM3ZWQzNjk3OTZmZGY1YWMyNi9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzh5TnpBd05HWmxPV0U1WVRGbE56TTNaV1F6TmprM09UWm1aR1kxWVdNeU5pOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcyMTQ4MH19fV19&Signature=NnB2~Wers6t8ENv9kathYqij5lqn1TKCuQdbJJ~kGdnyvqUOVAOE1GUVIhAU0R0JLVD1emmChLlS67uJ2sgezDOmtESDdWrAok2hnBtA4l2ob~doumr8xeVCuRtyb2NVbK3v~6~cnDv8kp1y1K8tuALu59sUCXtJM9EvO1ed~yXlGV68kLlN6s3aSYUYLUhYxZAxxXbMwnqNELM6DtNe9X7DNT25lp07Oq3MMzgsqHwAgSiymQPzV9wld0HUmwmw-k2s9jpKPySM4XqX7WLtxlkXjDH-lwZNmhrc9NGxjGbro1J7g~Pt8EbkRGHMqZZQN3sgtfY9jr~TbTISrhPkHA__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 1.84
-        },
         {
           "date": "2026-08-22",
           "best_price": 1.84
@@ -19407,6 +18616,10 @@
         {
           "date": "2026-11-18",
           "best_price": 2.88
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 1.84
         }
       ],
       "notes": []
@@ -19442,14 +18655,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC8zMDg4MzdkNzNjYjY2NmY1NTBiYjRjMzlmNTY2ZTYzMS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzh6TURnNE16ZGtOek5qWWpZMk5tWTFOVEJpWWpSak16bG1OVFkyWlRZek1TOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTYzMjM3NX19fV19&Signature=TXHpPu1XZtf4TDSSX7CoUIFr8kcilju7sKsGLujbHYYaXJifuRTNQvpoQaJ85PV4sRm09HGAPjGHER1j7sroEript~Y9l3T3taK75OUfxQduaFRJdRuHF5Xh7G6sfzQG7akx0XBXbYThIQoWqVlWQcsl6MjbDTrk9NEF1eVsSEjjvr6BWOFAUB5yuQRNGA8woItDy12fs0RXr7AdAX~GODZQDrPdFO9yCe2B8aRuRdBPOcibA7LFwTD8faQcOpptMA1BlmWv0ekkyVSKIliychWE93DQ76ty580UcKA~oi1xBRfg4roBE7gcj5CRXQ9da9lBVzB3R6DR8bPaO2BVPQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC8zMDg4MzdkNzNjYjY2NmY1NTBiYjRjMzlmNTY2ZTYzMS9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzh6TURnNE16ZGtOek5qWWpZMk5tWTFOVEJpWWpSak16bG1OVFkyWlRZek1TOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcxNDA5OH19fV19&Signature=T4GHxy0MZ7gOCZN12ti1Od84uSjYsRsODFMdFGa30W-hiae-obsqzmxMC-R7dpIygLjr9o2VDL2Kwo69zrKYm-UHRwrNBQFnRdn6YLN-E5O9HeFy0rrR65i94pOilGVoJVb8f6F2GoiKnQq7cZzXiIjLkURO9VX-IOd0HerpA52iJ-ntAo0D-m6MaSNzN59HeOqe9CcSY5orAkvT9nVIjDKXOahMidRR93Q2u496SrsNA~JK6XnkkkPM1rV1~9othTmtgB1nDJsp~M99JlONhNwdcHhYvHQdFhhvkvhqPFEs79jNDO0LDpw8GOXwtrNxzR2WjWOj242YPV2peoafyQ__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 1.97
-        },
         {
           "date": "2026-08-22",
           "best_price": 1.97
@@ -19749,6 +18958,10 @@
         {
           "date": "2026-11-18",
           "best_price": 1.97
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 1.97
         }
       ],
       "notes": []
@@ -19765,7 +18978,7 @@
       },
       "best_price": 2.47,
       "best_unit_price": 0.0043,
-      "median_price": 3.99,
+      "median_price": 5.77,
       "thresholds": {
         "good": 2.5,
         "fair": 2.99,
@@ -19777,14 +18990,14 @@
       "offers": [
         {
           "merchant": "No Frills",
-          "name": "NATURE VALLEY GRANOLA BARS, GENERAL MILLS CEREAL BARS OR BETTY CROCKER FRUIT SNACKS, 120-226 G",
+          "name": "NATURE VALLEY GRANOLA BARS, GENERAL MILLS CEREAL BARS or BETTY CROCKER FRUIT SNACKS, 120-226 g",
           "price": 2.47,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439913069/1794594137/extra_large.jpg"
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440568849/1794627293/extra_large.jpg"
         },
         {
           "merchant": "Real Canadian Superstore",
@@ -19798,61 +19011,6 @@
           "image_url": "https://f.wishabi.net/page_items/440562425/1794612986/extra_large.jpg"
         },
         {
-          "merchant": "Walmart",
-          "name": "General Mills cereal",
-          "price": 2.87,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": "Rollback",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439735400/1794015090/extra_large.jpg"
-        },
-        {
-          "merchant": "Loblaws",
-          "name": "GENERAL MILLS CEREAL, 300 - 430 G",
-          "price": 3.25,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439888407/1794006326/extra_large.jpg"
-        },
-        {
-          "merchant": "Your Independent Grocer",
-          "name": "GENERAL MILLS CEREAL, 300-430 G",
-          "price": 3.25,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439956988/1794021066/extra_large.jpg"
-        },
-        {
-          "merchant": "Buy-Low Foods",
-          "name": "General Mills Cereal",
-          "price": 3.27,
-          "pre_price_text": null,
-          "post_price_text": "ea",
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957625/1794038596/extra_large.jpg"
-        },
-        {
-          "merchant": "Safeway",
-          "name": "Cereals",
-          "price": 3.99,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439744896/1793844265/extra_large.jpg"
-        },
-        {
           "merchant": "Thrifty Foods",
           "name": "Kellogg's Cereal",
           "price": 3.99,
@@ -19864,37 +19022,48 @@
           "image_url": "https://f.wishabi.net/page_items/440789368/1794898512/extra_large.jpg"
         },
         {
-          "merchant": "FreshCo",
-          "name": "General Mills Family Size Cereal 526-778 g",
-          "price": 5.47,
+          "merchant": "Safeway",
+          "name": "Cereal",
+          "price": 3.99,
           "pre_price_text": null,
           "post_price_text": null,
-          "sale_story": "SAVE $1.52",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439784522/1793886571/extra_large.jpg"
+          "sale_story": null,
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440382140/1794454361/extra_large.jpg"
+        },
+        {
+          "merchant": "Buy-Low Foods",
+          "name": "Kellogg's Cereal",
+          "price": 4.0,
+          "pre_price_text": null,
+          "post_price_text": null,
+          "sale_story": null,
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440536046/1794555666/extra_large.jpg"
+        },
+        {
+          "merchant": "FreshCo",
+          "name": "Kellogg's Family Size Cereal 450-650 g",
+          "price": 5.77,
+          "pre_price_text": null,
+          "post_price_text": null,
+          "sale_story": "SAVE $1.22, 200 Scene+ PTS when you buy 2",
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440450054/1794498200/extra_large.jpg"
         },
         {
           "merchant": "Nesters Market",
-          "name": "Kellogg's Cereal",
-          "price": 5.49,
+          "name": "General Mills Cereal",
+          "price": 5.99,
           "pre_price_text": null,
           "post_price_text": "ea",
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439974469/1794052103/extra_large.jpg"
-        },
-        {
-          "merchant": "Choices Markets",
-          "name": "Nature's Path Organic Boxed Cereal",
-          "price": 5.99,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T05:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439951366/1794016275/extra_large.jpg"
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440531052/1794556582/extra_large.jpg"
         },
         {
           "merchant": "T&T Supermarket",
@@ -19906,6 +19075,28 @@
           "valid_from": "2026-11-13T05:00:00+00:00",
           "valid_to": "2026-11-20T04:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/440418254/1794459459/extra_large.jpg"
+        },
+        {
+          "merchant": "Your Independent Grocer",
+          "name": "CHEX\u2122 CEREAL, 340-360G",
+          "price": 9.0,
+          "pre_price_text": "2/",
+          "post_price_text": "or $5.79 ea.",
+          "sale_story": null,
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440585460/1794617566/extra_large.jpg"
+        },
+        {
+          "merchant": "Loblaws",
+          "name": "CHEX\u2122 CEREAL, 340-360g",
+          "price": 9.0,
+          "pre_price_text": "2/",
+          "post_price_text": "or $5.79 EA.",
+          "sale_story": null,
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440555329/1794615262/extra_large.jpg"
         },
         {
           "merchant": "Costco",
@@ -19920,10 +19111,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 2.47
-        },
         {
           "date": "2026-08-22",
           "best_price": 2.47
@@ -20275,6 +19462,10 @@
         {
           "date": "2026-11-18",
           "best_price": 2.47
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 2.47
         }
       ],
       "notes": []
@@ -20297,15 +19488,11 @@
         "fair": 5.97,
         "min_seen": 5.97,
         "max_seen": 5.97,
-        "samples": 7
+        "samples": 6
       },
       "user_good_price": null,
       "offers": [],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 5.97
-        },
         {
           "date": "2026-08-22",
           "best_price": 5.97
@@ -20345,7 +19532,7 @@
       },
       "best_price": 4.99,
       "best_unit_price": 0.0054,
-      "median_price": 8.99,
+      "median_price": 15.99,
       "thresholds": {
         "good": 6.0,
         "fair": 8.99,
@@ -20367,61 +19554,6 @@
           "image_url": "https://f.wishabi.net/page_items/440170074/1794327050/extra_large.jpg"
         },
         {
-          "merchant": "Your Independent Grocer",
-          "name": "NESCAF\u00c9 INSTANT OR SWEET & CREAMY COFFEE 100-396 G, LAVAZZA GROUND COFFEE 250 G OR CAFE AGGA CAPSULES 10'S",
-          "price": 6.44,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440198029/1794343656/extra_large.jpg"
-        },
-        {
-          "merchant": "Loblaws",
-          "name": "NESCAF\u00c9 INSTANT OR SWEET & CREAMY COFFEE, 100-396 G, LAVAZZA GROUND COFFEE, 250 G OR CAFE AGGA CAPSULES, 10'S",
-          "price": 6.44,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440189137/1794336087/extra_large.jpg"
-        },
-        {
-          "merchant": "Thrifty Foods",
-          "name": "Compliments Roast & Ground Coffee",
-          "price": 8.0,
-          "pre_price_text": null,
-          "post_price_text": "EACH",
-          "sale_story": "everyday VALUE",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439656470/1793993804/extra_large.jpg"
-        },
-        {
-          "merchant": "No Frills",
-          "name": "PC\u00ae GROUND COFFEE, 340 G OR SINGLE SERVE COFFEE PODS, 12'S",
-          "price": 8.99,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439913055/1794594118/extra_large.jpg"
-        },
-        {
-          "merchant": "Real Canadian Superstore",
-          "name": "NABOB ROAST & GROUND COFFEE, 340 G",
-          "price": 8.99,
-          "pre_price_text": null,
-          "post_price_text": "OVER LIMIT PAY 13.99 EA",
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957939/1794259096/extra_large.jpg"
-        },
-        {
           "merchant": "Safeway",
           "name": "COMPLIMENTS Roast & Ground Coffee",
           "price": 9.99,
@@ -20433,15 +19565,48 @@
           "image_url": "https://f.wishabi.net/page_items/440382364/1794454381/extra_large.jpg"
         },
         {
+          "merchant": "Real Canadian Superstore",
+          "name": "STARBUCKS GROUND COFFEE, 283-340 G, K-CUP PODS, 10'S OR INSTANT COFFEE, 90-202 G",
+          "price": 10.99,
+          "pre_price_text": null,
+          "post_price_text": "OVER LIMIT PAY 14.99 EA",
+          "sale_story": null,
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440562264/1794612990/extra_large.jpg"
+        },
+        {
+          "merchant": "Thrifty Foods",
+          "name": "Tribal Java Ground Coffee",
+          "price": 13.99,
+          "pre_price_text": null,
+          "post_price_text": "EACH",
+          "sale_story": "200 Scene+ PTS when you buy 2",
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440776199/1794898493/extra_large.jpg"
+        },
+        {
           "merchant": "Walmart",
-          "name": "Kicking Horse ground coffee",
-          "price": 10.94,
+          "name": "Maxwell House ground coffee 864 g or pods 30s 285 g",
+          "price": 15.94,
           "pre_price_text": null,
           "post_price_text": null,
-          "sale_story": "Rollback",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439605646/1794015069/extra_large.jpg"
+          "sale_story": null,
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440417627/1794462266/extra_large.jpg"
+        },
+        {
+          "merchant": "No Frills",
+          "name": "MAXWELL HOUSE GROUND COFFEE, 631-900 g or COFFEE PODS, 30's",
+          "price": 15.99,
+          "pre_price_text": null,
+          "post_price_text": null,
+          "sale_story": null,
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440568847/1794627291/extra_large.jpg"
         },
         {
           "merchant": "Choices Markets",
@@ -20453,6 +19618,28 @@
           "valid_from": "2026-11-01T04:00:00+00:00",
           "valid_to": "2026-12-01T04:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/439203705/1793327356/extra_large.jpg"
+        },
+        {
+          "merchant": "Your Independent Grocer",
+          "name": "PC\u00ae ROAST AND GROUND COFFEE, 800-930 G",
+          "price": 20.0,
+          "pre_price_text": null,
+          "post_price_text": null,
+          "sale_story": "Get PC Optimum 3,000 pts $3 back in points",
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440585372/1794838420/extra_large.jpg"
+        },
+        {
+          "merchant": "Loblaws",
+          "name": "PC\u00ae ROAST AND GROUND COFFEE, 800-930 G",
+          "price": 20.0,
+          "pre_price_text": null,
+          "post_price_text": null,
+          "sale_story": "Get PC Optimum 3,000 pts, $3 back in points",
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440555180/1794615273/extra_large.jpg"
         },
         {
           "merchant": "Wholesale Club and Club Entrep\u00f4t",
@@ -20467,10 +19654,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 9.99
-        },
         {
           "date": "2026-08-22",
           "best_price": 9.99
@@ -20822,6 +20005,10 @@
         {
           "date": "2026-11-18",
           "best_price": 4.99
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 4.99
         }
       ],
       "notes": []
@@ -20844,20 +20031,20 @@
         "fair": 3.98,
         "min_seen": 3.98,
         "max_seen": 6.67,
-        "samples": 71
+        "samples": 72
       },
       "user_good_price": null,
       "offers": [
         {
           "merchant": "Walmart",
-          "name": "Dr. Oetker Ristorante or Casa di Mama frozen pizza",
+          "name": "Dr. Oetker Ristorante frozen pizza",
           "price": 3.98,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": "Rollback",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439735405/1794015093/extra_large.jpg"
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440417593/1794462261/extra_large.jpg"
         }
       ],
       "history": [
@@ -21143,6 +20330,10 @@
         },
         {
           "date": "2026-11-18",
+          "best_price": 3.98
+        },
+        {
+          "date": "2026-11-19",
           "best_price": 3.98
         }
       ],
@@ -21179,14 +20370,10 @@
           "sale_story": null,
           "valid_from": null,
           "valid_to": null,
-          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9jNWMwMDJlMTU3MTdhOTU0ODZkODc0ZGJkZDI3MmZhZC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlqTldNd01ESmxNVFUzTVRkaE9UVTBPRFprT0RjMFpHSmtaREkzTW1aaFpDOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTYzMjcxNH19fV19&Signature=NRYZ9oPOb1boWCm1nk6jUacDVMXx8o9gG22hBOWJyFUof~35MXj~rLokVvD-VY-DvDE9lHwwXVU59o6TXkwj4V4mK~y-mLUc0l5QJk-XcHag~HpuDWsUrzRzTPcSdo247of6TWVpXkRKMG7CDG3tNT15kefyhudacHQN1SQQ9WL6ecL6tvQf027LesxehSpWZ0~gTzaS4fIFefBeL-DVSlYEm2zYAfhMQn57SQdWzOx-xXG9zcVBEmJgHac0n5NFbrNsbhxquKOOkR4veY5RKnp6t3S3---YQPIXxcggmD7qZp~0mYGbn0FGnqzJXu5qwOBqtWumg7-280b8z1ETNA__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
+          "image_url": "https://flipp-image-retrieval.flipp.com/api/aHR0cHM6Ly9mLndpc2hhYmkubmV0L2l0ZW0tYXNzZXRzLzIzNC9jNWMwMDJlMTU3MTdhOTU0ODZkODc0ZGJkZDI3MmZhZC9vcmlnaW5hbC5wbmc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mbGlwcC1pbWFnZS1yZXRyaWV2YWwuZmxpcHAuY29tL2FwaS9hSFIwY0hNNkx5OW1MbmRwYzJoaFlta3VibVYwTDJsMFpXMHRZWE56WlhSekx6SXpOQzlqTldNd01ESmxNVFUzTVRkaE9UVTBPRFprT0RjMFpHSmtaREkzTW1aaFpDOXZjbWxuYVc1aGJDNXdibWM~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTcyMTMyNn19fV19&Signature=CRF~RW6T8kSsiUw5PEjGkoAucdqyD2en9n2asAVG23B2IUAKUwIBqpp2gSknGDk4hdphMKwfTEDu42cAg8bbup7V4mo1tJ~YCfTi5DQsvzXFLQHGIHvvsxDdLHZCdMWfrOYNQGZiK5G6NRPw7R7Yyq64grXbGQA1WysLB9Ai9Azp1hzTIeggHgT8vlYvuiwcYyvoEB13G1bB42~5q8fnPXyYeAOUO6Cu3qShbO5Jo0LXdRzABONotHS5~nuurQu4mNlgpKW9BB9Yi3CPIFznOfdLeFfvZnjWZJx4H77isGhsfUidsY4-YiAYIypezY~i9~Rs5dC5SjGw9p2NCrjTnA__&Key-Pair-Id=KDIF3067XOLU0&transforms=resizep:162:140"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 3.37
-        },
         {
           "date": "2026-08-22",
           "best_price": 3.37
@@ -21538,6 +20725,10 @@
         {
           "date": "2026-11-18",
           "best_price": 3.37
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 3.37
         }
       ],
       "notes": []
@@ -21560,15 +20751,11 @@
         "fair": 3.47,
         "min_seen": 2.97,
         "max_seen": 3.47,
-        "samples": 39
+        "samples": 38
       },
       "user_good_price": null,
       "offers": [],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 3.0
-        },
         {
           "date": "2026-08-22",
           "best_price": 3.0
@@ -21734,46 +20921,19 @@
         "value": 1.5,
         "unit": "L"
       },
-      "best_price": 5.0,
-      "best_unit_price": 3.3333,
-      "median_price": 6.5,
+      "best_price": null,
+      "best_unit_price": null,
+      "median_price": null,
       "thresholds": {
         "good": 4.68,
         "fair": 4.68,
         "min_seen": 4.68,
         "max_seen": 7.99,
-        "samples": 49
+        "samples": 48
       },
       "user_good_price": null,
-      "offers": [
-        {
-          "merchant": "FreshCo",
-          "name": "Compliments Ice Cream 1.5 L",
-          "price": 5.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": "SAVE $1.29",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439784547/1793886577/extra_large.jpg"
-        },
-        {
-          "merchant": "Real Canadian Superstore",
-          "name": "PC\u00ae CREAM FIRST\u2122 ICE CREAM, 1.5 L",
-          "price": 6.5,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439894533/1794496113/extra_large.jpg"
-        }
-      ],
+      "offers": [],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 4.68
-        },
         {
           "date": "2026-08-22",
           "best_price": 4.68
@@ -21987,15 +21147,11 @@
         "fair": 3.99,
         "min_seen": 3.0,
         "max_seen": 5.57,
-        "samples": 75
+        "samples": 74
       },
       "user_good_price": null,
       "offers": [],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 4.99
-        },
         {
           "date": "2026-08-22",
           "best_price": 4.99
@@ -22352,9 +21508,9 @@
         "value": 290,
         "unit": "g"
       },
-      "best_price": 2.97,
-      "best_unit_price": 0.0102,
-      "median_price": 3.79,
+      "best_price": 2.99,
+      "best_unit_price": 0.0103,
+      "median_price": 3.99,
       "thresholds": {
         "good": 1.97,
         "fair": 2.97,
@@ -22364,28 +21520,6 @@
       },
       "user_good_price": null,
       "offers": [
-        {
-          "merchant": "Real Canadian Superstore",
-          "name": "TOSTITOS TORTILLA CHIPS, 210-295 G",
-          "price": 2.97,
-          "pre_price_text": null,
-          "post_price_text": "OVER LIMIT PAY 4.49 EA",
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439894680/1794015877/extra_large.jpg"
-        },
-        {
-          "merchant": "Buy-Low Foods",
-          "name": "Tostitos Tortilla Chips (295g) or Doritos (235g)",
-          "price": 2.97,
-          "pre_price_text": null,
-          "post_price_text": "ea",
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957483/1794038598/extra_large.jpg"
-        },
         {
           "merchant": "Wholesale Club and Club Entrep\u00f4t",
           "name": "ROLLED TORTILLA CHIPS, 260 G",
@@ -22398,37 +21532,15 @@
           "image_url": "https://f.wishabi.net/page_items/439771109/1793859698/extra_large.jpg"
         },
         {
-          "merchant": "Your Independent Grocer",
-          "name": "DORITOS ROLL'D TORTILLA CHIPS, 280 G",
-          "price": 3.0,
+          "merchant": "Real Canadian Superstore",
+          "name": "OLD DUTCH POTATO CHIPS 200-235 G, SNACKS 250-290 G, ARRIBA 235-245 G OR RESTAURANTE TORTILLA CHIPS 275/290 G",
+          "price": 3.33,
           "pre_price_text": null,
-          "post_price_text": null,
+          "post_price_text": "OVER LIMIT PAY 4.49 EA",
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-12-03T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440198048/1794343680/extra_large.jpg"
-        },
-        {
-          "merchant": "Loblaws",
-          "name": "DORITOS ROLL'D TORTILLA CHIPS, 280 G",
-          "price": 3.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-05T05:00:00+00:00",
-          "valid_to": "2026-12-03T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440189156/1794336103/extra_large.jpg"
-        },
-        {
-          "merchant": "Thrifty Foods",
-          "name": "Compliments Organic Tortilla Chips",
-          "price": 3.79,
-          "pre_price_text": null,
-          "post_price_text": "EACH",
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439656445/1793993799/extra_large.jpg"
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440562303/1794612986/extra_large.jpg"
         },
         {
           "merchant": "Walmart",
@@ -22437,20 +21549,9 @@
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439953035/1794015114/extra_large.jpg"
-        },
-        {
-          "merchant": "Choices Markets",
-          "name": "Que Pasa Organic Tortilla Chips",
-          "price": 3.99,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T05:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439951335/1794016257/extra_large.jpg"
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440417733/1794462293/extra_large.jpg"
         },
         {
           "merchant": "Nesters Market",
@@ -22464,15 +21565,48 @@
           "image_url": "https://f.wishabi.net/page_items/440531036/1794556584/extra_large.jpg"
         },
         {
+          "merchant": "Thrifty Foods",
+          "name": "Que Pasa Tortilla Chips",
+          "price": 3.99,
+          "pre_price_text": null,
+          "post_price_text": "EACH",
+          "sale_story": null,
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440789430/1794898498/extra_large.jpg"
+        },
+        {
+          "merchant": "Loblaws",
+          "name": "PC\u00ae GUACAMOLE, 227-228 G, SALSA, 300 G/430 ML OR GARDEN FRESH TORTILLA CHIPS, 337 G",
+          "price": 5.0,
+          "pre_price_text": "Member Price**",
+          "post_price_text": null,
+          "sale_story": "Members save $1",
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440555262/1794615279/extra_large.jpg"
+        },
+        {
+          "merchant": "Your Independent Grocer",
+          "name": "PC\u00ae GUACAMOLE, 227-228 G, SALSA, 300 G/430 ML OR GARDEN FRESH TORTILLA CHIPS, 337 G",
+          "price": 5.0,
+          "pre_price_text": "Member Price**",
+          "post_price_text": null,
+          "sale_story": "Members save $1",
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440585669/1794617580/extra_large.jpg"
+        },
+        {
           "merchant": "Safeway",
           "name": "Tortilla Chips",
-          "price": 4.49,
-          "pre_price_text": null,
+          "price": 8.0,
+          "pre_price_text": "2/",
           "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439746407/1793844279/extra_large.jpg"
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440382090/1794454356/extra_large.jpg"
         },
         {
           "merchant": "Costco",
@@ -22487,10 +21621,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 2.97
-        },
         {
           "date": "2026-08-22",
           "best_price": 2.97
@@ -22842,6 +21972,10 @@
         {
           "date": "2026-11-18",
           "best_price": 2.97
+        },
+        {
+          "date": "2026-11-19",
+          "best_price": 2.99
         }
       ],
       "notes": []
@@ -22858,7 +21992,7 @@
       },
       "best_price": 1.94,
       "best_unit_price": 0.0083,
-      "median_price": 3.0,
+      "median_price": 3.99,
       "thresholds": {
         "good": 0.97,
         "fair": 1.87,
@@ -22870,47 +22004,25 @@
       "offers": [
         {
           "merchant": "Walmart",
-          "name": "Frito-Lay chips",
+          "name": "Hardbite chips",
           "price": 1.94,
           "pre_price_text": null,
           "post_price_text": null,
-          "sale_story": "Rollback",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439605654/1794015076/extra_large.jpg"
-        },
-        {
-          "merchant": "Buy-Low Foods",
-          "name": "Western Family Kettle Cooked Potato Chips",
-          "price": 1.97,
-          "pre_price_text": null,
-          "post_price_text": "ea",
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957476/1794038589/extra_large.jpg"
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/441216144/1795108385/extra_large.jpg"
         },
         {
           "merchant": "Real Canadian Superstore",
-          "name": "RUFFLES POTATO CHIPS, 180-200 G",
-          "price": 2.25,
+          "name": "PC\u00ae WORLD OF FLAVOURS POTATO CHIPS, 200 G",
+          "price": 2.5,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439894455/1794015868/extra_large.jpg"
-        },
-        {
-          "merchant": "Thrifty Foods",
-          "name": "Compliments Potato Chips",
-          "price": 2.49,
-          "pre_price_text": null,
-          "post_price_text": "EACH",
-          "sale_story": "100 Scene+ PTS when you buy 2",
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439908468/1793993785/extra_large.jpg"
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440914019/1794947329/extra_large.jpg"
         },
         {
           "merchant": "FreshCo",
@@ -22924,39 +22036,6 @@
           "image_url": "https://f.wishabi.net/page_items/440450053/1794498199/extra_large.jpg"
         },
         {
-          "merchant": "Your Independent Grocer",
-          "name": "LAY'S POTATO CHIPS, 177-235 G",
-          "price": 3.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439956911/1794021061/extra_large.jpg"
-        },
-        {
-          "merchant": "No Frills",
-          "name": "PC\u00ae Potato chips, 200 g",
-          "price": 3.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440576176/1794604455/extra_large.jpg"
-        },
-        {
-          "merchant": "Loblaws",
-          "name": "LAY'S POTATO CHIPS, 177-235 G",
-          "price": 3.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439888231/1794006325/extra_large.jpg"
-        },
-        {
           "merchant": "Choices Markets",
           "name": "Hardbite Natural Potato Chips",
           "price": 3.49,
@@ -22966,6 +22045,28 @@
           "valid_from": "2026-11-01T04:00:00+00:00",
           "valid_to": "2026-12-01T04:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/439204276/1793327356/extra_large.jpg"
+        },
+        {
+          "merchant": "Loblaws",
+          "name": "QUEST PROTEIN CHIPS",
+          "price": 3.79,
+          "pre_price_text": "Member Price**",
+          "post_price_text": null,
+          "sale_story": "Members save $1",
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440555422/1794615275/extra_large.jpg"
+        },
+        {
+          "merchant": "Your Independent Grocer",
+          "name": "QUEST PROTEIN CHIPS",
+          "price": 3.79,
+          "pre_price_text": "Member Price",
+          "post_price_text": null,
+          "sale_story": "Members save $1",
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440585570/1794617572/extra_large.jpg"
         },
         {
           "merchant": "Nesters Market",
@@ -22979,15 +22080,37 @@
           "image_url": "https://f.wishabi.net/page_items/440531036/1794556584/extra_large.jpg"
         },
         {
-          "merchant": "Safeway",
-          "name": "Tortilla Chips",
-          "price": 4.49,
+          "merchant": "Thrifty Foods",
+          "name": "Que Pasa Tortilla Chips",
+          "price": 3.99,
+          "pre_price_text": null,
+          "post_price_text": "EACH",
+          "sale_story": null,
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440776244/1794898493/extra_large.jpg"
+        },
+        {
+          "merchant": "No Frills",
+          "name": "HARDBITE POTATO CHIPS, 128/150 G",
+          "price": 3.99,
           "pre_price_text": null,
           "post_price_text": null,
+          "sale_story": "Get PC Optimum 500 pts, That's 50\u00a2 value",
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440568856/1794627299/extra_large.jpg"
+        },
+        {
+          "merchant": "Buy-Low Foods",
+          "name": "Pringles Potato Chips",
+          "price": 5.0,
+          "pre_price_text": "2 for",
+          "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439746407/1793844279/extra_large.jpg"
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440536220/1794555663/extra_large.jpg"
         },
         {
           "merchant": "Costco",
@@ -22999,13 +22122,20 @@
           "valid_from": "2026-10-26T04:00:00+00:00",
           "valid_to": "2026-11-23T04:59:59+00:00",
           "image_url": "https://f.wishabi.net/page_items/439395600/1793665663/extra_large.jpg"
+        },
+        {
+          "merchant": "Safeway",
+          "name": "Potato Chips",
+          "price": 8.0,
+          "pre_price_text": "2/",
+          "post_price_text": null,
+          "sale_story": null,
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440382345/1794454361/extra_large.jpg"
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 1.5
-        },
         {
           "date": "2026-08-22",
           "best_price": 1.5
@@ -23356,6 +22486,10 @@
         },
         {
           "date": "2026-11-18",
+          "best_price": 1.94
+        },
+        {
+          "date": "2026-11-19",
           "best_price": 1.94
         }
       ],
@@ -23373,7 +22507,7 @@
       },
       "best_price": 1.0,
       "best_unit_price": 0.005,
-      "median_price": 2.5,
+      "median_price": 5.0,
       "thresholds": {
         "good": 1.37,
         "fair": 1.49,
@@ -23407,25 +22541,14 @@
         },
         {
           "merchant": "Safeway",
-          "name": "Cream Crackers",
-          "price": 1.99,
-          "pre_price_text": null,
+          "name": "Breton, Vinta or Simple Goodness or Cheez-It Crackers",
+          "price": 2.0,
+          "pre_price_text": "Scene+ Member Pricing",
           "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T07:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439745286/1793844275/extra_large.jpg"
-        },
-        {
-          "merchant": "Buy-Low Foods",
-          "name": "Cheez-It Baked Snack Crackers (200g), Also Keebler (391g)",
-          "price": 2.27,
-          "pre_price_text": null,
-          "post_price_text": "ea",
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957477/1794038590/extra_large.jpg"
+          "sale_story": "MEMBERS SAVE $1.50",
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440928964/1794950680/extra_large.jpg"
         },
         {
           "merchant": "Walmart",
@@ -23436,51 +22559,40 @@
           "sale_story": "Rollback",
           "valid_from": "2026-11-19T07:00:00+00:00",
           "valid_to": "2026-11-26T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/440417266/1794592389/extra_large.jpg"
+          "image_url": "https://f.wishabi.net/page_items/441216142/1795108384/extra_large.jpg"
         },
         {
           "merchant": "Real Canadian Superstore",
           "name": "CHRISTIE CRACKERS, 162-212 G",
-          "price": 2.33,
+          "price": 2.48,
           "pre_price_text": null,
           "post_price_text": "OVER LIMIT PAY 3.49 EA",
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439894679/1794015876/extra_large.jpg"
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440562256/1794612979/extra_large.jpg"
         },
         {
           "merchant": "No Frills",
-          "name": "PEPPERIDGE FARM GOLDFISH CRACKERS, 156-227 g/6x28 g",
+          "name": "CHRISTIE CRACKERS, 162-212 G",
           "price": 2.5,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439913034/1794594119/extra_large.jpg"
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440568890/1794627294/extra_large.jpg"
         },
         {
-          "merchant": "Loblaws",
-          "name": "BLACK DIAMOND COMBO, 129 G OR CRACKER BARREL CHEESE SPREAD, 200 G",
-          "price": 4.0,
+          "merchant": "Buy-Low Foods",
+          "name": "Cracker Barrel Cheese Slices",
+          "price": 5.0,
           "pre_price_text": null,
           "post_price_text": null,
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439942687/1794006324/extra_large.jpg"
-        },
-        {
-          "merchant": "Your Independent Grocer",
-          "name": "BLACK DIAMOND COMBO, 129 g, CRACKER BARREL CHEESE SPREAD, 200 g",
-          "price": 4.0,
-          "pre_price_text": null,
-          "post_price_text": null,
-          "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439957062/1794021059/extra_large.jpg"
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440536051/1794555672/extra_large.jpg"
         },
         {
           "merchant": "T&T Supermarket",
@@ -23494,15 +22606,37 @@
           "image_url": "https://f.wishabi.net/page_items/440418400/1794459457/extra_large.jpg"
         },
         {
+          "merchant": "Loblaws",
+          "name": "BLACK DIAMOND CHEESTRINGS OR CHEESE STICKS, 189-336 G OR CRACKER BARREL CHEESE BARS OR SHREDDED CHEESE, 250-400 G",
+          "price": 5.97,
+          "pre_price_text": null,
+          "post_price_text": null,
+          "sale_story": null,
+          "valid_from": "2026-11-19T07:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440555176/1794615270/extra_large.jpg"
+        },
+        {
+          "merchant": "Your Independent Grocer",
+          "name": "BLACK DIAMOND CHEESTRINGS OR CHEESE STICKS, 189-336 G OR CRACKER BARREL CHEESE BARS OR SHREDDED CHEESE, 250-400 G",
+          "price": 5.97,
+          "pre_price_text": null,
+          "post_price_text": null,
+          "sale_story": null,
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440585370/1794838418/extra_large.jpg"
+        },
+        {
           "merchant": "Nesters Market",
-          "name": "Cracker Barrel Cheese Slices",
-          "price": 5.99,
+          "name": "Eve's Crackers",
+          "price": 6.99,
           "pre_price_text": null,
           "post_price_text": "ea",
           "sale_story": null,
-          "valid_from": "2026-11-12T08:00:00+00:00",
-          "valid_to": "2026-11-19T04:59:59+00:00",
-          "image_url": "https://f.wishabi.net/page_items/439974405/1794052101/extra_large.jpg"
+          "valid_from": "2026-11-19T08:00:00+00:00",
+          "valid_to": "2026-11-26T04:59:59+00:00",
+          "image_url": "https://f.wishabi.net/page_items/440531001/1794556582/extra_large.jpg"
         },
         {
           "merchant": "Costco",
@@ -23517,10 +22651,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-08-21",
-          "best_price": 1.48
-        },
         {
           "date": "2026-08-22",
           "best_price": 1.48
@@ -23871,6 +23001,10 @@
         },
         {
           "date": "2026-11-18",
+          "best_price": 1.0
+        },
+        {
+          "date": "2026-11-19",
           "best_price": 1.0
         }
       ],
